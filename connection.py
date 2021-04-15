@@ -11,7 +11,7 @@ df_images_races_urls = pd.read_csv('inputs/csv/images.csv', delimiter="\t")
 
 messages_global = list()
 
-file = open('anecdotes.txt', "r")
+file = open('inputs/txt/anecdotes.txt', "r")
 anecdotes = list()
 for line in file.readlines():
     if "#" not in line :
@@ -151,6 +151,12 @@ async def on_message(message):
         await message.channel.send("J'ai trouvé ce résultat en %d secondes." % int(time.time() - start_time))
         return
 
+    if message.content.startswith('!projets'):
+        await message.channel.send('Tu veux connaître les prochaines fonctions qui arrivent ?')
+        await message.channel.send('Jette un oeil ici  : https://github.com/cedricmaigrot/Discord_laSPA/projects/1',
+                                   file=discord.File('inputs/images/work.gif'))
+
+
     if message.content.startswith('!data'):
         import time
         start_time = time.time()
@@ -266,8 +272,8 @@ async def on_message(message):
                                 role.position,
                                 role.tags])
                 df_roles = pd.DataFrame(lst, columns=["color", "colour", "created_at", "guild", "hoist", "id", "managed", "members", "mention", "mentionable", "name", "permissions", "position", "tags"])
-                df_roles.to_csv("roles.csv")
-                df_roles.to_excel("roles.xlsx")
+                df_roles.to_csv("outputs/csv/roles.csv")
+                df_roles.to_excel("outputs/xlsx/roles.xlsx")
                 df_merge = df_messages.merge(df_members, left_on='author', right_on='name',
                                              suffixes=('_messages', '_members'))
 
