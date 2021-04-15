@@ -8,10 +8,6 @@ import random
 import pickle
 
 df_images_races_urls = pd.read_csv('inputs/csv/images.csv', delimiter="\t")
-df_villes_fr = pd.read_csv('inputs/csv/villes_france.csv', delimiter="\t")
-df_villes_fr = df_villes_fr.rename(columns={'Longitude en degré': 'longitude', 'Latitude en degré': 'latitude'})
-BBox = (df_villes_fr.longitude.min(),   df_villes_fr.longitude.max(), df_villes_fr.latitude.min(), df_villes_fr.latitude.max())
-
 
 messages_global = list()
 
@@ -131,7 +127,7 @@ async def on_message(message):
                         shadow=True, startangle=90)
                 ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
                 plt.savefig("outputs/images/chart.png")
-                await message.channel.send('Il y a : {} jeunes, {} encadrants, {} référents et {} autres personnes.'.format(len(jeunes), len(encadrants), len(referents), len(autres)), file=discord.File('chart.png'))
+                await message.channel.send('Il y a : {} jeunes, {} encadrants, {} référents et {} autres personnes.'.format(len(jeunes), len(encadrants), len(referents), len(autres)), file=discord.File('outputs/images/chart.png'))
 
     if message.content.startswith('!messages'):
         import time
@@ -151,7 +147,7 @@ async def on_message(message):
         sns_plot.savefig("outputs/images/output.png")
 
         await message.channel.send('En tout, il y a {} messages.'.format(len(list(df['content']))))
-        await message.channel.send('Répartition dans les salons :', file=discord.File('output.png'))
+        await message.channel.send('Répartition dans les salons :', file=discord.File('outputs/images/output.png'))
         await message.channel.send("J'ai trouvé ce résultat en %d secondes." % int(time.time() - start_time))
         return
 
