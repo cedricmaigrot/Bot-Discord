@@ -8,7 +8,7 @@ import random
 import pickle
 
 df_images_races_urls = pd.read_csv('images.csv', delimiter="\t")
-df_villes_fr = pd.read_csv('villes_france.csv', delimiter="\t")
+df_villes_fr = pd.read_csv('inputs/csv/villes_france.csv', delimiter="\t")
 df_villes_fr = df_villes_fr.rename(columns={'Longitude en degré': 'longitude', 'Latitude en degré': 'latitude'})
 BBox = (df_villes_fr.longitude.min(),   df_villes_fr.longitude.max(), df_villes_fr.latitude.min(), df_villes_fr.latitude.max())
 
