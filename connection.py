@@ -7,7 +7,7 @@ import pandas as pd
 import random
 import pickle
 
-df_images_races_urls = pd.read_csv('images.csv', delimiter="\t")
+df_images_races_urls = pd.read_csv('inputs/csv/images.csv', delimiter="\t")
 df_villes_fr = pd.read_csv('inputs/csv/villes_france.csv', delimiter="\t")
 df_villes_fr = df_villes_fr.rename(columns={'Longitude en degré': 'longitude', 'Latitude en degré': 'latitude'})
 BBox = (df_villes_fr.longitude.min(),   df_villes_fr.longitude.max(), df_villes_fr.latitude.min(), df_villes_fr.latitude.max())
@@ -26,29 +26,29 @@ def comportement_ohana(message):
     responses = list()
     if random.randrange(100) < 10:
         if random.randrange(100) < 50:
-            responses.append(message.channel.send('*Ohana t\'ignore*', file=discord.File('osef_2.jpg')))
+            responses.append(message.channel.send('*Ohana t\'ignore*', file=discord.File('inputs/images/osef_2.jpg')))
         else:
-            responses.append(message.channel.send('*Ohana préfère jouer que t\'écouter*', file=discord.File('osef.jpg')))
+            responses.append(message.channel.send('*Ohana préfère jouer que t\'écouter*', file=discord.File('inputs/images/osef.jpg')))
         return responses
 
     if 'belle' in message.content.lower():
-        responses.append(message.channel.send('*Ohana fait la belle*', file=discord.File('belle.png')))
+        responses.append(message.channel.send('*Ohana fait la belle*', file=discord.File('inputs/images/belle.png')))
         return responses
 
     if 'assis' in message.content.lower():
-        responses.append(message.channel.send('*Ohana s\'assoit*', file=discord.File('assis.jpg')))
+        responses.append(message.channel.send('*Ohana s\'assoit*', file=discord.File('inputs/images/assis.jpg')))
         return responses
 
     if 'check' in message.content.lower() or 'high five' in message.content.lower():
-        responses.append(message.channel.send('*Ohana s\'assoit*', file=discord.File('check.jpg')))
+        responses.append(message.channel.send('*Ohana s\'assoit*', file=discord.File('inputs/images/check.jpg')))
         return responses
 
     if 'patte' in message.content.lower():
-        responses.append( message.channel.send('*Ohana donne la patte*', file=discord.File('patte.jpg')))
+        responses.append( message.channel.send('*Ohana donne la patte*', file=discord.File('inputs/images/patte.jpg')))
         return responses
 
     if 'couché' in message.content.lower():
-        responses.append( message.channel.send('*Ohana se couche*', file=discord.File('couche.jpg')))
+        responses.append( message.channel.send('*Ohana se couche*', file=discord.File('inputs/images/couche.jpg')))
         return responses
 
     if 'anecdote' in message.content.lower():
@@ -77,7 +77,7 @@ def comportement_ohana(message):
         return responses
 
     if 'ohana' in message.content.lower():
-        responses.append( message.channel.send('On parle de moi ?', file=discord.File('what.png')))
+        responses.append( message.channel.send('On parle de moi ?', file=discord.File('inputs/images/what.png')))
         return responses
 
 intents = discord.Intents.all()
@@ -130,7 +130,7 @@ async def on_message(message):
                 ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
                         shadow=True, startangle=90)
                 ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
-                plt.savefig("chart.png")
+                plt.savefig("outputs/images/chart.png")
                 await message.channel.send('Il y a : {} jeunes, {} encadrants, {} référents et {} autres personnes.'.format(len(jeunes), len(encadrants), len(referents), len(autres)), file=discord.File('chart.png'))
 
     if message.content.startswith('!messages'):
@@ -140,7 +140,7 @@ async def on_message(message):
         await message.channel.send('Bien reçu ! Je vais compter les messages.')
         await message.channel.send('Je reviens dans quelques secondes ...')
 
-        df = pd.read_csv("messages.csv")
+        df = pd.read_csv("outputs/csv/messages.csv")
 
         import seaborn as sns
         top_five = df['channel'].value_counts().keys()[:5]
@@ -148,7 +148,7 @@ async def on_message(message):
         sns_plot = sns.catplot(y="channel", kind="count",
                     palette="pastel", edgecolor=".6",
                     data=df_temp)
-        sns_plot.savefig("output.png")
+        sns_plot.savefig("outputs/images/output.png")
 
         await message.channel.send('En tout, il y a {} messages.'.format(len(list(df['content']))))
         await message.channel.send('Répartition dans les salons :', file=discord.File('output.png'))
@@ -172,8 +172,8 @@ async def on_message(message):
                     except:
                         pass
                 df_messages = pd.DataFrame(lst, columns=["activity", "application", "attachments", "author", "call", "channel", "channel_mentions", "clean_content", "content", "created_at", "edited_at", "embeds", "flags", "guild", "id", "jump_url", "mention_everyone", "mentions", "nonce", "pinned", "raw_channel_mentions", "raw_mentions", "raw_role_mentions", "reactions", "reference", "role_mentions", "stickers", "system_content", "tts", "type", "webhook_id"])
-                df_messages.to_csv("messages.csv")
-                df_messages.to_excel("messages.xlsx")
+                df_messages.to_csv("outputs/csv/messages.csv")
+                df_messages.to_excel("outputs/xlsx/messages.xlsx")
 
                 lst = list()
                 for member in guild.members:
@@ -249,8 +249,8 @@ async def on_message(message):
                                                         "top_role",
                                                         "voice",
                                                         "web_status"])
-                df_members.to_csv("members.csv")
-                df_members.to_excel("members.xlsx")
+                df_members.to_csv("outputs/csv/members.csv")
+                df_members.to_excel("outputs/xlsx/members.xlsx")
 
                 lst = list()
                 for role in guild.roles:
@@ -277,8 +277,8 @@ async def on_message(message):
 
                 df_merge = df_merge.merge(df_roles, left_on='top_role', right_on='name',
                                              suffixes=('', '_roles'))
-                df_merge.to_csv("merge.csv")
-                df_merge.to_excel("merge.xlsx")
+                df_merge.to_csv("outputs/csv/merge.csv")
+                df_merge.to_excel("outputs/xlsx/merge.xlsx")
         await message.channel.send('C\'est fait !')
         await message.channel.send("J'ai fait cela en %d secondes." % int(time.time() - start_time))
         return

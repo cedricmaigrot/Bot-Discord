@@ -8,15 +8,15 @@ cpt = dict()
 def preproc(x):
 	return x.replace("'", "").split(" ")[0]
 
-df_messages = pd.read_csv("messages.csv")
+df_messages = pd.read_csv("outputs/csv/messages.csv")
 df_messages['created_at_day'] = df_messages['created_at'].apply(preproc)
 
 def full_pseudo(x):
 	return "{0}#{1:04d}".format(x['name'], (int)(x['discriminator']))
-df_members = pd.read_csv("members.csv")
+df_members = pd.read_csv("outputs/csv/members.csv")
 df_members['full-pseudo'] = df_members.apply (lambda row: full_pseudo(row), axis=1)
 
-df_roles = pd.read_csv("roles.csv")
+df_roles = pd.read_csv("outputs/csv/roles.csv")
 
 
 df_merge = df_messages.merge(df_members, how='left',
