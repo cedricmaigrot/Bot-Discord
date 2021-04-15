@@ -283,5 +283,6 @@ async def on_message(message):
         await message.channel.send("J'ai fait cela en %d secondes." % int(time.time() - start_time))
         return
 
-client.run('ODE4NTY0MDI2MjM3NDUyMzUw.YEZ5KA.umYHhnjllHv1U19r4-imTUJpk_Q')
+import discordToken
+client.run(discordToken.DISCORD_TOKEN)
 
