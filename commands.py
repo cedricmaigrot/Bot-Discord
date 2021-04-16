@@ -8,7 +8,11 @@ import random
 import pickle
 
 async def commands(message, client):
-	if message.content.startswith('!utilisateurs'):
+	if message.content.startswith('>help'):
+		await message.channel.send(':robot: **!utilisateurs** : affiche des statistiques sur les utilisateurs du Discord.')
+		await message.channel.send(':robot: **!messages** : affiche des statistiques sur les messages postés sur le Discord.')
+
+	if message.content.startswith('>utilisateurs'):
 		await message.channel.send('Bien reçu ! Je vais inspecter les utilisateurs du Discord.')
 		jeunes, encadrants, referents, autres = list(), list(), list(), list()
 		for guild in client.guilds:
@@ -48,7 +52,7 @@ async def commands(message, client):
 																									 len(autres)),
 					file=discord.File('outputs/images/chart.png'))
 
-	if message.content.startswith('!messages'):
+	if message.content.startswith('>messages'):
 		import time
 		start_time = time.time()
 
@@ -70,17 +74,17 @@ async def commands(message, client):
 		await message.channel.send("J'ai trouvé ce résultat en %d secondes." % int(time.time() - start_time))
 		return
 
-	if message.content.startswith('!projets'):
+	if message.content.startswith('>projets'):
 		await message.channel.send('Tu veux faire ton propr veux connaître les prochaines fonctions qui arrivent ?')
 		await message.channel.send('Jette un oeil ici  : https://github.com/cedricmaigrot/Discord_laSPA/projects/1',
 							 file=discord.File('inputs/images/work.gif'))
 
-	if message.content.startswith('!algo'):
+	if message.content.startswith('>algo'):
 		await message.channel.send('Tu veux savoir comment je pense ? :robot:')
 		await message.channel.send('https://lucid.app/documents/view/a9109346-d490-4152-bafd-c8898eda02e2',
 							 file=discord.File('inputs/images/robot.gif'))
 
-	if message.content.startswith('!data'):
+	if message.content.startswith('>data'):
 		import time
 		start_time = time.time()
 		await message.channel.send('Bien reçu ! Je vais mémoriser les données.')

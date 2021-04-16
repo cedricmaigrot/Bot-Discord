@@ -24,7 +24,7 @@ async def on_message(message):
             await messages
         return
 
-    if message.content.startswith('!'):
+    if message.content.startswith('>'):
         await commands.commands(message, client)
 
 import discordToken
