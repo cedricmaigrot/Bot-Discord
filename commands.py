@@ -9,8 +9,10 @@ import pickle
 
 async def commands(message, client):
 	if message.content.startswith('>help'):
-		await message.channel.send(':robot: **!utilisateurs** : affiche des statistiques sur les utilisateurs du Discord.')
-		await message.channel.send(':robot: **!messages** : affiche des statistiques sur les messages postés sur le Discord.')
+		await message.channel.send(':bar_chart: **>utilisateurs** : affiche des statistiques sur les utilisateurs du Discord.')
+		await message.channel.send(':bar_chart: **>messages** : affiche des statistiques sur les messages postés sur le Discord.')
+		await message.channel.send(':calendar: **>projets** : affiche le lien vers la roadmap du bot.')
+		await message.channel.send(':calendar: **>algo** : affiche le lien vers le flowchart du bot.')
 
 	if message.content.startswith('>utilisateurs'):
 		await message.channel.send('Bien reçu ! Je vais inspecter les utilisateurs du Discord.')
@@ -75,9 +77,10 @@ async def commands(message, client):
 		return
 
 	if message.content.startswith('>projets'):
-		await message.channel.send('Tu veux faire ton propr veux connaître les prochaines fonctions qui arrivent ?')
-		await message.channel.send('Jette un oeil ici  : https://github.com/cedricmaigrot/Discord_laSPA/projects/1',
-							 file=discord.File('inputs/images/work.gif'))
+		await message.channel.send('Tu veux connaître les prochaines améliorations du bot ? Ca se passe ici !')
+		await message.channel.send('https://github.com/cedricmaigrot/Discord_laSPA/projects/1')
+		await message.channel.send('Tu veux faire ton propre bot comme <@818564026237452350> ? Le code est en open source !')
+		await message.channel.send(file=discord.File('inputs/images/work.gif'))
 
 	if message.content.startswith('>algo'):
 		await message.channel.send('Tu veux savoir comment je pense ? :robot:')
