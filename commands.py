@@ -71,7 +71,7 @@ async def commands(message, client):
 		return
 
 	if message.content.startswith('!projets'):
-		await message.channel.send('Tu veux connaître les prochaines fonctions qui arrivent ?')
+		await message.channel.send('Tu veux faire ton propr veux connaître les prochaines fonctions qui arrivent ?')
 		await message.channel.send('Jette un oeil ici  : https://github.com/cedricmaigrot/Discord_laSPA/projects/1',
 							 file=discord.File('inputs/images/work.gif'))
 
