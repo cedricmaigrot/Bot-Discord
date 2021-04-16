@@ -76,9 +76,9 @@ async def commands(message, client):
 							 file=discord.File('inputs/images/work.gif'))
 
 	if message.content.startswith('!algo'):
-		await message.channel.send('Tu veux connaître les prochaines fonctions qui arrivent ?')
-		await message.channel.send('Jette un oeil ici  : https://github.com/cedricmaigrot/Discord_laSPA/projects/1',
-							 file=discord.File('inputs/images/work.gif'))
+		await message.channel.send('Tu veux savoir comment je pense ? :robot:')
+		await message.channel.send('https://lucid.app/documents/view/a9109346-d490-4152-bafd-c8898eda02e2',
+							 file=discord.File('inputs/images/robot.gif'))
 
 	if message.content.startswith('!data'):
 		import time
