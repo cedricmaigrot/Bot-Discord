@@ -9,12 +9,27 @@ import pickle
 
 async def commands(message, client):
 	if message.content.startswith('>help'):
-		await message.channel.send(':bar_chart: **>utilisateurs** : affiche des statistiques sur les utilisateurs du Discord.')
-		await message.channel.send(':bar_chart: **>messages** : affiche des statistiques sur les messages postés sur le Discord.')
-		await message.channel.send(':calendar: **>projets** : affiche le lien vers la roadmap du bot.')
-		await message.channel.send(':calendar: **>algo** : affiche le lien vers le flowchart du bot.')
+		txt = ""
+		txt += "**FONCTIONS DE D\'ANIMATION DU DISCORD**\n"
+		txt += ':frame_photo: | **>race** : affiche une race d`une espèce aléatoire.\n'
+		txt += ':frame_photo: :dog: | **>race chien** : affiche une race de chien.\n'
+		txt += ':frame_photo: :cat: | **>race chat** : affiche une race de chat.\n'
+		txt += ':frame_photo: :horse: | **>race cheval** : affiche une race d\'équidé.\n'
+		txt += "\n"
+		txt += "**FONCTIONS DE GESTION DU DISCORD**\n"
+		txt += "-----------------------------------\n"
+		txt += ':bar_chart: **>utilisateurs** : affiche des statistiques sur les utilisateurs du Discord.\n'
+		txt += ':bar_chart: **>messages** : affiche des statistiques sur les messages postés sur le Discord.\n'
+		txt += ':calendar: **>algo** : affiche le lien vers le flowchart du bot.\n'
+		txt += ':calendar: **>projets** : affiche le lien vers la roadmap du bot.\n'
+		txt += ':computer: **>data** : regénère les fichiers de données pour mettre à jour les statistiques.\n'
+		await message.channel.send(txt)
 
 	if message.content.startswith('>utilisateurs'):
+		await message.channel.send('Cette fonction n\'est pas encore terminée. A bientôt !')
+		await message.channel.send(file=discord.File('inputs/images/work.gif'))
+		return
+
 		await message.channel.send('Bien reçu ! Je vais inspecter les utilisateurs du Discord.')
 		jeunes, encadrants, referents, autres = list(), list(), list(), list()
 		for guild in client.guilds:
