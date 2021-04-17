@@ -20,9 +20,7 @@ async def on_message(message):
         return
 
     if 'ohana' in message.content.lower():
-        for messages in talk.comportement_ohana(message):
-            await messages
-        return
+        await talk.comportement_ohana(message)
 
     if message.content.startswith('>'):
         await commands.commands(message, client)
