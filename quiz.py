@@ -19,7 +19,7 @@ def read_report(path, df_users):
 				dict = {'Quizz': Quizz, 'Question': Question, 'Username': Username, 'Answer': Answer, 'Time': Time, 'Points': Points}
 				df_question = pd.DataFrame(dict)
 				df_question = df_users.merge(df_question, left_on='Id', right_on='Username')
-				chart_classement(df_question, path=os.path.join("outputs/charts/	charts", quizz_id, "question_{:0>2d}.csv".format(numero_question)))
+				chart_classement(df_question, path=os.path.join("outputs/charts", quizz_id, "question_{:0>2d}.csv".format(numero_question)))
 				list_of_df_questions.append(df_question)
 			numero_question = (int)(line.split("### Question")[-1].split("/")[0])
 			Quizz, Question, Username, Answer, Time, Points = list(), list(), list(), list(), list(), list()
@@ -45,45 +45,45 @@ def read_report(path, df_users):
 		df_question = pd.DataFrame(dict)
 		df_question = df_users.merge(df_question, left_on='Id', right_on='Username')
 		chart_classement(df_question,
-						 path=os.path.join("outputs/charts/charts", quizz_id, "question_{:0>2d}.csv".format(numero_question)))
+						 path=os.path.join("outputs/charts", quizz_id, "question_{:0>2d}.csv".format(numero_question)))
 		list_of_df_questions.append(df_question)
 	df_fusion = pd.concat(list_of_df_questions)
 
 	# df_fusion = df_users.merge(df_fusion, left_on='Id', right_on='Username')
-	if not os.path.exists(os.path.join("outputs/charts/charts", quizz_id)):
-		os.makedirs(os.path.join("outputs/charts/charts", quizz_id))
+	if not os.path.exists(os.path.join("outputs/charts", quizz_id)):
+		os.makedirs(os.path.join("outputs/charts", quizz_id))
 	chart_classement(df_fusion,
-					 path=os.path.join("outputs/charts/charts", quizz_id, "main.csv"))
+					 path=os.path.join("outputs/charts", quizz_id, "main.csv"))
 
 	return quizz_id, quizz_date, df_fusion
 
-def chart_nombre_bonnes_reponses(df, path="outputs/charts/charts/nombre_bonnes_reponses.csv"):
+def chart_nombre_bonnes_reponses(df, path="outputs/charts/nombre_bonnes_reponses.csv"):
 	x = df[df["Points"]>0].groupby(['Username'])['Points'].count().sort_values(ascending=False)
 	x.to_csv(path)
 
-def chart_moyenne_points_par_question(df, path="outputs/charts/charts/moyenne_points_par_question.csv"):
+def chart_moyenne_points_par_question(df, path="outputs/charts/moyenne_points_par_question.csv"):
 	x = df[df["Points"]>0].groupby(['Username'])['Points'].mean().sort_values(ascending=False)
 	x.to_csv(path)
 
-def chart_moyenne_temps(df, path="outputs/charts/charts/moyenne_temps.csv"):
+def chart_moyenne_temps(df, path="outputs/charts/moyenne_temps.csv"):
 	x = df[df["Time"]>0].groupby(['Username'])['Time'].mean().sort_values(ascending=False)
 	x.to_csv(path)
 
-def chart_moyenne_temps_bonnes_reponses(df, path="outputs/charts/charts/moyenne_temps_bonnes_reponses.csv"):
+def chart_moyenne_temps_bonnes_reponses(df, path="outputs/charts/moyenne_temps_bonnes_reponses.csv"):
 	df_temp = df[df["Time"]>0]
 	x = df_temp[df_temp["Points"]>0].groupby(['Username'])['Time'].mean().sort_values(ascending=False)
 	x.to_csv(path)
 
-def chart_joueurs_par_refuge(df, path="outputs/charts/charts/joueurs_par_refuge.csv"):
+def chart_joueurs_par_refuge(df, path="outputs/charts/joueurs_par_refuge.csv"):
 	x = df.groupby(['CJ'])['Username'].nunique().sort_values(ascending=False)
 	x.to_csv(path)
 
 
-def chart_classement(df, path="outputs/charts/charts/classement.csv"):
+def chart_classement(df, path="outputs/charts/classement.csv"):
 	x = df.groupby(['Username', 'CJ'])['Points'].sum().sort_values(ascending=False)
 	x.to_csv(path)
 
-def chart_classement_par_refuge(df, path="outputs/charts/charts/classement_par_refuge.csv"):
+def chart_classement_par_refuge(df, path="outputs/charts/classement_par_refuge.csv"):
 	x = df.groupby(['CJ'])['Username'].nunique().sort_values(ascending=False)
 	list_refuges = list()
 	list_points = list()
@@ -199,7 +199,7 @@ def prepare_csv():
 	chart_classement_par_refuge(df)
 	for id in list_of_df_by_month:
 		df_month = pd.concat(list_of_df_by_month[id])
-		chart_nombre_bonnes_reponses(df, path="outputs/charts/charts/nombre_bonnes_reponses_{}.csv".format(id))
-		chart_classement(df_month, path="outputs/charts/charts/classement_{}.csv".format(id))
-		chart_classement_par_refuge(df_month, path="outputs/charts/charts/classement_par_refuge_{}.csv".format(id))
+		chart_nombre_bonnes_reponses(df, path="outputs/charts/nombre_bonnes_reponses_{}.csv".format(id))
+		chart_classement(df_month, path="outputs/charts/classement_{}.csv".format(id))
+		chart_classement_par_refuge(df_month, path="outputs/charts/classement_par_refuge_{}.csv".format(id))
 

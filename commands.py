@@ -162,6 +162,7 @@ async def commands(message, client):
 				df_messages.to_excel("outputs/xlsx/messages.xlsx")
 
 				lst = list()
+				list_roles = list()
 				for member in guild.members:
 					print("Member : " + member.name)
 					try:
@@ -199,6 +200,9 @@ async def commands(message, client):
 									member.top_role,
 									member.voice,
 									member.web_status])
+						for role in member.roles:
+							print(role)
+						list_roles.append()
 					except:
 						pass
 				df_members = pd.DataFrame(lst, columns=["activities",
@@ -268,6 +272,7 @@ async def commands(message, client):
 										  suffixes=('', '_roles'))
 				df_merge.to_csv("outputs/csv/merge.csv")
 				df_merge.to_excel("outputs/xlsx/merge.xlsx")
+				df_merge.to_html("outputs/merge.html")
 		await message.channel.send('C\'est fait !')
 		await message.channel.send("J'ai fait cela en %d secondes." % int(time.time() - start_time))
 		return
