@@ -1,0 +1,530 @@
+
+# QuizBot Results
+
+---------------------------------
+
+Start time: 2021-04-14 19:00:01.503722
+
+End time: 2021-04-14 19:13:30.045905
+
+Quiz: 2021 04 14 Devinez la race 4 (ID 525018)
+
+Session: 96548039
+
+---------------------------------
+
+## Questions
+
+### Question 1/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Percheron`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Percheron          | 0:00:05.607286  | 860             | 
+| Charlotte du CJ de le Garric#9861      | Percheron          | 0:00:06.157799  | 846             | 
+| Marinette CJ de Luynes#4290            | Percheron          | 0:00:06.854460  | 829             | 
+| Louve#1683                             | Français de Selle  | 0:00:06.764685  | 0               | 
+| Zoé- Forbach (57)#7769                 | N/A                | N/A             | N/A             | 
+| Erwan#0084                             | N/A                | N/A             | N/A             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | N/A                | N/A             | N/A             | 
+| paupau#2647                            | N/A                | N/A             | N/A             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | N/A                | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                | N/A             | N/A             | 
+
+### Question 2/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Cotentin`
+
+| Username                               | Answer               | Time            | Points awarded  | 
+| -------------------------------------- | -------------------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Cotentin             | 0:00:05.873600  | 853             | 
+| Louve#1683                             | Cotentin             | 0:00:08.924353  | 777             | 
+| Marinette CJ de Luynes#4290            | Cotentin             | 0:00:10.296765  | 743             | 
+| Charlotte du CJ de le Garric#9861      | Cotentin             | 0:00:10.445071  | 739             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Cotentin             | 0:00:10.777212  | 731             | 
+| Zoé- Forbach (57)#7769                 | Grand Noir du Berry  | 0:00:07.877356  | 0               | 
+| Erwan#0084                             | Trotteur Français    | 0:00:09.608350  | 0               | 
+| paupau#2647                            | N/A                  | N/A             | N/A             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | N/A                  | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                  | N/A             | N/A             | 
+
+### Question 3/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Barbe`
+
+| Username                               | Answer       | Time            | Points awarded  | 
+| -------------------------------------- | ------------ | --------------- | --------------- | 
+| paupau#2647                            | Barbe        | 0:00:10.195964  | 745             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Anglo-Arabe  | 0:00:09.076137  | 0               | 
+| Charlotte du CJ de le Garric#9861      | Anglo-Arabe  | 0:00:08.784595  | 0               | 
+| Louve#1683                             | Anglo-Arabe  | 0:00:08.995158  | 0               | 
+| Marinette CJ de Luynes#4290            | Anglo-Arabe  | 0:00:06.881662  | 0               | 
+| Zoé- Forbach (57)#7769                 | Boulonnais   | 0:00:08.514818  | 0               | 
+| Erwan#0084                             | Anglo-Arabe  | 0:00:09.183722  | 0               | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Anglo-Arabe  | 0:00:14.148730  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | N/A          | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A          | N/A             | N/A             | 
+
+### Question 4/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Espagnole`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Espagnole  | 0:00:02.691335  | 933             | 
+| Zoé- Forbach (57)#7769                 | Espagnole  | 0:00:03.852945  | 904             | 
+| Louve#1683                             | Espagnole  | 0:00:05.445059  | 864             | 
+| Marinette CJ de Luynes#4290            | Espagnole  | 0:00:06.204828  | 845             | 
+| paupau#2647                            | Espagnole  | 0:00:06.997838  | 825             | 
+| Erwan#0084                             | Espagnole  | 0:00:09.145253  | 771             | 
+| Charlotte du CJ de le Garric#9861      | Espagnole  | 0:00:11.543671  | 711             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Espagnole  | 0:00:12.884433  | 678             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | N/A        | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A        | N/A             | N/A             | 
+
+### Question 5/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Shagya`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| Erwan#0084                             | Shagya                  | 0:00:08.340555  | 791             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Akhal-Téké de Pur Sang  | 0:00:15.369148  | 0               | 
+| Charlotte du CJ de le Garric#9861      | Akhal-Téké de Pur Sang  | 0:00:08.272234  | 0               | 
+| Louve#1683                             | Provence                | 0:00:08.970261  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A                     | N/A             | N/A             | 
+| Zoé- Forbach (57)#7769                 | Akhal-Téké de Pur Sang  | 0:00:07.442829  | 0               | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Provence                | 0:00:12.584286  | 0               | 
+| paupau#2647                            | Provence                | 0:00:08.005530  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Akhal-Téké de Pur Sang  | 0:00:15.309879  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                     | N/A             | N/A             | 
+
+### Question 6/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Breton`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Breton     | 0:00:05.325066  | 867             | 
+| paupau#2647                            | Breton     | 0:00:06.603199  | 835             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Breton     | 0:00:06.769267  | 831             | 
+| Charlotte du CJ de le Garric#9861      | Breton     | 0:00:07.899130  | 803             | 
+| Louve#1683                             | Mérens     | 0:00:08.641629  | 0               | 
+| Marinette CJ de Luynes#4290            | Mérens     | 0:00:12.642166  | 0               | 
+| Zoé- Forbach (57)#7769                 | Mérens     | 0:00:07.417766  | 0               | 
+| Erwan#0084                             | Appaloosa  | 0:00:07.727293  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Appaloosa  | 0:00:10.195519  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A        | N/A             | N/A             | 
+
+### Question 7/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Camargue`
+
+| Username                               | Answer                                  | Time            | Points awarded  | 
+| -------------------------------------- | --------------------------------------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Camargue                                | 0:00:02.556721  | 936             | 
+| Erwan#0084                             | Camargue                                | 0:00:03.707547  | 907             | 
+| Marinette CJ de Luynes#4290            | Camargue                                | 0:00:04.823421  | 879             | 
+| Charlotte du CJ de le Garric#9861      | Camargue                                | 0:00:05.387700  | 865             | 
+| Zoé- Forbach (57)#7769                 | Camargue                                | 0:00:05.562893  | 861             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Camargue                                | 0:00:07.114958  | 822             | 
+| paupau#2647                            | Camargue                                | 0:00:07.230754  | 819             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Camargue                                | 0:00:07.397405  | 815             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Camargue                                | 0:00:10.532198  | 737             | 
+| Louve#1683                             | Cheval de pure race Franches-Montagnes  | 0:00:15.614409  | 0               | 
+
+### Question 8/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Auxois`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Auxois  | 0:00:04.453270  | 889             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Auxois  | 0:00:05.770782  | 856             | 
+| Zoé- Forbach (57)#7769                 | Auxois  | 0:00:07.939040  | 802             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Auxois  | 0:00:09.659089  | 759             | 
+| Erwan#0084                             | Auxois  | 0:00:09.858776  | 754             | 
+| Louve#1683                             | Auxois  | 0:00:10.237824  | 744             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Auxois  | 0:00:10.443040  | 739             | 
+| Marinette CJ de Luynes#4290            | Auxois  | 0:00:11.257891  | 719             | 
+| Charlotte du CJ de le Garric#9861      | Auxois  | 0:00:11.838760  | 704             | 
+| paupau#2647                            | Auxois  | 0:00:19.040924  | 524             | 
+
+### Question 9/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Islandais`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Islandais  | 0:00:02.999778  | 925             | 
+| Marinette CJ de Luynes#4290            | Islandais  | 0:00:05.008481  | 875             | 
+| Zoé- Forbach (57)#7769                 | Islandais  | 0:00:05.063160  | 873             | 
+| Charlotte du CJ de le Garric#9861      | Islandais  | 0:00:05.370886  | 866             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Islandais  | 0:00:13.841958  | 654             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Islandais  | 0:00:15.474686  | 613             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Dartmoor   | 0:00:02.948992  | 0               | 
+| Louve#1683                             | Dartmoor   | 0:00:05.880705  | 0               | 
+| Erwan#0084                             | Dartmoor   | 0:00:08.182985  | 0               | 
+| paupau#2647                            | Haflinger  | 0:00:04.747634  | 0               | 
+
+### Question 10/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Ariégeois de Castillon`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| Erwan#0084                             | Ariégeois de Castillon  | 0:00:07.461070  | 813             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Henson                  | 0:00:06.675335  | 0               | 
+| Charlotte du CJ de le Garric#9861      | Pottok                  | 0:00:05.949131  | 0               | 
+| Louve#1683                             | Pottok                  | 0:00:07.485577  | 0               | 
+| Marinette CJ de Luynes#4290            | Pottok                  | 0:00:09.453195  | 0               | 
+| Zoé- Forbach (57)#7769                 | Henson                  | 0:00:05.288262  | 0               | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Pottok                  | 0:00:17.913140  | 0               | 
+| paupau#2647                            | Pottok                  | 0:00:09.010309  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Lipizzan                | 0:00:05.975217  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Henson                  | 0:00:03.813530  | 0               | 
+
+### Question 11/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Shetland`
+
+| Username                               | Answer       | Time            | Points awarded  | 
+| -------------------------------------- | ------------ | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Shetland     | 0:00:03.328093  | 917             | 
+| Erwan#0084                             | Shetland     | 0:00:03.945781  | 901             | 
+| Marinette CJ de Luynes#4290            | Shetland     | 0:00:04.682041  | 883             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Shetland     | 0:00:09.461563  | 763             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Shetland     | 0:00:09.552651  | 761             | 
+| Charlotte du CJ de le Garric#9861      | Shetland     | 0:00:10.562193  | 736             | 
+| Louve#1683                             | Cob Normand  | 0:00:04.570948  | 0               | 
+| Zoé- Forbach (57)#7769                 | Appaloosa    | 0:00:05.088198  | 0               | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Cob Normand  | 0:00:02.726035  | 0               | 
+| paupau#2647                            | N/A          | N/A             | N/A             | 
+
+### Question 12/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Paint Horse`
+
+| Username                               | Answer       | Time            | Points awarded  | 
+| -------------------------------------- | ------------ | --------------- | --------------- | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Paint Horse  | 0:00:02.995553  | 925             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Paint Horse  | 0:00:03.141944  | 921             | 
+| Zoé- Forbach (57)#7769                 | Paint Horse  | 0:00:04.274945  | 893             | 
+| Louve#1683                             | Paint Horse  | 0:00:04.325148  | 892             | 
+| Marinette CJ de Luynes#4290            | Paint Horse  | 0:00:05.753238  | 856             | 
+| Erwan#0084                             | Paint Horse  | 0:00:06.090180  | 848             | 
+| Charlotte du CJ de le Garric#9861      | Paint Horse  | 0:00:06.912853  | 827             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Paint Horse  | 0:00:08.027127  | 799             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Paint Horse  | 0:00:08.139691  | 797             | 
+| paupau#2647                            | N/A          | N/A             | N/A             | 
+
+### Question 13/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Welsh`
+
+| Username                               | Answer    | Time            | Points awarded  | 
+| -------------------------------------- | --------- | --------------- | --------------- | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Welsh     | 0:00:03.240949  | 919             | 
+| Charlotte du CJ de le Garric#9861      | Welsh     | 0:00:04.611518  | 885             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Welsh     | 0:00:04.759823  | 881             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Welsh     | 0:00:05.519030  | 862             | 
+| Louve#1683                             | Welsh     | 0:00:05.957005  | 851             | 
+| Marinette CJ de Luynes#4290            | Welsh     | 0:00:07.700072  | 807             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Welsh     | 0:00:15.821207  | 604             | 
+| Zoé- Forbach (57)#7769                 | Pyrénées  | 0:00:07.307516  | 0               | 
+| Erwan#0084                             | Fjord     | 0:00:04.218236  | 0               | 
+| paupau#2647                            | N/A       | N/A             | N/A             | 
+
+### Question 14/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Frison`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Frison  | 0:00:02.757907  | 931             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Frison  | 0:00:02.815685  | 930             | 
+| Erwan#0084                             | Frison  | 0:00:04.219698  | 895             | 
+| Zoé- Forbach (57)#7769                 | Frison  | 0:00:04.246540  | 894             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Frison  | 0:00:05.949037  | 851             | 
+| Louve#1683                             | Frison  | 0:00:06.439558  | 839             | 
+| Marinette CJ de Luynes#4290            | Frison  | 0:00:07.737751  | 807             | 
+| Charlotte du CJ de le Garric#9861      | Frison  | 0:00:08.882902  | 778             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Frison  | 0:00:09.941730  | 751             | 
+| paupau#2647                            | N/A     | N/A             | N/A             | 
+
+### Question 15/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Quarter Horse`
+
+| Username                               | Answer         | Time            | Points awarded  | 
+| -------------------------------------- | -------------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Quarter Horse  | 0:00:03.125654  | 922             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Quarter Horse  | 0:00:03.565582  | 911             | 
+| Louve#1683                             | Quarter Horse  | 0:00:04.548925  | 886             | 
+| Erwan#0084                             | Quarter Horse  | 0:00:05.611650  | 860             | 
+| Marinette CJ de Luynes#4290            | Quarter Horse  | 0:00:08.945109  | 776             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Quarter Horse  | 0:00:09.823759  | 754             | 
+| Charlotte du CJ de le Garric#9861      | Quarter Horse  | 0:00:12.296350  | 693             | 
+| Zoé- Forbach (57)#7769                 | Normand        | 0:00:06.493314  | 0               | 
+| paupau#2647                            | N/A            | N/A             | N/A             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Lipizzan       | 0:00:06.309148  | 0               | 
+
+### Question 16/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Haflinger`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Haflinger  | 0:00:02.683248  | 933             | 
+| Erwan#0084                             | Haflinger  | 0:00:03.080348  | 923             | 
+| Zoé- Forbach (57)#7769                 | Haflinger  | 0:00:03.794893  | 905             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Haflinger  | 0:00:06.141186  | 846             | 
+| Charlotte du CJ de le Garric#9861      | Haflinger  | 0:00:07.562575  | 811             | 
+| Marinette CJ de Luynes#4290            | Haflinger  | 0:00:07.855471  | 804             | 
+| Louve#1683                             | Haflinger  | 0:00:09.070164  | 773             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Haflinger  | 0:00:11.316210  | 717             | 
+| paupau#2647                            | N/A        | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Normand    | 0:00:02.074415  | 0               | 
+
+### Question 17/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Trakehner`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Trakehner  | 0:00:03.370020  | 916             | 
+| Zoé- Forbach (57)#7769                 | Trakehner  | 0:00:04.648975  | 884             | 
+| Louve#1683                             | Trakehner  | 0:00:05.076673  | 873             | 
+| Erwan#0084                             | Trakehner  | 0:00:06.077478  | 848             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Trakehner  | 0:00:07.338036  | 817             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Trakehner  | 0:00:09.082030  | 773             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Trakehner  | 0:00:10.143013  | 746             | 
+| Charlotte du CJ de le Garric#9861      | Trakehner  | 0:00:11.030165  | 724             | 
+| Marinette CJ de Luynes#4290            | Islandais  | 0:00:12.954516  | 0               | 
+| paupau#2647                            | N/A        | N/A             | N/A             | 
+
+### Question 18/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Mérens`
+
+| Username                               | Answer               | Time            | Points awarded  | 
+| -------------------------------------- | -------------------- | --------------- | --------------- | 
+| Zoé- Forbach (57)#7769                 | Mérens               | 0:00:03.348568  | 916             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Mérens               | 0:00:03.964130  | 901             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Mérens               | 0:00:04.813966  | 880             | 
+| Charlotte du CJ de le Garric#9861      | Mérens               | 0:00:05.937471  | 852             | 
+| Marinette CJ de Luynes#4290            | Mérens               | 0:00:09.384708  | 765             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Mérens               | 0:00:16.180319  | 595             | 
+| Louve#1683                             | Grand Noir du Berry  | 0:00:03.753864  | 0               | 
+| Erwan#0084                             | Grand Noir du Berry  | 0:00:03.436677  | 0               | 
+| paupau#2647                            | N/A                  | N/A             | N/A             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Connemara            | 0:00:06.674276  | 0               | 
+
+### Question 19/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Bourbonnais`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Bourbonnais        | 0:00:02.979318  | 926             | 
+| Zoé- Forbach (57)#7769                 | Bourbonnais        | 0:00:03.562041  | 911             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Bourbonnais        | 0:00:03.678343  | 908             | 
+| Louve#1683                             | Bourbonnais        | 0:00:03.843025  | 904             | 
+| Charlotte du CJ de le Garric#9861      | Bourbonnais        | 0:00:04.621794  | 884             | 
+| Marinette CJ de Luynes#4290            | Bourbonnais        | 0:00:07.202807  | 820             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Bourbonnais        | 0:00:08.554368  | 786             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Bourbonnais        | 0:00:09.081005  | 773             | 
+| Erwan#0084                             | Trotteur Français  | 0:00:03.656587  | 0               | 
+| paupau#2647                            | N/A                | N/A             | N/A             | 
+
+### Question 20/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Cheval mulassier du Poitou`
+
+| Username                               | Answer                      | Time            | Points awarded  | 
+| -------------------------------------- | --------------------------- | --------------- | --------------- | 
+| Marinette CJ de Luynes#4290            | Cheval mulassier du Poitou  | 0:00:04.849885  | 879             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Cheval mulassier du Poitou  | 0:00:05.219468  | 870             | 
+| Erwan#0084                             | Cheval mulassier du Poitou  | 0:00:05.198251  | 870             | 
+| Charlotte du CJ de le Garric#9861      | Cheval mulassier du Poitou  | 0:00:06.643376  | 834             | 
+| Zoé- Forbach (57)#7769                 | Cheval mulassier du Poitou  | 0:00:06.745745  | 831             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Cheval mulassier du Poitou  | 0:00:08.891206  | 778             | 
+| Louve#1683                             | Cheval mulassier du Poitou  | 0:00:11.853745  | 704             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Cheval mulassier du Poitou  | 0:00:11.981189  | 700             | 
+| paupau#2647                            | N/A                         | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Boulonnais                  | 0:00:03.117524  | 0               | 
+
+### Question 21/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Crème`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Zoé- Forbach (57)#7769                 | Crème   | 0:00:05.268838  | 868             | 
+| Marinette CJ de Luynes#4290            | Crème   | 0:00:08.333609  | 792             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Arabe   | 0:00:06.568066  | 0               | 
+| Charlotte du CJ de le Garric#9861      | Arabe   | 0:00:05.002723  | 0               | 
+| Louve#1683                             | Arabe   | 0:00:07.764752  | 0               | 
+| Erwan#0084                             | Arabe   | 0:00:03.808861  | 0               | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Arabe   | 0:00:10.868692  | 0               | 
+| paupau#2647                            | N/A     | N/A             | N/A             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Arabe   | 0:00:08.803930  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Arabe   | 0:00:08.586373  | 0               | 
+
+### Question 22/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Arabe`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Zoé- Forbach (57)#7769                 | Arabe      | 0:00:05.061505  | 873             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Henson     | 0:00:05.962907  | 0               | 
+| Charlotte du CJ de le Garric#9861      | Henson     | 0:00:03.768635  | 0               | 
+| Louve#1683                             | Henson     | 0:00:04.776182  | 0               | 
+| Marinette CJ de Luynes#4290            | Henson     | 0:00:10.708794  | 0               | 
+| Erwan#0084                             | Henson     | 0:00:07.312236  | 0               | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Connemara  | 0:00:09.026380  | 0               | 
+| paupau#2647                            | N/A        | N/A             | N/A             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Henson     | 0:00:07.949343  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Henson     | 0:00:04.209628  | 0               | 
+
+### Question 23/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Cob Normand`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Cob Normand       | 0:00:04.358454  | 891             | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Cob Normand       | 0:00:05.980811  | 850             | 
+| Zoé- Forbach (57)#7769                 | Cob Normand       | 0:00:06.186223  | 845             | 
+| Charlotte du CJ de le Garric#9861      | Cob Normand       | 0:00:07.259922  | 819             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Cob Normand       | 0:00:11.517257  | 712             | 
+| Marinette CJ de Luynes#4290            | Cob Normand       | 0:00:12.026568  | 699             | 
+| Louve#1683                             | Baudet du Poitou  | 0:00:07.764625  | 0               | 
+| Erwan#0084                             | Pur-Sang          | 0:00:02.950498  | 0               | 
+| paupau#2647                            | N/A               | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Baudet du Poitou  | 0:00:04.141976  | 0               | 
+
+### Question 24/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Henson`
+
+| Username                               | Answer                      | Time            | Points awarded  | 
+| -------------------------------------- | --------------------------- | --------------- | --------------- | 
+| Charlotte du CJ de le Garric#9861      | Henson                      | 0:00:08.425129  | 789             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Highland                    | 0:00:03.200705  | 0               | 
+| Louve#1683                             | Highland                    | 0:00:04.055989  | 0               | 
+| Marinette CJ de Luynes#4290            | Highland                    | 0:00:10.545952  | 0               | 
+| Zoé- Forbach (57)#7769                 | Cheval mulassier du Poitou  | 0:00:07.150645  | 0               | 
+| Erwan#0084                             | Highland                    | 0:00:06.577766  | 0               | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Highland                    | 0:00:07.217326  | 0               | 
+| paupau#2647                            | N/A                         | N/A             | N/A             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Highland                    | 0:00:09.725994  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Highland                    | 0:00:05.604486  | 0               | 
+
+### Question 25/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Pyrénées`
+
+| Username                               | Answer    | Time            | Points awarded  | 
+| -------------------------------------- | --------- | --------------- | --------------- | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Pyrénées  | 0:00:16.918891  | 577             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Cotentin  | 0:00:03.034783  | 0               | 
+| Charlotte du CJ de le Garric#9861      | Cotentin  | 0:00:05.495416  | 0               | 
+| Louve#1683                             | Cotentin  | 0:00:04.920676  | 0               | 
+| Marinette CJ de Luynes#4290            | Cotentin  | 0:00:09.396300  | 0               | 
+| Zoé- Forbach (57)#7769                 | Cotentin  | 0:00:04.689886  | 0               | 
+| Erwan#0084                             | Cotentin  | 0:00:07.642156  | 0               | 
+| Mathéa.s de Yvré l'éveque 72#3239      | Cotentin  | 0:00:06.328315  | 0               | 
+| paupau#2647                            | N/A       | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Cotentin  | 0:00:06.446478  | 0               | 
+
+---------------------------------
+
+## Final leaderboard
+
+There were a total of 25 questions in this quiz.
+
+10 users participated.
+
+| #   | Username                               | Nickname                       | Points  | Correct  | Answered  | 
+| --- | -------------------------------------- | ------------------------------ | ------- | -------- | --------- | 
+| 1   | Margau CJ de Vaux-le-Pénil#1974        | Margau - Vaux-le-Pénil (77)    | 15293   | 17       | 25        | 
+| 2   | Charlotte du CJ de le Garric#9861      | Charlotte - Le Garric (81)     | 15166   | 19       | 25        | 
+| 3   | Marinette CJ de Luynes#4290            | Marinette - Luynes (37)        | 13778   | 17       | 24        | 
+| 4   | Zoé- Forbach (57)#7769                 |                                | 12260   | 14       | 24        | 
+| 5   | Mathéa.s de Yvré l'éveque 72#3239      | Mathéa.s - Yvré l'Évêque (72)  | 12256   | 16       | 24        | 
+| 6   | Erwan#0084                             | Erwan - Châteaubourg (35)      | 10181   | 12       | 24        | 
+| 7   | Anaïs CJ de Saint Pierre du Mont#1284  | Anaïs - SPDM (40)              | 9701    | 11       | 19        | 
+| 8   | Cécile Encadrante CJ Luynes (37)#4741  | Cécile - Luynes (37)           | 9342    | 13       | 21        | 
+| 9   | Louve#1683                             | Laureline - Plaisir (78)       | 9107    | 11       | 25        | 
+| 10  | paupau#2647                            | Pauline - Forbach (57)         | 3748    | 5        | 8         | 
+
+---------------------------------
+
+## Links
+
+Thank you for supporting and using the bot.
+
+[Vote for the bot](https://top.gg/bot/558996910581612545/vote?src=qbResultsFile)
+
+[QuizBot website](https://quizbot.xyz/)
+
+[Invite the bot](https://ihxyz.dev/bots/qb?src=qbResultsFile)
+
+[ihxyz development](https://ihxyz.dev/)
+
+[Support server](https://ihxyz.dev/bots/support)
+
+---------------------------------

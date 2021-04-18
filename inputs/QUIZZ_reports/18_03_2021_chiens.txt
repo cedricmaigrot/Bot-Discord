@@ -1,0 +1,498 @@
+
+# QuizBot Results
+
+---------------------------------
+
+Start time: 2021-03-18 19:00:01.408417
+
+End time: 2021-03-18 19:13:18.689785
+
+Quiz: Quizz Image - Races de chien (ID 5163970)
+
+Session: 92490073
+
+---------------------------------
+
+## Questions
+
+### Question 1/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Whippet`
+
+| Username                               | Answer          | Time            | Points awarded  | 
+| -------------------------------------- | --------------- | --------------- | --------------- | 
+| Erwan#0084                             | Whippet         | 0:00:07.267066  | 879             | 
+| imogen CJ de briancon#1398             | Lévrier afghan  | 0:00:06.539804  | 0               | 
+| Héléna CJ de Laon#0749                 | Lévrier afghan  | 0:00:07.948771  | 0               | 
+| lilou#0184                             | Lévrier afghan  | 0:00:11.939192  | 0               | 
+| soizic du CJ de la roche sur yon#8969  | Lévrier afghan  | 0:00:13.621156  | 0               | 
+| Charlotte du CJ de le Garric#9861      | Lévrier afghan  | 0:00:14.830117  | 0               | 
+| Elina CJ d'Yvré L'Évêque#0489          | N/A             | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A             | N/A             | N/A             | 
+| Cassie du CJ de Chamarande#4125        | N/A             | N/A             | N/A             | 
+| Loane#5676                             | N/A             | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A             | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A             | N/A             | N/A             | 
+| Cécile G#4741                          | N/A             | N/A             | N/A             | 
+
+### Question 2/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Chihuahua`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Héléna CJ de Laon#0749                 | Chihuahua  | 0:00:05.979208  | 900             | 
+| soizic du CJ de la roche sur yon#8969  | Chihuahua  | 0:00:07.018087  | 883             | 
+| Erwan#0084                             | Chihuahua  | 0:00:09.049876  | 849             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Chihuahua  | 0:00:10.030054  | 833             | 
+| imogen CJ de briancon#1398             | Chihuahua  | 0:00:14.893137  | 752             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Chihuahua  | 0:00:15.001559  | 750             | 
+| Charlotte du CJ de le Garric#9861      | Chihuahua  | 0:00:16.869752  | 719             | 
+| lilou#0184                             | Chihuahua  | 0:00:17.692330  | 705             | 
+| Cassie du CJ de Chamarande#4125        | N/A        | N/A             | N/A             | 
+| Loane#5676                             | N/A        | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A        | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A        | N/A             | N/A             | 
+| Cécile G#4741                          | N/A        | N/A             | N/A             | 
+
+### Question 3/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Boxer`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Clémentine CJ SaintPierreDuMont#3516   | Boxer   | 0:00:02.897797  | 952             | 
+| Héléna CJ de Laon#0749                 | Boxer   | 0:00:03.004999  | 950             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Boxer   | 0:00:04.123238  | 931             | 
+| soizic du CJ de la roche sur yon#8969  | Boxer   | 0:00:04.219104  | 930             | 
+| Charlotte du CJ de le Garric#9861      | Boxer   | 0:00:06.630858  | 889             | 
+| lilou#0184                             | Boxer   | 0:00:08.223869  | 863             | 
+| imogen CJ de briancon#1398             | Boxer   | 0:00:09.486895  | 842             | 
+| Erwan#0084                             | Boxer   | 0:00:11.527276  | 808             | 
+| Cassie du CJ de Chamarande#4125        | N/A     | N/A             | N/A             | 
+| Loane#5676                             | N/A     | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A     | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A     | N/A             | N/A             | 
+| Cécile G#4741                          | N/A     | N/A             | N/A             | 
+
+### Question 4/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Rottweiler`
+
+| Username                               | Answer      | Time            | Points awarded  | 
+| -------------------------------------- | ----------- | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | Rottweiler  | 0:00:03.719759  | 938             | 
+| soizic du CJ de la roche sur yon#8969  | Rottweiler  | 0:00:04.222402  | 930             | 
+| Charlotte du CJ de le Garric#9861      | Rottweiler  | 0:00:04.754375  | 921             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Rottweiler  | 0:00:04.945398  | 918             | 
+| Héléna CJ de Laon#0749                 | Rottweiler  | 0:00:05.400725  | 910             | 
+| Erwan#0084                             | Rottweiler  | 0:00:05.827105  | 903             | 
+| lilou#0184                             | Rottweiler  | 0:00:08.463898  | 859             | 
+| imogen CJ de briancon#1398             | Rottweiler  | 0:00:16.099145  | 732             | 
+| Cassie du CJ de Chamarande#4125        | N/A         | N/A             | N/A             | 
+| Loane#5676                             | N/A         | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A         | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A         | N/A             | N/A             | 
+| Cécile G#4741                          | N/A         | N/A             | N/A             | 
+
+### Question 5/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Border collie`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| Clémentine CJ SaintPierreDuMont#3516   | Border collie       | 0:00:03.731978  | 938             | 
+| Héléna CJ de Laon#0749                 | Border collie       | 0:00:04.452638  | 926             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Border collie       | 0:00:04.588189  | 924             | 
+| imogen CJ de briancon#1398             | Border collie       | 0:00:06.140305  | 898             | 
+| soizic du CJ de la roche sur yon#8969  | Border collie       | 0:00:07.031333  | 883             | 
+| Erwan#0084                             | Border collie       | 0:00:09.385435  | 844             | 
+| lilou#0184                             | Collie a poil long  | 0:00:08.069671  | 0               | 
+| Charlotte du CJ de le Garric#9861      | Collie a poil long  | 0:00:08.271549  | 0               | 
+| Cassie du CJ de Chamarande#4125        | N/A                 | N/A             | N/A             | 
+| Loane#5676                             | N/A                 | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A                 | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                 | N/A             | N/A             | 
+| Cécile G#4741                          | N/A                 | N/A             | N/A             | 
+
+### Question 6/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Staffordshire bull terrier`
+
+| Username                               | Answer                          | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------------- | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | Staffordshire bull terrier      | 0:00:07.590188  | 873             | 
+| lilou#0184                             | Staffordshire bull terrier      | 0:00:14.350951  | 761             | 
+| imogen CJ de briancon#1398             | American staffordshire terrier  | 0:00:21.706421  | 0               | 
+| Erwan#0084                             | American staffordshire terrier  | 0:00:16.876035  | 0               | 
+| Héléna CJ de Laon#0749                 | American staffordshire terrier  | 0:00:08.117028  | 0               | 
+| soizic du CJ de la roche sur yon#8969  | American staffordshire terrier  | 0:00:17.040112  | 0               | 
+| Charlotte du CJ de le Garric#9861      | American staffordshire terrier  | 0:00:12.910153  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | American staffordshire terrier  | 0:00:10.082738  | 0               | 
+| Cassie du CJ de Chamarande#4125        | N/A                             | N/A             | N/A             | 
+| Loane#5676                             | N/A                             | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A                             | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                             | N/A             | N/A             | 
+| Cécile G#4741                          | N/A                             | N/A             | N/A             | 
+
+### Question 7/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Collie barbu`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| Clémentine CJ SaintPierreDuMont#3516   | Collie barbu        | 0:00:13.159561  | 781             | 
+| Erwan#0084                             | Collie barbu        | 0:00:16.516445  | 725             | 
+| imogen CJ de briancon#1398             | Collie a poil long  | 0:00:07.573819  | 0               | 
+| Héléna CJ de Laon#0749                 | N/A                 | N/A             | N/A             | 
+| lilou#0184                             | N/A                 | N/A             | N/A             | 
+| soizic du CJ de la roche sur yon#8969  | Collie a poil long  | 0:00:06.383297  | 0               | 
+| Charlotte du CJ de le Garric#9861      | Collie a poil long  | 0:00:10.619390  | 0               | 
+| Elina CJ d'Yvré L'Évêque#0489          | Collie a poil long  | 0:00:06.584347  | 0               | 
+| Cassie du CJ de Chamarande#4125        | N/A                 | N/A             | N/A             | 
+| Loane#5676                             | N/A                 | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A                 | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                 | N/A             | N/A             | 
+| Cécile G#4741                          | N/A                 | N/A             | N/A             | 
+
+### Question 8/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Xoloitzcuintle`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| imogen CJ de briancon#1398             | Basenji            | 0:00:11.399357  | 0               | 
+| Erwan#0084                             | Basenji            | 0:00:03.937443  | 0               | 
+| Héléna CJ de Laon#0749                 | Lévrier afghan     | 0:00:05.744852  | 0               | 
+| lilou#0184                             | N/A                | N/A             | N/A             | 
+| soizic du CJ de la roche sur yon#8969  | Basenji            | 0:00:24.303933  | 0               | 
+| Charlotte du CJ de le Garric#9861      | Chien nu du perou  | 0:00:08.310247  | 0               | 
+| Elina CJ d'Yvré L'Évêque#0489          | Chien nu du perou  | 0:00:03.727496  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | Basenji            | 0:00:12.885751  | 0               | 
+| Cassie du CJ de Chamarande#4125        | N/A                | N/A             | N/A             | 
+| Loane#5676                             | N/A                | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A                | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                | N/A             | N/A             | 
+| Cécile G#4741                          | N/A                | N/A             | N/A             | 
+
+### Question 9/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Retriever golden`
+
+| Username                               | Answer                 | Time            | Points awarded  | 
+| -------------------------------------- | ---------------------- | --------------- | --------------- | 
+| Charlotte du CJ de le Garric#9861      | Retriever golden       | 0:00:05.033434  | 916             | 
+| Cassie du CJ de Chamarande#4125        | Retriever golden       | 0:00:05.258270  | 912             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Retriever golden       | 0:00:05.837058  | 903             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Retriever golden       | 0:00:06.682345  | 889             | 
+| Héléna CJ de Laon#0749                 | Retriever golden       | 0:00:08.905676  | 852             | 
+| imogen CJ de briancon#1398             | Retriever golden       | 0:00:09.400126  | 843             | 
+| soizic du CJ de la roche sur yon#8969  | Retriever golden       | 0:00:13.540882  | 774             | 
+| Erwan#0084                             | Retriever du labrador  | 0:00:04.546927  | 0               | 
+| lilou#0184                             | N/A                    | N/A             | N/A             | 
+| Loane#5676                             | N/A                    | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A                    | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                    | N/A             | N/A             | 
+| Cécile G#4741                          | N/A                    | N/A             | N/A             | 
+
+### Question 10/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Chien loup tchecoslovaque`
+
+| Username                               | Answer                     | Time            | Points awarded  | 
+| -------------------------------------- | -------------------------- | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | Chien loup tchecoslovaque  | 0:00:04.596412  | 923             | 
+| Héléna CJ de Laon#0749                 | Chien loup tchecoslovaque  | 0:00:05.374024  | 910             | 
+| soizic du CJ de la roche sur yon#8969  | Chien loup tchecoslovaque  | 0:00:05.813912  | 903             | 
+| imogen CJ de briancon#1398             | Chien loup tchecoslovaque  | 0:00:07.297632  | 878             | 
+| Cassie du CJ de Chamarande#4125        | Chien loup tchecoslovaque  | 0:00:07.320972  | 878             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Chien loup tchecoslovaque  | 0:00:08.426749  | 860             | 
+| Charlotte du CJ de le Garric#9861      | Chien loup tchecoslovaque  | 0:00:11.228379  | 813             | 
+| Erwan#0084                             | Chien loup tchecoslovaque  | 0:00:15.480834  | 742             | 
+| lilou#0184                             | N/A                        | N/A             | N/A             | 
+| Loane#5676                             | N/A                        | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A                        | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                        | N/A             | N/A             | 
+| Cécile G#4741                          | N/A                        | N/A             | N/A             | 
+
+### Question 11/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Berger belge`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Cassie du CJ de Chamarande#4125        | Berger belge       | 0:00:07.008420  | 883             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Berger belge       | 0:00:08.331813  | 861             | 
+| imogen CJ de briancon#1398             | Berger belge       | 0:00:12.863234  | 786             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Berger belge       | 0:00:23.306039  | 612             | 
+| Erwan#0084                             | Berger hollandais  | 0:00:05.474796  | 0               | 
+| Héléna CJ de Laon#0749                 | Berger hollandais  | 0:00:18.263248  | 0               | 
+| lilou#0184                             | N/A                | N/A             | N/A             | 
+| soizic du CJ de la roche sur yon#8969  | Berger australien  | 0:00:19.096737  | 0               | 
+| Charlotte du CJ de le Garric#9861      | Berger allemand    | 0:00:06.021189  | 0               | 
+| Loane#5676                             | N/A                | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A                | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                | N/A             | N/A             | 
+| Cécile G#4741                          | N/A                | N/A             | N/A             | 
+
+### Question 12/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Chien d'arrêt allemand à poil long`
+
+| Username                               | Answer                               | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------------------ | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | Chien d'arrêt allemand à poil long   | 0:00:07.445231  | 876             | 
+| Loane#5676                             | Chien d'arrêt allemand à poil long   | 0:00:11.763433  | 804             | 
+| Charlotte du CJ de le Garric#9861      | Chien d'arrêt allemand à poil long   | 0:00:14.621575  | 756             | 
+| Cassie du CJ de Chamarande#4125        | Chien d'arrêt allemand à poil long   | 0:00:20.036870  | 666             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Chien d'arrêt allemand à poil long   | 0:00:23.731981  | 604             | 
+| imogen CJ de briancon#1398             | N/A                                  | N/A             | N/A             | 
+| Erwan#0084                             | Chien d'arret allemand a poil dur    | 0:00:15.525230  | 0               | 
+| Héléna CJ de Laon#0749                 | Chien d'arret allemand a poil raide  | 0:00:24.536594  | 0               | 
+| lilou#0184                             | N/A                                  | N/A             | N/A             | 
+| soizic du CJ de la roche sur yon#8969  | Chien d'arret allemand a poil raide  | 0:00:12.438645  | 0               | 
+| Alma CJ de Bordeaux#1871               | N/A                                  | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                                  | N/A             | N/A             | 
+| Cécile G#4741                          | N/A                                  | N/A             | N/A             | 
+
+### Question 13/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Coton de tulear`
+
+| Username                               | Answer           | Time            | Points awarded  | 
+| -------------------------------------- | ---------------- | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | Coton de tulear  | 0:00:06.492456  | 892             | 
+| imogen CJ de briancon#1398             | Bichon bolonais  | 0:00:20.749270  | 0               | 
+| Erwan#0084                             | Bichon bolonais  | 0:00:17.745332  | 0               | 
+| Héléna CJ de Laon#0749                 | N/A              | N/A             | N/A             | 
+| lilou#0184                             | N/A              | N/A             | N/A             | 
+| soizic du CJ de la roche sur yon#8969  | Bichon bolonais  | 0:00:06.166716  | 0               | 
+| Charlotte du CJ de le Garric#9861      | Bichon bolonais  | 0:00:15.532455  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | Bichon bolonais  | 0:00:17.492401  | 0               | 
+| Cassie du CJ de Chamarande#4125        | Bichon bolonais  | 0:00:15.956786  | 0               | 
+| Loane#5676                             | N/A              | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A              | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A              | N/A             | N/A             | 
+| Cécile G#4741                          | N/A              | N/A             | N/A             | 
+
+### Question 14/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Chien de berger kangal`
+
+| Username                               | Answer                          | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------------- | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | Chien de berger kangal          | 0:00:12.462854  | 792             | 
+| imogen CJ de briancon#1398             | Chien de berger kangal          | 0:00:14.288983  | 762             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Chien de berger kangal          | 0:00:15.331685  | 744             | 
+| Charlotte du CJ de le Garric#9861      | Chien de berger kangal          | 0:00:15.614069  | 740             | 
+| Erwan#0084                             | Leonberg                        | 0:00:15.713186  | 0               | 
+| Héléna CJ de Laon#0749                 | N/A                             | N/A             | N/A             | 
+| lilou#0184                             | N/A                             | N/A             | N/A             | 
+| soizic du CJ de la roche sur yon#8969  | Leonberg                        | 0:00:06.852032  | 0               | 
+| Cassie du CJ de Chamarande#4125        | Chien de montagne des Pyrénées  | 0:00:05.782658  | 0               | 
+| Loane#5676                             | N/A                             | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A                             | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                             | N/A             | N/A             | 
+| Cécile G#4741                          | N/A                             | N/A             | N/A             | 
+
+### Question 15/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Tosa Inu`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | Tosa Inu                | 0:00:07.855620  | 869             | 
+| soizic du CJ de la roche sur yon#8969  | Tosa Inu                | 0:00:08.626739  | 856             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Tosa Inu                | 0:00:10.773866  | 820             | 
+| Héléna CJ de Laon#0749                 | Tosa Inu                | 0:00:11.515066  | 808             | 
+| Charlotte du CJ de le Garric#9861      | Tosa Inu                | 0:00:18.174796  | 697             | 
+| imogen CJ de briancon#1398             | Tosa Inu                | 0:00:21.111441  | 648             | 
+| Cassie du CJ de Chamarande#4125        | Tosa Inu                | 0:00:22.356988  | 627             | 
+| Erwan#0084                             | Chien de berger kangal  | 0:00:07.826549  | 0               | 
+| lilou#0184                             | N/A                     | N/A             | N/A             | 
+| Loane#5676                             | N/A                     | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A                     | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                     | N/A             | N/A             | 
+| Cécile G#4741                          | N/A                     | N/A             | N/A             | 
+
+### Question 16/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Samoyède`
+
+| Username                               | Answer                | Time            | Points awarded  | 
+| -------------------------------------- | --------------------- | --------------- | --------------- | 
+| Erwan#0084                             | Samoyède              | 0:00:07.292670  | 878             | 
+| imogen CJ de briancon#1398             | Samoyède              | 0:00:15.771861  | 737             | 
+| Charlotte du CJ de le Garric#9861      | Samoyède              | 0:00:17.832578  | 703             | 
+| Héléna CJ de Laon#0749                 | Malamute de l'alaska  | 0:00:07.539386  | 0               | 
+| lilou#0184                             | N/A                   | N/A             | N/A             | 
+| soizic du CJ de la roche sur yon#8969  | Malamute de l'alaska  | 0:00:09.236973  | 0               | 
+| Elina CJ d'Yvré L'Évêque#0489          | Chow chow             | 0:00:07.744855  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | Malamute de l'alaska  | 0:00:08.128681  | 0               | 
+| Cassie du CJ de Chamarande#4125        | Malamute de l'alaska  | 0:00:11.493791  | 0               | 
+| Loane#5676                             | N/A                   | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | Malamute de l'alaska  | 0:00:08.106204  | 0               | 
+| Aiglor009#3918                         | N/A                   | N/A             | N/A             | 
+| Cécile G#4741                          | N/A                   | N/A             | N/A             | 
+
+### Question 17/20
+
+`Quelle est cette race`
+
+Correct answer: `Beagle`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | Beagle  | 0:00:02.818402  | 953             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Beagle  | 0:00:03.162061  | 947             | 
+| soizic du CJ de la roche sur yon#8969  | Beagle  | 0:00:03.338994  | 944             | 
+| Cassie du CJ de Chamarande#4125        | Beagle  | 0:00:03.371746  | 944             | 
+| imogen CJ de briancon#1398             | Beagle  | 0:00:03.747012  | 938             | 
+| Erwan#0084                             | Beagle  | 0:00:04.284255  | 929             | 
+| Héléna CJ de Laon#0749                 | Beagle  | 0:00:04.798470  | 920             | 
+| Alma CJ de Bordeaux#1871               | Beagle  | 0:00:10.535320  | 824             | 
+| Charlotte du CJ de le Garric#9861      | Beagle  | 0:00:13.534570  | 774             | 
+| lilou#0184                             | N/A     | N/A             | N/A             | 
+| Loane#5676                             | N/A     | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A     | N/A             | N/A             | 
+| Cécile G#4741                          | N/A     | N/A             | N/A             | 
+
+### Question 18/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Ariegeois`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| soizic du CJ de la roche sur yon#8969  | Ariegeois               | 0:00:04.877311  | 919             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Ariegeois               | 0:00:04.857700  | 919             | 
+| Cassie du CJ de Chamarande#4125        | Ariegeois               | 0:00:07.229622  | 880             | 
+| Charlotte du CJ de le Garric#9861      | Ariegeois               | 0:00:13.659939  | 772             | 
+| Alma CJ de Bordeaux#1871               | Ariegeois               | 0:00:14.457466  | 759             | 
+| Erwan#0084                             | Ariegeois               | 0:00:17.440853  | 709             | 
+| imogen CJ de briancon#1398             | Porcelaine              | 0:00:17.384988  | 0               | 
+| Héléna CJ de Laon#0749                 | Grand bleu de Gascogne  | 0:00:07.431079  | 0               | 
+| lilou#0184                             | N/A                     | N/A             | N/A             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Grand bleu de Gascogne  | 0:00:08.060011  | 0               | 
+| Loane#5676                             | N/A                     | N/A             | N/A             | 
+| Aiglor009#3918                         | Grand bleu de Gascogne  | 0:00:29.853555  | 0               | 
+| Cécile G#4741                          | N/A                     | N/A             | N/A             | 
+
+### Question 19/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Dalmatien`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Erwan#0084                             | Dalmatien  | 0:00:02.404454  | 960             | 
+| Charlotte du CJ de le Garric#9861      | Dalmatien  | 0:00:02.882130  | 952             | 
+| imogen CJ de briancon#1398             | Dalmatien  | 0:00:03.449569  | 943             | 
+| Cassie du CJ de Chamarande#4125        | Dalmatien  | 0:00:03.420738  | 943             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Dalmatien  | 0:00:03.681703  | 939             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Dalmatien  | 0:00:03.895571  | 935             | 
+| soizic du CJ de la roche sur yon#8969  | Dalmatien  | 0:00:04.127218  | 931             | 
+| Aiglor009#3918                         | Dalmatien  | 0:00:05.046951  | 916             | 
+| Cécile G#4741                          | Dalmatien  | 0:00:07.305292  | 878             | 
+| Alma CJ de Bordeaux#1871               | Dalmatien  | 0:00:08.864889  | 852             | 
+| Héléna CJ de Laon#0749                 | N/A        | N/A             | N/A             | 
+| lilou#0184                             | N/A        | N/A             | N/A             | 
+| Loane#5676                             | N/A        | N/A             | N/A             | 
+
+### Question 20/20
+
+`Quelle est cette race ?`
+
+Correct answer: `Cocker spaniel anglais`
+
+| Username                               | Answer                   | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------ | --------------- | --------------- | 
+| Cassie du CJ de Chamarande#4125        | Cocker spaniel anglais   | 0:00:04.532286  | 924             | 
+| Aiglor009#3918                         | Cocker spaniel anglais   | 0:00:05.146855  | 914             | 
+| Charlotte du CJ de le Garric#9861      | Cocker spaniel anglais   | 0:00:06.099143  | 898             | 
+| Cécile G#4741                          | Cocker spaniel anglais   | 0:00:11.163311  | 814             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Cocker spaniel anglais   | 0:00:11.258961  | 812             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Cocker spaniel anglais   | 0:00:11.607037  | 807             | 
+| Erwan#0084                             | Cocker spaniel anglais   | 0:00:14.394074  | 760             | 
+| Alma CJ de Bordeaux#1871               | Cocker spaniel anglais   | 0:00:28.858920  | 519             | 
+| imogen CJ de briancon#1398             | American cocker spaniel  | 0:00:20.503795  | 0               | 
+| Héléna CJ de Laon#0749                 | N/A                      | N/A             | N/A             | 
+| lilou#0184                             | N/A                      | N/A             | N/A             | 
+| soizic du CJ de la roche sur yon#8969  | American cocker spaniel  | 0:00:05.819461  | 0               | 
+| Loane#5676                             | N/A                      | N/A             | N/A             | 
+
+---------------------------------
+
+## Final leaderboard
+
+There were a total of 20 questions in this quiz.
+
+13 users participated.
+
+| #   | Username                               | Nickname                   | Points  | Correct  | Answered  | 
+| --- | -------------------------------------- | -------------------------- | ------- | -------- | --------- | 
+| 1   | Elina CJ d'Yvré L'Évêque#0489          |                            | 13065   | 15       | 19        | 
+| 2   | Clémentine CJ SaintPierreDuMont#3516   |                            | 12730   | 15       | 19        | 
+| 3   | Charlotte du CJ de le Garric#9861      |                            | 10550   | 13       | 20        | 
+| 4   | Erwan#0084                             | Erwan Châteaubourg         | 9986    | 12       | 20        | 
+| 5   | imogen CJ de briancon#1398             |                            | 9759    | 12       | 19        | 
+| 6   | soizic du CJ de la roche sur yon#8969  |                            | 8953    | 10       | 20        | 
+| 7   | Cassie du CJ de Chamarande#4125        |                            | 7657    | 9        | 12        | 
+| 8   | Héléna CJ de Laon#0749                 |                            | 7176    | 8        | 15        | 
+| 9   | lilou#0184                             |                            | 3188    | 4        | 6         | 
+| 10  | Alma CJ de Bordeaux#1871               | Alma CJ de Bordeaux        | 2954    | 4        | 5         | 
+| 11  | Aiglor009#3918                         | Thomas Poulain de Rennes   | 1830    | 2        | 3         | 
+| 12  | Cécile G#4741                          |                            | 1692    | 2        | 2         | 
+| 13  | Loane#5676                             | Loane du CJ de Chamarande  | 804     | 1        | 1         | 
+
+---------------------------------
+
+## Links
+
+Thank you for supporting and using the bot.
+
+[Vote for the bot](https://top.gg/bot/558996910581612545/vote?src=qbResultsFile)
+
+[QuizBot website](https://quizbot.xyz/)
+
+[Invite the bot](https://ihxyz.dev/bots/qb?src=qbResultsFile)
+
+[ihxyz development](https://ihxyz.dev/)
+
+[Support server](https://ihxyz.dev/bots/support)
+
+---------------------------------

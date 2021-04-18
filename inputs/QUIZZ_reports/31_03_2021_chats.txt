@@ -1,0 +1,582 @@
+
+# QuizBot Results
+
+---------------------------------
+
+Start time: 2021-03-31 19:00:01.301560
+
+End time: 2021-03-31 19:11:12.478159
+
+Quiz: Quizz mercredi 31 mars 2021 (ID 657841)
+
+Session: 49454686
+
+---------------------------------
+
+## Questions
+
+### Question 1/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Sphynx`
+
+| Username                               | Answer         | Time            | Points awarded  | 
+| -------------------------------------- | -------------- | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | Sphynx         | 0:00:07.389027  | 754             | 
+| Aiglor009#3918                         | Sphynx         | 0:00:07.550305  | 748             | 
+| Oyoelle#7903                           | Sphynx         | 0:00:07.797362  | 740             | 
+| Repti#9965                             | Sphynx         | 0:00:08.540329  | 715             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Sphynx         | 0:00:13.389944  | 554             | 
+| Marine du CJ de la Roche sur Yon#0978  | Sphynx         | 0:00:14.636109  | 512             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Highland Lynx  | 0:00:08.056876  | 0               | 
+| KimieCJduGarric#7403                   | Pixie-Bob      | 0:00:08.423338  | 0               | 
+| Héloïse CJ de Pornic#6617              | N/A            | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A            | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A            | N/A             | N/A             | 
+| Loane#5676                             | N/A            | N/A             | N/A             | 
+
+### Question 2/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Bengal`
+
+| Username                               | Answer    | Time            | Points awarded  | 
+| -------------------------------------- | --------- | --------------- | --------------- | 
+| Clémentine CJ SaintPierreDuMont#3516   | Bengal    | 0:00:06.250743  | 792             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Bengal    | 0:00:09.371786  | 688             | 
+| Marine du CJ de la Roche sur Yon#0978  | Bengal    | 0:00:10.222326  | 659             | 
+| KimieCJduGarric#7403                   | Bengal    | 0:00:11.772096  | 608             | 
+| Héloïse CJ de Pornic#6617              | Bengal    | 0:00:13.007025  | 566             | 
+| Repti#9965                             | Bengal    | 0:00:13.913264  | 536             | 
+| Noelly CJ de Chameyrat#1221            | Européen  | 0:00:06.756550  | 0               | 
+| Aiglor009#3918                         | N/A       | N/A             | N/A             | 
+| Oyoelle#7903                           | Donskoy   | 0:00:11.600000  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A       | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A       | N/A             | N/A             | 
+| Loane#5676                             | N/A       | N/A             | N/A             | 
+
+### Question 3/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Ocicat`
+
+| Username                               | Answer    | Time            | Points awarded  | 
+| -------------------------------------- | --------- | --------------- | --------------- | 
+| Marinette CJ de Luynes#4290            | Ocicat    | 0:00:15.170968  | 494             | 
+| Noelly CJ de Chameyrat#1221            | Sibérien  | 0:00:05.429407  | 0               | 
+| Aiglor009#3918                         | Sibérien  | 0:00:05.713837  | 0               | 
+| Oyoelle#7903                           | Bombay    | 0:00:08.369485  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A       | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | Sibérien  | 0:00:13.388107  | 0               | 
+| Repti#9965                             | N/A       | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Sibérien  | 0:00:13.046635  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A       | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A       | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A       | N/A             | N/A             | 
+| Loane#5676                             | N/A       | N/A             | N/A             | 
+
+### Question 4/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Oriental`
+
+| Username                               | Answer               | Time            | Points awarded  | 
+| -------------------------------------- | -------------------- | --------------- | --------------- | 
+| Marinette CJ de Luynes#4290            | Oriental             | 0:00:06.475356  | 784             | 
+| Noelly CJ de Chameyrat#1221            | LaPerm               | 0:00:08.865568  | 0               | 
+| Aiglor009#3918                         | Scottish & Highland  | 0:00:09.706896  | 0               | 
+| Oyoelle#7903                           | Munchkin             | 0:00:10.326400  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                  | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | Korat                | 0:00:08.205044  | 0               | 
+| Repti#9965                             | N/A                  | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                  | N/A             | N/A             | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A                  | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A                  | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A                  | N/A             | N/A             | 
+| Loane#5676                             | N/A                  | N/A             | N/A             | 
+
+### Question 5/25
+
+`Quelle est cette race ?`
+
+Correct answer: `American Bobtail`
+
+| Username                               | Answer               | Time            | Points awarded  | 
+| -------------------------------------- | -------------------- | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | Scottish & Highland  | 0:00:09.606518  | 0               | 
+| Aiglor009#3918                         | American Curl        | 0:00:11.862077  | 0               | 
+| Oyoelle#7903                           | Scottish & Highland  | 0:00:13.010696  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                  | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | N/A                  | N/A             | N/A             | 
+| Repti#9965                             | N/A                  | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | American Curl        | 0:00:14.173729  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | Scottish & Highland  | 0:00:13.952002  | 0               | 
+| Héloïse CJ de Pornic#6617              | N/A                  | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | American Curl        | 0:00:13.257169  | 0               | 
+| Alma CJ de Bordeaux#1871               | N/A                  | N/A             | N/A             | 
+| Loane#5676                             | N/A                  | N/A             | N/A             | 
+
+### Question 6/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Burmilla`
+
+| Username                               | Answer        | Time            | Points awarded  | 
+| -------------------------------------- | ------------- | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | Tonkinois     | 0:00:11.226580  | 0               | 
+| Aiglor009#3918                         | Turc de Van   | 0:00:11.698865  | 0               | 
+| Oyoelle#7903                           | N/A           | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A           | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | Tonkinois     | 0:00:12.410571  | 0               | 
+| Repti#9965                             | Tonkinois     | 0:00:14.745140  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Havana Brown  | 0:00:12.091786  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A           | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A           | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | German Rex    | 0:00:12.846269  | 0               | 
+| Alma CJ de Bordeaux#1871               | N/A           | N/A             | N/A             | 
+| Loane#5676                             | N/A           | N/A             | N/A             | 
+
+### Question 7/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Javanais`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| Marinette CJ de Luynes#4290            | Javanais          | 0:00:11.884035  | 604             | 
+| Noelly CJ de Chameyrat#1221            | Persan            | 0:00:09.812147  | 0               | 
+| Aiglor009#3918                         | Japanese Bobtail  | 0:00:09.795214  | 0               | 
+| Oyoelle#7903                           | N/A               | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A               | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | Japanese Bobtail  | 0:00:11.376275  | 0               | 
+| Repti#9965                             | N/A               | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Japanese Bobtail  | 0:00:12.741886  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A               | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | Persan            | 0:00:13.357261  | 0               | 
+| Alma CJ de Bordeaux#1871               | N/A               | N/A             | N/A             | 
+| Loane#5676                             | N/A               | N/A             | N/A             | 
+
+### Question 8/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Angora Turc`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| Aiglor009#3918                         | Angora Turc         | 0:00:13.733559  | 542             | 
+| Noelly CJ de Chameyrat#1221            | Angora Turc         | 0:00:14.580748  | 514             | 
+| Oyoelle#7903                           | Havana Brown        | 0:00:13.585722  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                 | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | American Shorthair  | 0:00:13.606496  | 0               | 
+| Repti#9965                             | N/A                 | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                 | N/A             | N/A             | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A                 | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | Havana Brown        | 0:00:14.266949  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A                 | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | Havana Brown        | 0:00:09.391653  | 0               | 
+| Loane#5676                             | N/A                 | N/A             | N/A             | 
+
+### Question 9/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Bombay`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | Sacré de Birmanie  | 0:00:07.220455  | 0               | 
+| Aiglor009#3918                         | German Rex         | 0:00:10.467140  | 0               | 
+| Oyoelle#7903                           | N/A                | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | Havana Brown       | 0:00:06.446490  | 0               | 
+| Repti#9965                             | N/A                | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                | N/A             | N/A             | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A                | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | Sacré de Birmanie  | 0:00:13.557913  | 0               | 
+| Marinette CJ de Luynes#4290            | Havana Brown       | 0:00:12.011625  | 0               | 
+| Alma CJ de Bordeaux#1871               | Sacré de Birmanie  | 0:00:11.373498  | 0               | 
+| Loane#5676                             | N/A                | N/A             | N/A             | 
+
+### Question 10/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Thaï`
+
+| Username                               | Answer               | Time            | Points awarded  | 
+| -------------------------------------- | -------------------- | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | Scottish & Highland  | 0:00:09.474107  | 0               | 
+| Aiglor009#3918                         | Scottish & Highland  | 0:00:12.335653  | 0               | 
+| Oyoelle#7903                           | Scottish & Highland  | 0:00:06.942106  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                  | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | Scottish & Highland  | 0:00:09.660971  | 0               | 
+| Repti#9965                             | Scottish & Highland  | 0:00:12.584746  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Scottish & Highland  | 0:00:11.886004  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A                  | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | Scottish & Highland  | 0:00:14.743092  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A                  | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | Scottish & Highland  | 0:00:14.435690  | 0               | 
+| Loane#5676                             | N/A                  | N/A             | N/A             | 
+
+### Question 11/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Toyger`
+
+| Username                               | Answer         | Time            | Points awarded  | 
+| -------------------------------------- | -------------- | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | American Curl  | 0:00:07.114805  | 0               | 
+| Aiglor009#3918                         | Singapura      | 0:00:10.034965  | 0               | 
+| Oyoelle#7903                           | N/A            | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A            | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | N/A            | N/A             | N/A             | 
+| Repti#9965                             | Manx           | 0:00:12.504403  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Singapura      | 0:00:12.581057  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A            | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | Manx           | 0:00:13.343841  | 0               | 
+| Marinette CJ de Luynes#4290            | Chartreux      | 0:00:13.144585  | 0               | 
+| Alma CJ de Bordeaux#1871               | Manx           | 0:00:09.944821  | 0               | 
+| Loane#5676                             | N/A            | N/A             | N/A             | 
+
+### Question 12/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Kurilian Bobtail`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | Abyssin             | 0:00:08.558093  | 0               | 
+| Aiglor009#3918                         | American Shorthair  | 0:00:08.641115  | 0               | 
+| Oyoelle#7903                           | N/A                 | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                 | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | American Shorthair  | 0:00:13.417224  | 0               | 
+| Repti#9965                             | American Shorthair  | 0:00:08.821935  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Abyssin             | 0:00:13.394851  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A                 | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A                 | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Manx                | 0:00:10.793063  | 0               | 
+| Alma CJ de Bordeaux#1871               | N/A                 | N/A             | N/A             | 
+| Loane#5676                             | N/A                 | N/A             | N/A             | 
+
+### Question 13/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Maine Coon`
+
+| Username                               | Answer       | Time            | Points awarded  | 
+| -------------------------------------- | ------------ | --------------- | --------------- | 
+| Repti#9965                             | Maine Coon   | 0:00:03.645633  | 878             | 
+| Oyoelle#7903                           | Maine Coon   | 0:00:07.334279  | 756             | 
+| Noelly CJ de Chameyrat#1221            | Maine Coon   | 0:00:07.880405  | 737             | 
+| Marinette CJ de Luynes#4290            | Maine Coon   | 0:00:08.034852  | 732             | 
+| Héloïse CJ de Pornic#6617              | Maine Coon   | 0:00:09.406685  | 686             | 
+| KimieCJduGarric#7403                   | Maine Coon   | 0:00:09.539309  | 682             | 
+| Aiglor009#3918                         | Cornish Rex  | 0:00:13.260210  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A          | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Devon Rex    | 0:00:05.384747  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A          | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | Oriental     | 0:00:14.233420  | 0               | 
+| Loane#5676                             | N/A          | N/A             | N/A             | 
+
+### Question 14/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Exotic`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | Chartreux          | 0:00:06.438794  | 0               | 
+| Aiglor009#3918                         | Sacré de Birmanie  | 0:00:11.615436  | 0               | 
+| Oyoelle#7903                           | Japanese Bobtail   | 0:00:08.626426  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | Sacré de Birmanie  | 0:00:05.387926  | 0               | 
+| Repti#9965                             | Skogcatt           | 0:00:14.410305  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Japanese Bobtail   | 0:00:06.982569  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A                | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A                | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Chartreux          | 0:00:08.948994  | 0               | 
+| Alma CJ de Bordeaux#1871               | Toyger             | 0:00:14.692872  | 0               | 
+| Loane#5676                             | N/A                | N/A             | N/A             | 
+
+### Question 15/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Bleu Russe`
+
+| Username                               | Answer       | Time            | Points awarded  | 
+| -------------------------------------- | ------------ | --------------- | --------------- | 
+| Repti#9965                             | Bleu Russe   | 0:00:03.589794  | 880             | 
+| Oyoelle#7903                           | Bleu Russe   | 0:00:10.285710  | 657             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Bleu Russe   | 0:00:14.587792  | 514             | 
+| Noelly CJ de Chameyrat#1221            | Singapura    | 0:00:05.334138  | 0               | 
+| Aiglor009#3918                         | Singapura    | 0:00:08.527041  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A          | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | Cornish Rex  | 0:00:10.965700  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A          | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A          | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Savannah     | 0:00:08.614088  | 0               | 
+| Alma CJ de Bordeaux#1871               | N/A          | N/A             | N/A             | 
+| Loane#5676                             | N/A          | N/A             | N/A             | 
+
+### Question 16/25
+
+`Quelle est cette race ?`
+
+Correct answer: `German Rex`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | British Shorthair  | 0:00:04.753657  | 0               | 
+| Aiglor009#3918                         | Abyssin            | 0:00:10.266607  | 0               | 
+| Oyoelle#7903                           | N/A                | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | British Shorthair  | 0:00:05.881744  | 0               | 
+| Repti#9965                             | Abyssin            | 0:00:11.046422  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | British Shorthair  | 0:00:09.906161  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A                | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A                | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | British Shorthair  | 0:00:11.718069  | 0               | 
+| Alma CJ de Bordeaux#1871               | British Shorthair  | 0:00:11.084879  | 0               | 
+| Loane#5676                             | N/A                | N/A             | N/A             | 
+
+### Question 17/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Munchkin`
+
+| Username                               | Answer               | Time            | Points awarded  | 
+| -------------------------------------- | -------------------- | --------------- | --------------- | 
+| Alma CJ de Bordeaux#1871               | Munchkin             | 0:00:10.739367  | 642             | 
+| Noelly CJ de Chameyrat#1221            | Snowshoe             | 0:00:10.700339  | 0               | 
+| Aiglor009#3918                         | Javanais             | 0:00:11.462370  | 0               | 
+| Oyoelle#7903                           | N/A                  | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                  | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | Balinais             | 0:00:07.445214  | 0               | 
+| Repti#9965                             | Singapura            | 0:00:14.283721  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Singapura            | 0:00:11.927111  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A                  | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A                  | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Scottish & Highland  | 0:00:08.629428  | 0               | 
+| Loane#5676                             | N/A                  | N/A             | N/A             | 
+
+### Question 18/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Manx`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | Manx              | 0:00:05.497782  | 817             | 
+| Héloïse CJ de Pornic#6617              | Manx              | 0:00:11.805719  | 606             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Manx              | 0:00:14.823767  | 506             | 
+| Aiglor009#3918                         | Européen          | 0:00:07.256122  | 0               | 
+| Oyoelle#7903                           | N/A               | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A               | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | N/A               | N/A             | N/A             | 
+| Repti#9965                             | Japanese Bobtail  | 0:00:13.554222  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A               | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Européen          | 0:00:11.144164  | 0               | 
+| Alma CJ de Bordeaux#1871               | Tiffany           | 0:00:13.025775  | 0               | 
+| Loane#5676                             | N/A               | N/A             | N/A             | 
+
+### Question 19/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Snowshoe`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Snowshoe           | 0:00:08.621190  | 713             | 
+| Noelly CJ de Chameyrat#1221            | Snowshoe           | 0:00:08.943455  | 702             | 
+| Marinette CJ de Luynes#4290            | Snowshoe           | 0:00:10.652965  | 645             | 
+| Aiglor009#3918                         | N/A                | N/A             | N/A             | 
+| Oyoelle#7903                           | N/A                | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | N/A                | N/A             | N/A             | 
+| Repti#9965                             | Scottish Fold      | 0:00:10.526480  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A                | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | British Shorthair  | 0:00:14.056064  | 0               | 
+| Alma CJ de Bordeaux#1871               | Burmilla           | 0:00:13.467836  | 0               | 
+| Loane#5676                             | N/A                | N/A             | N/A             | 
+
+### Question 20/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Sacré de Birmanie`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Oyoelle#7903                           | Sacré de Birmanie  | 0:00:04.932462  | 836             | 
+| KimieCJduGarric#7403                   | Sacré de Birmanie  | 0:00:05.704069  | 810             | 
+| Loane#5676                             | Sacré de Birmanie  | 0:00:05.777666  | 807             | 
+| Marinette CJ de Luynes#4290            | Sacré de Birmanie  | 0:00:16.584119  | 447             | 
+| Héloïse CJ de Pornic#6617              | Sacré de Birmanie  | 0:00:16.899274  | 437             | 
+| Noelly CJ de Chameyrat#1221            | N/A                | N/A             | N/A             | 
+| Aiglor009#3918                         | Persan             | 0:00:08.728648  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                | N/A             | N/A             | 
+| Repti#9965                             | Persan             | 0:00:03.353641  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Norvégien          | 0:00:08.504687  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A                | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | Norvégien          | 0:00:16.658792  | 0               | 
+
+### Question 21/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Ragdoll`
+
+| Username                               | Answer      | Time            | Points awarded  | 
+| -------------------------------------- | ----------- | --------------- | --------------- | 
+| Loane#5676                             | Ragdoll     | 0:00:08.473105  | 718             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Ragdoll     | 0:00:09.431792  | 686             | 
+| Oyoelle#7903                           | Ragdoll     | 0:00:09.448630  | 685             | 
+| KimieCJduGarric#7403                   | Ragdoll     | 0:00:14.117100  | 529             | 
+| Noelly CJ de Chameyrat#1221            | N/A         | N/A             | N/A             | 
+| Aiglor009#3918                         | Devon Rex   | 0:00:14.188527  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A         | N/A             | N/A             | 
+| Repti#9965                             | Donskoy     | 0:00:14.209190  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A         | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A         | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Bleu Russe  | 0:00:09.244566  | 0               | 
+| Alma CJ de Bordeaux#1871               | Devon Rex   | 0:00:14.161478  | 0               | 
+
+### Question 22/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Singapura`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | N/A                 | N/A             | N/A             | 
+| Aiglor009#3918                         | Somali              | 0:00:09.821141  | 0               | 
+| Oyoelle#7903                           | N/A                 | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                 | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | American Shorthair  | 0:00:11.674615  | 0               | 
+| Repti#9965                             | American Shorthair  | 0:00:07.694711  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Balinais            | 0:00:09.483482  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A                 | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A                 | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Burmilla            | 0:00:12.358648  | 0               | 
+| Alma CJ de Bordeaux#1871               | Pixie-Bob           | 0:00:11.144147  | 0               | 
+| Loane#5676                             | N/A                 | N/A             | N/A             | 
+
+### Question 23/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Ceylan`
+
+| Username                               | Answer        | Time            | Points awarded  | 
+| -------------------------------------- | ------------- | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | N/A           | N/A             | N/A             | 
+| Aiglor009#3918                         | Angora Turc   | 0:00:11.132395  | 0               | 
+| Oyoelle#7903                           | N/A           | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A           | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | N/A           | N/A             | N/A             | 
+| Repti#9965                             | Oriental      | 0:00:09.927807  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Oriental      | 0:00:06.651003  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A           | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A           | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Havana Brown  | 0:00:10.031652  | 0               | 
+| Alma CJ de Bordeaux#1871               | Javanais      | 0:00:10.441811  | 0               | 
+| Loane#5676                             | Oriental      | 0:00:08.691286  | 0               | 
+
+### Question 24/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Chartreux`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Oyoelle#7903                           | Chartreux          | 0:00:07.803913  | 740             | 
+| Aiglor009#3918                         | Chartreux          | 0:00:09.459949  | 685             | 
+| Repti#9965                             | Chartreux          | 0:00:11.723530  | 609             | 
+| Héloïse CJ de Pornic#6617              | Chartreux          | 0:00:13.324875  | 556             | 
+| Alma CJ de Bordeaux#1871               | Chartreux          | 0:00:13.412401  | 553             | 
+| Noelly CJ de Chameyrat#1221            | Chartreux          | 0:00:13.975992  | 534             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Chartreux          | 0:00:14.384264  | 521             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | British Shorthair  | 0:00:12.756136  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A                | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Toyger             | 0:00:09.522951  | 0               | 
+| Loane#5676                             | Bombay             | 0:00:13.875075  | 0               | 
+
+### Question 25/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Turc de Van`
+
+| Username                               | Answer       | Time            | Points awarded  | 
+| -------------------------------------- | ------------ | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | N/A          | N/A             | N/A             | 
+| Aiglor009#3918                         | Angora Turc  | 0:00:10.694943  | 0               | 
+| Oyoelle#7903                           | N/A          | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A          | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | Snowshoe     | 0:00:05.960403  | 0               | 
+| Repti#9965                             | Angora Turc  | 0:00:05.877913  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Angora Turc  | 0:00:04.124121  | 0               | 
+| Marine du CJ de la Roche sur Yon#0978  | N/A          | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | Norvégien    | 0:00:11.188018  | 0               | 
+| Marinette CJ de Luynes#4290            | Snowshoe     | 0:00:14.065438  | 0               | 
+| Alma CJ de Bordeaux#1871               | Ragdoll      | 0:00:13.957398  | 0               | 
+| Loane#5676                             | Angora Turc  | 0:00:09.709826  | 0               | 
+
+---------------------------------
+
+## Final leaderboard
+
+There were a total of 25 questions in this quiz.
+
+12 users participated.
+
+| #   | Username                               | Nickname                        | Points  | Correct  | Answered  | 
+| --- | -------------------------------------- | ------------------------------- | ------- | -------- | --------- | 
+| 1   | Oyoelle#7903                           | Elwenn - Châteaubourg (35)      | 4414    | 6        | 13        | 
+| 2   | Anaïs CJ de Saint Pierre du Mont#1284  | Anaïs - SPDM (40)               | 4182    | 7        | 22        | 
+| 3   | Noelly CJ de Chameyrat#1221            | Noelly - Chameyrat (19)         | 4058    | 6        | 20        | 
+| 4   | Marinette CJ de Luynes#4290            | Marinette - Luynes (37)         | 3706    | 6        | 21        | 
+| 5   | Repti#9965                             | Enzo - Saint-Omer (62)          | 3618    | 5        | 19        | 
+| 6   | Héloïse CJ de Pornic#6617              | Héloise - Pornic (44)           | 2851    | 5        | 12        | 
+| 7   | KimieCJduGarric#7403                   | Kimie - Le Garric (81)          | 2629    | 4        | 20        | 
+| 8   | Aiglor009#3918                         | Thomas - Rennes (35)            | 1975    | 3        | 23        | 
+| 9   | Loane#5676                             | Loane - Chamarande (91)         | 1525    | 2        | 5         | 
+| 10  | Alma CJ de Bordeaux#1871               | Alma - Bordeaux (33)            | 1195    | 2        | 16        | 
+| 11  | Marine du CJ de la Roche sur Yon#0978  | Marine - La Roche-sur-Yon (85)  | 1171    | 2        | 3         | 
+| 12  | Clémentine CJ SaintPierreDuMont#3516   | Clémentine - SPDM (40)          | 792     | 1        | 2         | 
+
+---------------------------------
+
+## Links
+
+Thank you for supporting and using the bot.
+
+[Vote for the bot](https://top.gg/bot/558996910581612545/vote?src=qbResultsFile)
+
+[QuizBot website](https://quizbot.xyz/)
+
+[Invite the bot](https://ihxyz.dev/bots/qb?src=qbResultsFile)
+
+[ihxyz development](https://ihxyz.dev/)
+
+[Support server](https://ihxyz.dev/bots/support)
+
+---------------------------------

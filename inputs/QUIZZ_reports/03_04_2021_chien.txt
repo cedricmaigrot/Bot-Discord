@@ -1,0 +1,504 @@
+
+# QuizBot Results
+
+---------------------------------
+
+Start time: 2021-04-03 19:00:03.706770
+
+End time: 2021-04-03 19:13:04.625740
+
+Quiz: Premiers Secours Animaliers (ID 747774)
+
+Session: 16359492
+
+---------------------------------
+
+## Questions
+
+### Question 1/25
+
+`La fréquence cardiaque  moyenne  se situe entre : (réponses données en battements par minutes)`
+
+Correct answer: `70 et 160 bpm`
+
+| Username                               | Answer         | Time            | Points awarded  | 
+| -------------------------------------- | -------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 70 et 160 bpm  | 0:00:09.040866  | 774             | 
+| Anaël CJ de Cluses#7963                | 70 et 160 bpm  | 0:00:10.840822  | 729             | 
+| imogen CJ de briancon#1398             | 70 et 160 bpm  | 0:00:12.432096  | 689             | 
+| Elina CJ d'Yvré L'Évêque#0489          | 90 et 200 bpm  | 0:00:05.029493  | 0               | 
+| Erwan#0084                             | N/A            | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A            | N/A             | N/A             | 
+| Oyoelle#7903                           | N/A            | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | N/A            | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A            | N/A             | N/A             | 
+
+### Question 2/25
+
+`Il existe une Position Latérale de Sécurité (PLS) comme pour les humains`
+
+Correct answer: `Oui`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | Oui     | 0:00:03.017471  | 925             | 
+| Erwan#0084                             | Oui     | 0:00:04.220957  | 894             | 
+| Ewen du CJ de Chateaubourg#7758        | Oui     | 0:00:05.392244  | 865             | 
+| Anaël CJ de Cluses#7963                | Oui     | 0:00:06.596614  | 835             | 
+| imogen CJ de briancon#1398             | Oui     | 0:00:08.053630  | 799             | 
+| Marinette CJ de Luynes#4290            | Oui     | 0:00:08.073159  | 798             | 
+| Oyoelle#7903                           | Oui     | 0:00:11.816173  | 705             | 
+| Noelly CJ de Chameyrat#1221            | N/A     | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A     | N/A             | N/A             | 
+
+### Question 3/25
+
+`La PLS est la même pour tous les chiens`
+
+Correct answer: `Non`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Oyoelle#7903                           | Non     | 0:00:07.452452  | 814             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Oui     | 0:00:03.640207  | 0               | 
+| Ewen du CJ de Chateaubourg#7758        | Oui     | 0:00:03.708039  | 0               | 
+| Anaël CJ de Cluses#7963                | Oui     | 0:00:04.861414  | 0               | 
+| imogen CJ de briancon#1398             | Oui     | 0:00:05.404919  | 0               | 
+| Erwan#0084                             | Oui     | 0:00:01.981596  | 0               | 
+| Marinette CJ de Luynes#4290            | Oui     | 0:00:08.006352  | 0               | 
+| Noelly CJ de Chameyrat#1221            | N/A     | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A     | N/A             | N/A             | 
+
+### Question 4/25
+
+`La fréquence respiratoire est la même pour un petit chien et un grand chien`
+
+Correct answer: `Non`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Non     | 0:00:02.669313  | 933             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Non     | 0:00:03.653346  | 909             | 
+| Erwan#0084                             | Non     | 0:00:03.748797  | 906             | 
+| Oyoelle#7903                           | Non     | 0:00:03.837383  | 904             | 
+| imogen CJ de briancon#1398             | Non     | 0:00:04.223946  | 894             | 
+| Anaël CJ de Cluses#7963                | Non     | 0:00:07.823518  | 804             | 
+| Marinette CJ de Luynes#4290            | Non     | 0:00:11.560059  | 711             | 
+| Noelly CJ de Chameyrat#1221            | N/A     | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A     | N/A             | N/A             | 
+
+### Question 5/25
+
+`20 à 25 mouvements par minute correspond à une fréquence respiratoire`
+
+Correct answer: `D'un petit chien`
+
+| Username                               | Answer                        | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------------- | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | D'un grand chien              | 0:00:07.520942  | 0               | 
+| Ewen du CJ de Chateaubourg#7758        | D'un chien de taille moyenne  | 0:00:15.595629  | 0               | 
+| Anaël CJ de Cluses#7963                | D'un chien de taille moyenne  | 0:00:11.278787  | 0               | 
+| imogen CJ de briancon#1398             | D'un chien de taille moyenne  | 0:00:12.290638  | 0               | 
+| Erwan#0084                             | D'un grand chien              | 0:00:07.545524  | 0               | 
+| Marinette CJ de Luynes#4290            | D'un chien de taille moyenne  | 0:00:14.186168  | 0               | 
+| Oyoelle#7903                           | D'un grand chien              | 0:00:07.499813  | 0               | 
+| Noelly CJ de Chameyrat#1221            | N/A                           | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                           | N/A             | N/A             | 
+
+### Question 6/25
+
+`La température corporelle d'un chien est comprise entre`
+
+Correct answer: `38 et 39°`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Oyoelle#7903                           | 38 et 39°  | 0:00:05.414355  | 910             | 
+| Elina CJ d'Yvré L'Évêque#0489          | 36 et 37°  | 0:00:04.562512  | 0               | 
+| Ewen du CJ de Chateaubourg#7758        | 37 et 38°  | 0:00:09.888099  | 0               | 
+| Anaël CJ de Cluses#7963                | 37 et 38°  | 0:00:06.030489  | 0               | 
+| imogen CJ de briancon#1398             | 37 et 38°  | 0:00:04.794168  | 0               | 
+| Erwan#0084                             | 36 et 37°  | 0:00:03.767974  | 0               | 
+| Marinette CJ de Luynes#4290            | 37 et 38°  | 0:00:07.366226  | 0               | 
+| Noelly CJ de Chameyrat#1221            | N/A        | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A        | N/A             | N/A             | 
+
+### Question 7/25
+
+`Il existe une technique qui consiste à appuyer sur la gencive pour voir en combien de temps la lèvre reprend sa couleur normale`
+
+Correct answer: `Oui`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Oyoelle#7903                           | Oui     | 0:00:05.701409  | 905             | 
+| Marinette CJ de Luynes#4290            | Oui     | 0:00:06.588191  | 890             | 
+| Ewen du CJ de Chateaubourg#7758        | Oui     | 0:00:06.706052  | 888             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Oui     | 0:00:07.728656  | 871             | 
+| Anaël CJ de Cluses#7963                | Oui     | 0:00:08.506884  | 858             | 
+| imogen CJ de briancon#1398             | Oui     | 0:00:09.804813  | 837             | 
+| Erwan#0084                             | Oui     | 0:00:20.096799  | 665             | 
+| Noelly CJ de Chameyrat#1221            | Oui     | 0:00:27.621060  | 540             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A     | N/A             | N/A             | 
+
+### Question 8/25
+
+`La technique de la question précédente s'appelle le Temps de Recoloration Cutanée (TRC). On appuie 2 secondes sur la gencive, mais combien de temps doit-elle mettre pour reprendre sa couleur normale quand le chien est en bonne santée ?`
+
+Correct answer: `2 secondes`
+
+| Username                               | Answer      | Time            | Points awarded  | 
+| -------------------------------------- | ----------- | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | 2 secondes  | 0:00:07.518550  | 875             | 
+| Elina CJ d'Yvré L'Évêque#0489          | 4 secondes  | 0:00:13.365374  | 0               | 
+| Ewen du CJ de Chateaubourg#7758        | 4 secondes  | 0:00:14.658778  | 0               | 
+| Anaël CJ de Cluses#7963                | 4 secondes  | 0:00:11.864199  | 0               | 
+| imogen CJ de briancon#1398             | 6 secondes  | 0:00:06.923909  | 0               | 
+| Erwan#0084                             | 4 secondes  | 0:00:12.880368  | 0               | 
+| Marinette CJ de Luynes#4290            | 4 secondes  | 0:00:13.626050  | 0               | 
+| Oyoelle#7903                           | 4 secondes  | 0:00:07.468092  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A         | N/A             | N/A             | 
+
+### Question 9/25
+
+`Un chien doit boire un minimum d'eau chaque jour, combien doit boire un chien de 30kg ?`
+
+Correct answer: `1L5 d'eau`
+
+| Username                               | Answer      | Time            | Points awarded  | 
+| -------------------------------------- | ----------- | --------------- | --------------- | 
+| Erwan#0084                             | 1L5 d'eau   | 0:00:06.181886  | 897             | 
+| imogen CJ de briancon#1398             | 1L5 d'eau   | 0:00:09.055599  | 849             | 
+| Anaël CJ de Cluses#7963                | 1L5 d'eau   | 0:00:16.326748  | 728             | 
+| Elina CJ d'Yvré L'Évêque#0489          | 3L d'eau    | 0:00:04.852945  | 0               | 
+| Ewen du CJ de Chateaubourg#7758        | 75cl d'eau  | 0:00:06.608124  | 0               | 
+| Marinette CJ de Luynes#4290            | 75cl d'eau  | 0:00:11.720634  | 0               | 
+| Oyoelle#7903                           | 75cl d'eau  | 0:00:06.162003  | 0               | 
+| Noelly CJ de Chameyrat#1221            | 75cl d'eau  | 0:00:08.093491  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A         | N/A             | N/A             | 
+
+### Question 10/25
+
+`Quelle est le seuil d'eau bue par jour à partir duquel cela devient problématique ?`
+
+Correct answer: `100ml par kg`
+
+| Username                               | Answer        | Time            | Points awarded  | 
+| -------------------------------------- | ------------- | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | 200ml par kg  | 0:00:15.384681  | 0               | 
+| Ewen du CJ de Chateaubourg#7758        | 150ml par kg  | 0:00:08.595871  | 0               | 
+| Anaël CJ de Cluses#7963                | 200ml par kg  | 0:00:15.443903  | 0               | 
+| imogen CJ de briancon#1398             | 25ml par kg   | 0:00:13.886899  | 0               | 
+| Erwan#0084                             | 150ml par kg  | 0:00:25.028566  | 0               | 
+| Marinette CJ de Luynes#4290            | 50ml par kg   | 0:00:24.559186  | 0               | 
+| Oyoelle#7903                           | N/A           | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | 150ml par kg  | 0:00:13.826375  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | 50ml par kg   | 0:00:07.330707  | 0               | 
+
+### Question 11/25
+
+`Quand un chien se blesse et que je dois faire les premiers secours, je dois le museler même si c'est mon chien`
+
+Correct answer: `Oui`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Erwan#0084                             | Oui     | 0:00:03.483064  | 913             | 
+| Oyoelle#7903                           | Oui     | 0:00:04.539163  | 887             | 
+| Ewen du CJ de Chateaubourg#7758        | Oui     | 0:00:06.200219  | 845             | 
+| Marinette CJ de Luynes#4290            | Oui     | 0:00:07.601481  | 810             | 
+| Noelly CJ de Chameyrat#1221            | Oui     | 0:00:07.800926  | 805             | 
+| imogen CJ de briancon#1398             | Oui     | 0:00:07.857599  | 804             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Oui     | 0:00:10.544299  | 736             | 
+| Anaël CJ de Cluses#7963                | Oui     | 0:00:13.268760  | 668             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Oui     | 0:00:16.654530  | 584             | 
+
+### Question 12/25
+
+`Il existe une application qui me géolocalise et me dit le vétérinaire ouvert le plus proche`
+
+Correct answer: `Oui`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| Erwan#0084                             | Oui                 | 0:00:03.327422  | 917             | 
+| imogen CJ de briancon#1398             | Oui                 | 0:00:04.700699  | 882             | 
+| Noelly CJ de Chameyrat#1221            | Oui                 | 0:00:05.494075  | 863             | 
+| Ewen du CJ de Chateaubourg#7758        | Oui                 | 0:00:06.714150  | 832             | 
+| Oyoelle#7903                           | Oui                 | 0:00:06.878202  | 828             | 
+| Anaël CJ de Cluses#7963                | Oui                 | 0:00:12.046673  | 699             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Oui                 | 0:00:14.819661  | 630             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Bientôt disponible  | 0:00:03.759271  | 0               | 
+| Marinette CJ de Luynes#4290            | Bientôt disponible  | 0:00:11.992080  | 0               | 
+
+### Question 13/25
+
+`Je téléphone toujours aux urgences avant d'emmener un animal`
+
+Correct answer: `Oui, c'est conseillé`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| Erwan#0084                             | Oui, c'est conseillé    | 0:00:04.108431  | 897             | 
+| Noelly CJ de Chameyrat#1221            | Oui, c'est conseillé    | 0:00:04.283625  | 893             | 
+| imogen CJ de briancon#1398             | Oui, c'est conseillé    | 0:00:06.605976  | 835             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Oui, c'est conseillé    | 0:00:08.349205  | 791             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Oui, c'est conseillé    | 0:00:09.805248  | 755             | 
+| Anaël CJ de Cluses#7963                | Oui, c'est conseillé    | 0:00:10.455356  | 739             | 
+| Marinette CJ de Luynes#4290            | Oui, c'est conseillé    | 0:00:10.555419  | 736             | 
+| Ewen du CJ de Chateaubourg#7758        | Oui, c'est conseillé    | 0:00:12.357495  | 691             | 
+| Oyoelle#7903                           | Oui, c'est obligatoire  | 0:00:05.699071  | 0               | 
+
+### Question 14/25
+
+`En cas d'hémoragie externe, le garrot`
+
+Correct answer: `ne doit être posé que par un vétérinaire`
+
+| Username                               | Answer                                    | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------------------------- | --------------- | --------------- | 
+| Oyoelle#7903                           | ne doit être posé que par un vétérinaire  | 0:00:04.951267  | 876             | 
+| Noelly CJ de Chameyrat#1221            | ne doit être posé que par un vétérinaire  | 0:00:08.432146  | 789             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | ne doit être posé que par un vétérinaire  | 0:00:09.262819  | 768             | 
+| Elina CJ d'Yvré L'Évêque#0489          | ne doit être posé que par un vétérinaire  | 0:00:10.811247  | 730             | 
+| Ewen du CJ de Chateaubourg#7758        | ne doit être posé que par un vétérinaire  | 0:00:11.498467  | 713             | 
+| Anaël CJ de Cluses#7963                | est mieux qu'un pansement                 | 0:00:12.896285  | 0               | 
+| imogen CJ de briancon#1398             | est mieux qu'un pansement                 | 0:00:11.977363  | 0               | 
+| Erwan#0084                             | est mieux qu'un pansement                 | 0:00:09.848217  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A                                       | N/A             | N/A             | 
+
+### Question 15/25
+
+`Mon animal s'est brûlé et il est agé`
+
+Correct answer: `C'est plus grave vu son âge`
+
+| Username                               | Answer                       | Time            | Points awarded  | 
+| -------------------------------------- | ---------------------------- | --------------- | --------------- | 
+| Oyoelle#7903                           | C'est plus grave vu son âge  | 0:00:08.413321  | 790             | 
+| Elina CJ d'Yvré L'Évêque#0489          | C'est plus grave vu son âge  | 0:00:11.382905  | 715             | 
+| Marinette CJ de Luynes#4290            | C'est plus grave vu son âge  | 0:00:12.867135  | 678             | 
+| Ewen du CJ de Chateaubourg#7758        | C'est plus grave vu son âge  | 0:00:12.908398  | 677             | 
+| Anaël CJ de Cluses#7963                | ça ne change rien            | 0:00:14.735737  | 0               | 
+| imogen CJ de briancon#1398             | ça ne change rien            | 0:00:06.010617  | 0               | 
+| Erwan#0084                             | ça ne change rien            | 0:00:06.142570  | 0               | 
+| Noelly CJ de Chameyrat#1221            | ça ne change rien            | 0:00:04.084137  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | ça ne change rien            | 0:00:06.982757  | 0               | 
+
+### Question 16/25
+
+`Lorsque j'ai les secours au téléphone, quelle information est inutile ?`
+
+Correct answer: `Aucune`
+
+| Username                               | Answer                           | Time            | Points awarded  | 
+| -------------------------------------- | -------------------------------- | --------------- | --------------- | 
+| Oyoelle#7903                           | Aucune                           | 0:00:28.903949  | 518             | 
+| Elina CJ d'Yvré L'Évêque#0489          | La description des symptômes     | 0:00:15.232824  | 0               | 
+| Ewen du CJ de Chateaubourg#7758        | Si mon chien a fait ses besoins  | 0:00:18.582627  | 0               | 
+| Anaël CJ de Cluses#7963                | L'heure de l'accident            | 0:00:10.714143  | 0               | 
+| imogen CJ de briancon#1398             | L'heure de l'accident            | 0:00:04.450364  | 0               | 
+| Erwan#0084                             | L'heure de l'accident            | 0:00:02.252865  | 0               | 
+| Marinette CJ de Luynes#4290            | Si mon chien a fait ses besoins  | 0:00:29.947259  | 0               | 
+| Noelly CJ de Chameyrat#1221            | Si mon chien a fait ses besoins  | 0:00:11.518063  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Si mon chien a fait ses besoins  | 0:00:19.467750  | 0               | 
+
+### Question 17/25
+
+`Il fait 30° dehors et je trouve un chien qui est dans une voiture depuis une heure au soleil. Quelle température fait-il dans la voiture ?`
+
+Correct answer: `60°`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Erwan#0084                             | 60°     | 0:00:06.272626  | 843             | 
+| Marinette CJ de Luynes#4290            | 60°     | 0:00:16.879411  | 578             | 
+| Elina CJ d'Yvré L'Évêque#0489          | 50°     | 0:00:14.281139  | 0               | 
+| Ewen du CJ de Chateaubourg#7758        | N/A     | N/A             | N/A             | 
+| Anaël CJ de Cluses#7963                | N/A     | N/A             | N/A             | 
+| imogen CJ de briancon#1398             | 50°     | 0:00:04.810562  | 0               | 
+| Oyoelle#7903                           | 50°     | 0:00:05.099534  | 0               | 
+| Noelly CJ de Chameyrat#1221            | 70°     | 0:00:06.984036  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A     | N/A             | N/A             | 
+
+### Question 18/25
+
+`Je pense que mon chien a un coup de chaud. Quels sont mes premiers réflexes ?`
+
+Correct answer: `Je le mets au frais, puis je prends sa température et ensuite je cherche à le refroidir`
+
+| Username                               | Answer                                                                                                  | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------- | --------------- | 
+| Erwan#0084                             | Je le mets au frais, puis je prends sa température et ensuite je cherche à le refroidir                 | 0:00:03.838664  | 904             | 
+| Anaël CJ de Cluses#7963                | Je le mets au frais, puis je prends sa température et ensuite je cherche à le refroidir                 | 0:00:08.052652  | 799             | 
+| Oyoelle#7903                           | Je le mets au frais, puis je prends sa température et ensuite je cherche à le refroidir                 | 0:00:09.588712  | 760             | 
+| imogen CJ de briancon#1398             | Je le mets au frais, puis je prends sa température et ensuite je cherche à le refroidir                 | 0:00:09.965028  | 751             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Je le mets au frais, puis je prends sa température et ensuite je cherche à le refroidir                 | 0:00:10.210282  | 745             | 
+| Marinette CJ de Luynes#4290            | Je le mets au frais, puis je prends sa température et ensuite je cherche à le refroidir                 | 0:00:14.227646  | 644             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Je le mets au frais, puis je prends sa température et ensuite je cherche à le refroidir                 | 0:00:16.568161  | 586             | 
+| Ewen du CJ de Chateaubourg#7758        | Je cherche à le refroidir en le laissant au soleil pour ne pas faire un trop grand choc de température  | 0:00:11.203059  | 0               | 
+| Noelly CJ de Chameyrat#1221            | Je cherche à le refroidir en le laissant au soleil pour ne pas faire un trop grand choc de température  | 0:00:09.933146  | 0               | 
+
+### Question 19/25
+
+`Les chenilles processionnaires`
+
+Correct answer: `Peuvent nécroser la langue du chien`
+
+| Username                               | Answer                               | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------------------ | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | Peuvent nécroser la langue du chien  | 0:00:03.784160  | 905             | 
+| Oyoelle#7903                           | Peuvent nécroser la langue du chien  | 0:00:05.616693  | 860             | 
+| Noelly CJ de Chameyrat#1221            | Peuvent nécroser la langue du chien  | 0:00:06.951737  | 826             | 
+| Ewen du CJ de Chateaubourg#7758        | Peuvent nécroser la langue du chien  | 0:00:08.404814  | 790             | 
+| imogen CJ de briancon#1398             | Peuvent nécroser la langue du chien  | 0:00:08.567192  | 786             | 
+| Marinette CJ de Luynes#4290            | Peuvent nécroser la langue du chien  | 0:00:09.780548  | 755             | 
+| Anaël CJ de Cluses#7963                | Peuvent nécroser la langue du chien  | 0:00:12.001166  | 700             | 
+| Erwan#0084                             | Peuvent nécroser la langue du chien  | 0:00:19.777286  | 506             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                                  | N/A             | N/A             | 
+
+### Question 20/25
+
+`Comment s'appelle l'embranchement de bactéries qui rend pour les chiens l'accès aux étangs très dangeureux en été ?`
+
+Correct answer: `Cyanobactéries`
+
+| Username                               | Answer           | Time            | Points awarded  | 
+| -------------------------------------- | ---------------- | --------------- | --------------- | 
+| Erwan#0084                             | Cyanobactéries   | 0:00:05.216215  | 870             | 
+| Marinette CJ de Luynes#4290            | Cyanobactéries   | 0:00:09.630956  | 759             | 
+| Noelly CJ de Chameyrat#1221            | Cyanobactéries   | 0:00:11.048438  | 724             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Cyanobactéries   | 0:00:11.674403  | 708             | 
+| Anaël CJ de Cluses#7963                | Cyanobactéries   | 0:00:15.815320  | 605             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Chlorophyta      | 0:00:11.636409  | 0               | 
+| Ewen du CJ de Chateaubourg#7758        | Bacillariophyta  | 0:00:11.247664  | 0               | 
+| imogen CJ de briancon#1398             | Actinobactéries  | 0:00:09.069108  | 0               | 
+| Oyoelle#7903                           | N/A              | N/A             | N/A             | 
+
+### Question 21/25
+
+`Le syndrome de dilatation torsion de l'estomac`
+
+Correct answer: `Peut toucher n'importe quel chien`
+
+| Username                               | Answer                             | Time            | Points awarded  | 
+| -------------------------------------- | ---------------------------------- | --------------- | --------------- | 
+| Elina CJ d'Yvré L'Évêque#0489          | Peut toucher n'importe quel chien  | 0:00:04.062004  | 898             | 
+| imogen CJ de briancon#1398             | Peut toucher n'importe quel chien  | 0:00:05.188684  | 870             | 
+| Noelly CJ de Chameyrat#1221            | Peut toucher n'importe quel chien  | 0:00:05.850094  | 854             | 
+| Ewen du CJ de Chateaubourg#7758        | Peut toucher n'importe quel chien  | 0:00:05.963242  | 851             | 
+| Erwan#0084                             | Peut toucher n'importe quel chien  | 0:00:06.388993  | 840             | 
+| Oyoelle#7903                           | Peut toucher n'importe quel chien  | 0:00:12.529663  | 687             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Peut toucher n'importe quel chien  | 0:00:15.674556  | 608             | 
+| Marinette CJ de Luynes#4290            | Peut toucher n'importe quel chien  | 0:00:19.597390  | 510             | 
+| Anaël CJ de Cluses#7963                | N/A                                | N/A             | N/A             | 
+
+### Question 22/25
+
+`Que veut dire RCP ?`
+
+Correct answer: `Réanimation Cardio-Pulmonaire`
+
+| Username                               | Answer                           | Time            | Points awarded  | 
+| -------------------------------------- | -------------------------------- | --------------- | --------------- | 
+| Erwan#0084                             | Réanimation Cardio-Pulmonaire    | 0:00:03.566753  | 911             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Réanimation Cardio-Pulmonaire    | 0:00:05.003245  | 875             | 
+| Noelly CJ de Chameyrat#1221            | Réanimation Cardio-Pulmonaire    | 0:00:05.472690  | 863             | 
+| Ewen du CJ de Chateaubourg#7758        | Réanimation Cardio-Pulmonaire    | 0:00:06.014339  | 850             | 
+| imogen CJ de briancon#1398             | Réanimation Cardio-Pulmonaire    | 0:00:06.998880  | 825             | 
+| Marinette CJ de Luynes#4290            | Réanimation Cardio-Pulmonaire    | 0:00:07.218069  | 820             | 
+| Oyoelle#7903                           | Réanimation Cardio-Pulmonaire    | 0:00:07.548981  | 811             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Réanimation Cardio-Pulmonaire    | 0:00:09.873061  | 753             | 
+| Anaël CJ de Cluses#7963                | Repos Conseillé après Promenade  | 0:00:15.261601  | 0               | 
+
+### Question 23/25
+
+`Le chien a`
+
+Correct answer: `Trois paupières`
+
+| Username                               | Answer           | Time            | Points awarded  | 
+| -------------------------------------- | ---------------- | --------------- | --------------- | 
+| Noelly CJ de Chameyrat#1221            | Trois paupières  | 0:00:03.106698  | 922             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Deux paupières   | 0:00:05.706624  | 0               | 
+| Ewen du CJ de Chateaubourg#7758        | Deux paupières   | 0:00:08.637821  | 0               | 
+| Anaël CJ de Cluses#7963                | Deux paupières   | 0:00:11.747428  | 0               | 
+| imogen CJ de briancon#1398             | Deux paupières   | 0:00:07.391103  | 0               | 
+| Erwan#0084                             | Pas de paupière  | 0:00:03.318682  | 0               | 
+| Marinette CJ de Luynes#4290            | Deux paupières   | 0:00:13.991711  | 0               | 
+| Oyoelle#7903                           | Deux paupières   | 0:00:07.672931  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Deux paupières   | 0:00:11.799320  | 0               | 
+
+### Question 24/25
+
+`Les épillets`
+
+Correct answer: `Sont très dangeureux, j'inspecte mon animal au retour de chaque balade.`
+
+| Username                               | Answer                                                                   | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------------------------------------------------------ | --------------- | --------------- | 
+| Erwan#0084                             | Sont très dangeureux, j'inspecte mon animal au retour de chaque balade.  | 0:00:05.026071  | 874             | 
+| Noelly CJ de Chameyrat#1221            | Sont très dangeureux, j'inspecte mon animal au retour de chaque balade.  | 0:00:05.683781  | 858             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Sont très dangeureux, j'inspecte mon animal au retour de chaque balade.  | 0:00:06.119536  | 847             | 
+| imogen CJ de briancon#1398             | Sont très dangeureux, j'inspecte mon animal au retour de chaque balade.  | 0:00:06.320022  | 842             | 
+| Anaël CJ de Cluses#7963                | Sont très dangeureux, j'inspecte mon animal au retour de chaque balade.  | 0:00:06.578937  | 836             | 
+| Marinette CJ de Luynes#4290            | Sont très dangeureux, j'inspecte mon animal au retour de chaque balade.  | 0:00:07.405957  | 815             | 
+| Ewen du CJ de Chateaubourg#7758        | Sont très dangeureux, j'inspecte mon animal au retour de chaque balade.  | 0:00:08.166757  | 796             | 
+| Elina CJ d'Yvré L'Évêque#0489          | Sont très dangeureux, j'inspecte mon animal au retour de chaque balade.  | 0:00:10.412875  | 740             | 
+| Oyoelle#7903                           | Sont très dangeureux, j'inspecte mon animal au retour de chaque balade.  | 0:00:17.227896  | 569             | 
+
+### Question 25/25
+
+`Quelle maladie est transmissible du chien vers l'homme ?`
+
+Correct answer: `La teigne`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| imogen CJ de briancon#1398             | La teigne           | 0:00:03.923062  | 902             | 
+| Oyoelle#7903                           | La teigne           | 0:00:07.022450  | 824             | 
+| Elina CJ d'Yvré L'Évêque#0489          | La teigne           | 0:00:09.025878  | 774             | 
+| Anaël CJ de Cluses#7963                | La teigne           | 0:00:09.698694  | 758             | 
+| Ewen du CJ de Chateaubourg#7758        | La teigne           | 0:00:11.799171  | 705             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | La teigne           | 0:00:12.363822  | 691             | 
+| Marinette CJ de Luynes#4290            | La teigne           | 0:00:13.236008  | 669             | 
+| Erwan#0084                             | la maladie de Lyme  | 0:00:04.490013  | 0               | 
+| Noelly CJ de Chameyrat#1221            | La toux de chenil   | 0:00:03.663843  | 0               | 
+
+---------------------------------
+
+## Final leaderboard
+
+There were a total of 25 questions in this quiz.
+
+9 users participated.
+
+| #  | Username                               | Nickname                    | Points  | Correct  | Answered  | 
+| -- | -------------------------------------- | --------------------------- | ------- | -------- | --------- | 
+| 1  | Oyoelle#7903                           | Elwenn - Châteaubourg (35)  | 12648   | 16       | 22        | 
+| 2  | Erwan#0084                             | Erwan - Châteaubourg (35)   | 11837   | 14       | 24        | 
+| 3  | imogen CJ de briancon#1398             | Imogen - Briançon (05)      | 11565   | 14       | 25        | 
+| 4  | Ewen du CJ de Chateaubourg#7758        | Ewen - Châteaubourg (35)    | 11210   | 14       | 24        | 
+| 5  | Elina CJ d'Yvré L'Évêque#0489          | Elina - Yvré l'Évêque (72)  | 10419   | 13       | 25        | 
+| 6  | Marinette CJ de Luynes#4290            | Marinette - Luynes (37)     | 10173   | 14       | 23        | 
+| 7  | Noelly CJ de Chameyrat#1221            | Noelly - Chameyrat (19)     | 9812    | 12       | 19        | 
+| 8  | Anaël CJ de Cluses#7963                | Anaël - Cluses (74)         | 9758    | 13       | 23        | 
+| 9  | Anaïs CJ de Saint Pierre du Mont#1284  | Anaïs - SPDM (40)           | 7125    | 10       | 14        | 
+
+---------------------------------
+
+## Links
+
+Thank you for supporting and using the bot.
+
+[Vote for the bot](https://top.gg/bot/558996910581612545/vote?src=qbResultsFile)
+
+[QuizBot website](https://quizbot.xyz/)
+
+[Invite the bot](https://ihxyz.dev/bots/qb?src=qbResultsFile)
+
+[ihxyz development](https://ihxyz.dev/)
+
+[Support server](https://ihxyz.dev/bots/support)
+
+---------------------------------

@@ -2,6 +2,8 @@ import discord
 
 import commands
 import talk
+import quiz
+quiz.prepare_csv()
 
 messages_global = list()
 

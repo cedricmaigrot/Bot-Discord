@@ -1,0 +1,608 @@
+
+# QuizBot Results
+
+---------------------------------
+
+Start time: 2021-04-07 19:05:01.006761
+
+End time: 2021-04-07 19:17:17.171830
+
+Quiz: Devinez la race #3 (ID 953953)
+
+Session: 84292041
+
+---------------------------------
+
+## Questions
+
+### Question 1/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Chien de Castro Laboreiro`
+
+| Username                               | Answer                   | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------ | --------------- | --------------- | 
+| Charlotte du CJ de le Garric#9861      | Black and Tan Coonhound  | 0:00:05.324982  | 0               | 
+| Héloïse CJ de Pornic#6617              | Black and Tan Coonhound  | 0:00:07.245741  | 0               | 
+| soizic du CJ de la roche sur yon#8969  | Black and Tan Coonhound  | 0:00:08.274179  | 0               | 
+| malena#8914                            | Black and Tan Coonhound  | 0:00:10.413006  | 0               | 
+| KimieCJduGarric#7403                   | Black and Tan Coonhound  | 0:00:12.279344  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Black and Tan Coonhound  | 0:00:12.868669  | 0               | 
+| Loane#5676                             | N/A                      | N/A             | N/A             | 
+| eliinaa_mrz#0489                       | N/A                      | N/A             | N/A             | 
+| Valentin CJ vaux-le-pénil#8476         | N/A                      | N/A             | N/A             | 
+| imogen CJ de briancon#1398             | N/A                      | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | N/A                      | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                      | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                      | N/A             | N/A             | 
+
+### Question 2/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Shikoku Ken`
+
+| Username                               | Answer       | Time            | Points awarded  | 
+| -------------------------------------- | ------------ | --------------- | --------------- | 
+| KimieCJduGarric#7403                   | Shikoku Ken  | 0:00:03.346585  | 916             | 
+| malena#8914                            | Shikoku Ken  | 0:00:04.544135  | 886             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Shikoku Ken  | 0:00:06.457481  | 839             | 
+| Charlotte du CJ de le Garric#9861      | Shikoku Ken  | 0:00:06.709862  | 832             | 
+| Héloïse CJ de Pornic#6617              | Shikoku Ken  | 0:00:07.524678  | 812             | 
+| soizic du CJ de la roche sur yon#8969  | Shikoku Ken  | 0:00:11.354211  | 716             | 
+| Loane#5676                             | N/A          | N/A             | N/A             | 
+| eliinaa_mrz#0489                       | N/A          | N/A             | N/A             | 
+| Valentin CJ vaux-le-pénil#8476         | N/A          | N/A             | N/A             | 
+| imogen CJ de briancon#1398             | N/A          | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | N/A          | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A          | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A          | N/A             | N/A             | 
+
+### Question 3/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Chien d'Eau Portugais`
+
+| Username                               | Answer                 | Time            | Points awarded  | 
+| -------------------------------------- | ---------------------- | --------------- | --------------- | 
+| Loane#5676                             | Chien d'Eau Portugais  | 0:00:05.579798  | 861             | 
+| KimieCJduGarric#7403                   | Chien d'Eau Portugais  | 0:00:06.883749  | 828             | 
+| malena#8914                            | Chien d'Eau Portugais  | 0:00:07.678673  | 808             | 
+| Héloïse CJ de Pornic#6617              | Chien d'Eau Portugais  | 0:00:07.929862  | 802             | 
+| eliinaa_mrz#0489                       | Chien d'Eau Portugais  | 0:00:09.542645  | 761             | 
+| Charlotte du CJ de le Garric#9861      | Chien d'Eau Portugais  | 0:00:10.937343  | 727             | 
+| soizic du CJ de la roche sur yon#8969  | Fila Brasileiro        | 0:00:07.027779  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Fila Brasileiro        | 0:00:13.814952  | 0               | 
+| Valentin CJ vaux-le-pénil#8476         | N/A                    | N/A             | N/A             | 
+| imogen CJ de briancon#1398             | N/A                    | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | N/A                    | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                    | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                    | N/A             | N/A             | 
+
+### Question 4/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Bouledogue Anglais`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| soizic du CJ de la roche sur yon#8969  | Bouledogue Anglais  | 0:00:03.173125  | 921             | 
+| malena#8914                            | Bouledogue Anglais  | 0:00:03.580678  | 910             | 
+| KimieCJduGarric#7403                   | Bouledogue Anglais  | 0:00:03.924808  | 902             | 
+| Charlotte du CJ de le Garric#9861      | Bouledogue Anglais  | 0:00:04.404875  | 890             | 
+| Héloïse CJ de Pornic#6617              | Bouledogue Anglais  | 0:00:05.489727  | 863             | 
+| Loane#5676                             | Bouledogue Anglais  | 0:00:05.632524  | 859             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Bouledogue Anglais  | 0:00:08.240759  | 794             | 
+| Valentin CJ vaux-le-pénil#8476         | Bouledogue Anglais  | 0:00:17.719284  | 557             | 
+| eliinaa_mrz#0489                       | N/A                 | N/A             | N/A             | 
+| imogen CJ de briancon#1398             | N/A                 | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | N/A                 | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                 | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                 | N/A             | N/A             | 
+
+### Question 5/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Berger Picard`
+
+| Username                               | Answer                       | Time            | Points awarded  | 
+| -------------------------------------- | ---------------------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Berger Picard                | 0:00:04.299605  | 893             | 
+| soizic du CJ de la roche sur yon#8969  | Berger Picard                | 0:00:05.808746  | 855             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Berger Picard                | 0:00:08.222124  | 794             | 
+| Héloïse CJ de Pornic#6617              | Berger Picard                | 0:00:09.621894  | 759             | 
+| Valentin CJ vaux-le-pénil#8476         | Berger Picard                | 0:00:13.328451  | 667             | 
+| Charlotte du CJ de le Garric#9861      | Chien d'Elan Norvégien Gris  | 0:00:09.394040  | 0               | 
+| malena#8914                            | Chien d'Elan Norvégien Gris  | 0:00:04.589501  | 0               | 
+| KimieCJduGarric#7403                   | Chien d'Elan Norvégien Gris  | 0:00:03.520690  | 0               | 
+| Loane#5676                             | Chien d'Elan Norvégien Gris  | 0:00:05.586106  | 0               | 
+| imogen CJ de briancon#1398             | N/A                          | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | N/A                          | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                          | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                          | N/A             | N/A             | 
+
+### Question 6/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Clumber Spaniel`
+
+| Username                               | Answer           | Time            | Points awarded  | 
+| -------------------------------------- | ---------------- | --------------- | --------------- | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Clumber Spaniel  | 0:00:04.025253  | 899             | 
+| eliinaa_mrz#0489                       | Clumber Spaniel  | 0:00:06.152891  | 846             | 
+| Héloïse CJ de Pornic#6617              | Clumber Spaniel  | 0:00:06.231873  | 844             | 
+| Charlotte du CJ de le Garric#9861      | Clumber Spaniel  | 0:00:07.127732  | 822             | 
+| soizic du CJ de la roche sur yon#8969  | Clumber Spaniel  | 0:00:07.213345  | 820             | 
+| KimieCJduGarric#7403                   | Clumber Spaniel  | 0:00:07.563864  | 811             | 
+| Loane#5676                             | Clumber Spaniel  | 0:00:07.648207  | 809             | 
+| malena#8914                            | Clumber Spaniel  | 0:00:09.586531  | 760             | 
+| Valentin CJ vaux-le-pénil#8476         | Clumber Spaniel  | 0:00:18.590845  | 535             | 
+| imogen CJ de briancon#1398             | N/A              | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | N/A              | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A              | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A              | N/A             | N/A             | 
+
+### Question 7/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Podengo Portugais`
+
+| Username                               | Answer               | Time            | Points awarded  | 
+| -------------------------------------- | -------------------- | --------------- | --------------- | 
+| malena#8914                            | Podengo Portugais    | 0:00:07.505151  | 812             | 
+| Charlotte du CJ de le Garric#9861      | Podengo Portugais    | 0:00:10.382176  | 740             | 
+| Héloïse CJ de Pornic#6617              | Colley à Poil Court  | 0:00:07.603148  | 0               | 
+| soizic du CJ de la roche sur yon#8969  | Colley à Poil Court  | 0:00:08.817209  | 0               | 
+| KimieCJduGarric#7403                   | Colley à Poil Court  | 0:00:11.235820  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Colley à Poil Court  | 0:00:07.524838  | 0               | 
+| Loane#5676                             | Colley à Poil Court  | 0:00:07.581556  | 0               | 
+| eliinaa_mrz#0489                       | Colley à Poil Court  | 0:00:07.543305  | 0               | 
+| Valentin CJ vaux-le-pénil#8476         | Colley à Poil Court  | 0:00:12.479217  | 0               | 
+| imogen CJ de briancon#1398             | Colley à Poil Court  | 0:00:12.657817  | 0               | 
+| Noelly CJ de Chameyrat#1221            | N/A                  | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                  | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                  | N/A             | N/A             | 
+
+### Question 8/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Grand Bouvier Suisse`
+
+| Username                               | Answer                | Time            | Points awarded  | 
+| -------------------------------------- | --------------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Grand Bouvier Suisse  | 0:00:03.036548  | 924             | 
+| malena#8914                            | Grand Bouvier Suisse  | 0:00:04.142040  | 896             | 
+| Loane#5676                             | Grand Bouvier Suisse  | 0:00:04.455620  | 889             | 
+| KimieCJduGarric#7403                   | Grand Bouvier Suisse  | 0:00:05.025366  | 874             | 
+| Héloïse CJ de Pornic#6617              | Grand Bouvier Suisse  | 0:00:05.425921  | 864             | 
+| Valentin CJ vaux-le-pénil#8476         | Grand Bouvier Suisse  | 0:00:06.955507  | 826             | 
+| imogen CJ de briancon#1398             | Grand Bouvier Suisse  | 0:00:07.586416  | 810             | 
+| soizic du CJ de la roche sur yon#8969  | Grand Bouvier Suisse  | 0:00:08.266629  | 793             | 
+| Charlotte du CJ de le Garric#9861      | Grand Bouvier Suisse  | 0:00:08.468931  | 788             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Grand Bouvier Suisse  | 0:00:09.549688  | 761             | 
+| Noelly CJ de Chameyrat#1221            | N/A                   | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                   | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                   | N/A             | N/A             | 
+
+### Question 9/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Terrier Tchèque`
+
+| Username                               | Answer                     | Time            | Points awarded  | 
+| -------------------------------------- | -------------------------- | --------------- | --------------- | 
+| soizic du CJ de la roche sur yon#8969  | Terrier Tchèque            | 0:00:03.263038  | 918             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Terrier Tchèque            | 0:00:04.483455  | 888             | 
+| Héloïse CJ de Pornic#6617              | Terrier Tchèque            | 0:00:04.836153  | 879             | 
+| KimieCJduGarric#7403                   | Terrier Tchèque            | 0:00:06.113588  | 847             | 
+| Loane#5676                             | Terrier Tchèque            | 0:00:06.301739  | 842             | 
+| Charlotte du CJ de le Garric#9861      | Terrier Tchèque            | 0:00:06.437482  | 839             | 
+| Valentin CJ vaux-le-pénil#8476         | Terrier Tchèque            | 0:00:09.390679  | 765             | 
+| malena#8914                            | Chien Courant de Posavatz  | 0:00:06.596562  | 0               | 
+| eliinaa_mrz#0489                       | Brachet Polonais           | 0:00:07.243973  | 0               | 
+| imogen CJ de briancon#1398             | Brachet Polonais           | 0:00:10.670973  | 0               | 
+| Noelly CJ de Chameyrat#1221            | N/A                        | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                        | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                        | N/A             | N/A             | 
+
+### Question 10/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Dalmatien`
+
+| Username                               | Answer          | Time            | Points awarded  | 
+| -------------------------------------- | --------------- | --------------- | --------------- | 
+| malena#8914                            | Dalmatien       | 0:00:02.205322  | 945             | 
+| KimieCJduGarric#7403                   | Dalmatien       | 0:00:02.311440  | 942             | 
+| imogen CJ de briancon#1398             | Dalmatien       | 0:00:02.513000  | 937             | 
+| soizic du CJ de la roche sur yon#8969  | Dalmatien       | 0:00:02.637476  | 934             | 
+| Loane#5676                             | Dalmatien       | 0:00:02.911533  | 927             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Dalmatien       | 0:00:03.438080  | 914             | 
+| eliinaa_mrz#0489                       | Dalmatien       | 0:00:03.627062  | 909             | 
+| Héloïse CJ de Pornic#6617              | Dalmatien       | 0:00:03.716336  | 907             | 
+| Charlotte du CJ de le Garric#9861      | Dalmatien       | 0:00:03.743064  | 906             | 
+| Noelly CJ de Chameyrat#1221            | Dalmatien       | 0:00:07.740091  | 806             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Dalmatien       | 0:00:09.354672  | 766             | 
+| Valentin CJ vaux-le-pénil#8476         | Dogue Allemand  | 0:00:00.257303  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A             | N/A             | N/A             | 
+
+### Question 11/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Basset des Alpes`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| Loane#5676                             | Basset des Alpes  | 0:00:05.310391  | 867             | 
+| KimieCJduGarric#7403                   | Basset des Alpes  | 0:00:05.431259  | 864             | 
+| eliinaa_mrz#0489                       | Basset des Alpes  | 0:00:06.677951  | 833             | 
+| soizic du CJ de la roche sur yon#8969  | Basset des Alpes  | 0:00:06.754247  | 831             | 
+| malena#8914                            | Basset des Alpes  | 0:00:06.963354  | 826             | 
+| Charlotte du CJ de le Garric#9861      | Basset des Alpes  | 0:00:07.715806  | 807             | 
+| imogen CJ de briancon#1398             | Basset des Alpes  | 0:00:07.805368  | 805             | 
+| Héloïse CJ de Pornic#6617              | Basset des Alpes  | 0:00:08.022248  | 799             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Basset des Alpes  | 0:00:08.528488  | 787             | 
+| Noelly CJ de Chameyrat#1221            | Basset des Alpes  | 0:00:09.220525  | 769             | 
+| Valentin CJ vaux-le-pénil#8476         | Basset des Alpes  | 0:00:10.052100  | 749             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Basset des Alpes  | 0:00:10.121729  | 747             | 
+| Marinette CJ de Luynes#4290            | N/A               | N/A             | N/A             | 
+
+### Question 12/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Terrier d'Agrément anglais Noir et Feu`
+
+| Username                               | Answer                                  | Time            | Points awarded  | 
+| -------------------------------------- | --------------------------------------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974        | Terrier d'Agrément anglais Noir et Feu  | 0:00:09.033785  | 774             | 
+| Charlotte du CJ de le Garric#9861      | Kelpie Australien                       | 0:00:07.551222  | 0               | 
+| Héloïse CJ de Pornic#6617              | Deutscher Jagdterrier                   | 0:00:06.771862  | 0               | 
+| soizic du CJ de la roche sur yon#8969  | Deutscher Jagdterrier                   | 0:00:09.119996  | 0               | 
+| malena#8914                            | Deutscher Jagdterrier                   | 0:00:03.767034  | 0               | 
+| KimieCJduGarric#7403                   | Deutscher Jagdterrier                   | 0:00:05.135475  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Kelpie Australien                       | 0:00:12.601303  | 0               | 
+| Loane#5676                             | Deutscher Jagdterrier                   | 0:00:06.133920  | 0               | 
+| eliinaa_mrz#0489                       | Deutscher Jagdterrier                   | 0:00:15.825537  | 0               | 
+| Valentin CJ vaux-le-pénil#8476         | Deutscher Jagdterrier                   | 0:00:06.328693  | 0               | 
+| imogen CJ de briancon#1398             | Deutscher Jagdterrier                   | 0:00:12.889223  | 0               | 
+| Noelly CJ de Chameyrat#1221            | N/A                                     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                                     | N/A             | N/A             | 
+
+### Question 13/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Schnauzer Moyen`
+
+| Username                               | Answer                 | Time            | Points awarded  | 
+| -------------------------------------- | ---------------------- | --------------- | --------------- | 
+| malena#8914                            | Schnauzer Moyen        | 0:00:02.750451  | 931             | 
+| Loane#5676                             | Schnauzer Moyen        | 0:00:03.647942  | 909             | 
+| KimieCJduGarric#7403                   | Schnauzer Moyen        | 0:00:03.841552  | 904             | 
+| soizic du CJ de la roche sur yon#8969  | Schnauzer Moyen        | 0:00:05.000993  | 875             | 
+| Charlotte du CJ de le Garric#9861      | Schnauzer Moyen        | 0:00:05.942862  | 851             | 
+| imogen CJ de briancon#1398             | Schnauzer Moyen        | 0:00:08.058331  | 799             | 
+| Valentin CJ vaux-le-pénil#8476         | Schnauzer Moyen        | 0:00:09.840817  | 754             | 
+| Héloïse CJ de Pornic#6617              | Grand Griffon Vendéen  | 0:00:03.135250  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Grand Griffon Vendéen  | 0:00:03.179701  | 0               | 
+| eliinaa_mrz#0489                       | Grand Griffon Vendéen  | 0:00:03.514429  | 0               | 
+| Noelly CJ de Chameyrat#1221            | N/A                    | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | Grand Griffon Vendéen  | 0:00:06.759896  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A                    | N/A             | N/A             | 
+
+### Question 14/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Thaï Ridgeback`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| Charlotte du CJ de le Garric#9861      | Greyhound               | 0:00:06.057706  | 0               | 
+| Héloïse CJ de Pornic#6617              | Greyhound               | 0:00:06.570071  | 0               | 
+| soizic du CJ de la roche sur yon#8969  | Berger Belge Laekenois  | 0:00:05.760260  | 0               | 
+| malena#8914                            | Greyhound               | 0:00:07.345255  | 0               | 
+| KimieCJduGarric#7403                   | Greyhound               | 0:00:04.850131  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Greyhound               | 0:00:06.291379  | 0               | 
+| Loane#5676                             | Berger Belge Laekenois  | 0:00:05.789618  | 0               | 
+| eliinaa_mrz#0489                       | Berger Belge Laekenois  | 0:00:09.410221  | 0               | 
+| Valentin CJ vaux-le-pénil#8476         | Greyhound               | 0:00:12.581947  | 0               | 
+| imogen CJ de briancon#1398             | Greyhound               | 0:00:08.450913  | 0               | 
+| Noelly CJ de Chameyrat#1221            | N/A                     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                     | N/A             | N/A             | 
+
+### Question 15/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Berger de Majorque`
+
+| Username                               | Answer               | Time            | Points awarded  | 
+| -------------------------------------- | -------------------- | --------------- | --------------- | 
+| malena#8914                            | Berger de Majorque   | 0:00:07.212765  | 820             | 
+| soizic du CJ de la roche sur yon#8969  | Berger de Majorque   | 0:00:07.409658  | 815             | 
+| Charlotte du CJ de le Garric#9861      | Vizsla à Poil Court  | 0:00:07.158115  | 0               | 
+| Héloïse CJ de Pornic#6617              | Vizsla à Poil Court  | 0:00:07.272066  | 0               | 
+| KimieCJduGarric#7403                   | Vizsla à Poil Court  | 0:00:04.970586  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Vizsla à Poil Court  | 0:00:10.414363  | 0               | 
+| Loane#5676                             | Vizsla à Poil Court  | 0:00:07.044213  | 0               | 
+| eliinaa_mrz#0489                       | Vizsla à Poil Court  | 0:00:05.981015  | 0               | 
+| Valentin CJ vaux-le-pénil#8476         | Vizsla à Poil Court  | 0:00:11.836999  | 0               | 
+| imogen CJ de briancon#1398             | Vizsla à Poil Court  | 0:00:09.800739  | 0               | 
+| Noelly CJ de Chameyrat#1221            | N/A                  | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                  | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                  | N/A             | N/A             | 
+
+### Question 16/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Scottish Terrier`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Scottish Terrier  | 0:00:04.408507  | 890             | 
+| Charlotte du CJ de le Garric#9861      | Scottish Terrier  | 0:00:04.450855  | 889             | 
+| Héloïse CJ de Pornic#6617              | Scottish Terrier  | 0:00:04.428453  | 889             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Scottish Terrier  | 0:00:04.920282  | 877             | 
+| soizic du CJ de la roche sur yon#8969  | Scottish Terrier  | 0:00:05.386709  | 865             | 
+| KimieCJduGarric#7403                   | Scottish Terrier  | 0:00:06.501053  | 837             | 
+| imogen CJ de briancon#1398             | Scottish Terrier  | 0:00:07.976775  | 801             | 
+| Valentin CJ vaux-le-pénil#8476         | Scottish Terrier  | 0:00:12.306330  | 692             | 
+| malena#8914                            | Affenpinscher     | 0:00:04.368648  | 0               | 
+| Loane#5676                             | Dogue Allemand    | 0:00:04.470529  | 0               | 
+| Noelly CJ de Chameyrat#1221            | N/A               | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A               | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A               | N/A             | N/A             | 
+
+### Question 17/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Berger roumain de Bucovine`
+
+| Username                               | Answer                      | Time            | Points awarded  | 
+| -------------------------------------- | --------------------------- | --------------- | --------------- | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Berger roumain de Bucovine  | 0:00:03.469619  | 913             | 
+| KimieCJduGarric#7403                   | Berger roumain de Bucovine  | 0:00:03.777916  | 906             | 
+| malena#8914                            | Berger roumain de Bucovine  | 0:00:04.804616  | 880             | 
+| Loane#5676                             | Berger roumain de Bucovine  | 0:00:04.983215  | 875             | 
+| Héloïse CJ de Pornic#6617              | Berger roumain de Bucovine  | 0:00:05.183225  | 870             | 
+| Charlotte du CJ de le Garric#9861      | Berger roumain de Bucovine  | 0:00:06.127937  | 847             | 
+| Valentin CJ vaux-le-pénil#8476         | Berger roumain de Bucovine  | 0:00:06.666928  | 833             | 
+| imogen CJ de briancon#1398             | Berger roumain de Bucovine  | 0:00:06.949703  | 826             | 
+| soizic du CJ de la roche sur yon#8969  | Berger roumain de Bucovine  | 0:00:07.335106  | 817             | 
+| eliinaa_mrz#0489                       | Berger roumain de Bucovine  | 0:00:09.236905  | 769             | 
+| Marinette CJ de Luynes#4290            | Berger roumain de Bucovine  | 0:00:12.820169  | 679             | 
+| Noelly CJ de Chameyrat#1221            | N/A                         | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                         | N/A             | N/A             | 
+
+### Question 18/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Bangkaew de Thaïlande`
+
+| Username                               | Answer                   | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------ | --------------- | --------------- | 
+| malena#8914                            | Bangkaew de Thaïlande    | 0:00:04.024148  | 899             | 
+| soizic du CJ de la roche sur yon#8969  | Bangkaew de Thaïlande    | 0:00:06.550739  | 836             | 
+| Charlotte du CJ de le Garric#9861      | Chien d'Ours de Carélie  | 0:00:04.515226  | 0               | 
+| Héloïse CJ de Pornic#6617              | Chien d'Ours de Carélie  | 0:00:06.129810  | 0               | 
+| KimieCJduGarric#7403                   | Chien d'Ours de Carélie  | 0:00:03.552317  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Segugio Maremmano        | 0:00:05.630158  | 0               | 
+| Loane#5676                             | Chien d'Ours de Carélie  | 0:00:07.548159  | 0               | 
+| eliinaa_mrz#0489                       | Chien d'Ours de Carélie  | 0:00:07.052084  | 0               | 
+| Valentin CJ vaux-le-pénil#8476         | Chien d'Ours de Carélie  | 0:00:05.187153  | 0               | 
+| imogen CJ de briancon#1398             | Chien d'Ours de Carélie  | 0:00:12.359750  | 0               | 
+| Noelly CJ de Chameyrat#1221            | N/A                      | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                      | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Chien d'Ours de Carélie  | 0:00:10.779484  | 0               | 
+
+### Question 19/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Teckel`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| KimieCJduGarric#7403                   | Teckel  | 0:00:02.352638  | 941             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Teckel  | 0:00:02.847157  | 929             | 
+| malena#8914                            | Teckel  | 0:00:03.341427  | 916             | 
+| Charlotte du CJ de le Garric#9861      | Teckel  | 0:00:03.636366  | 909             | 
+| Marinette CJ de Luynes#4290            | Teckel  | 0:00:03.802308  | 905             | 
+| Loane#5676                             | Teckel  | 0:00:03.990086  | 900             | 
+| Valentin CJ vaux-le-pénil#8476         | Teckel  | 0:00:04.015985  | 900             | 
+| eliinaa_mrz#0489                       | Teckel  | 0:00:04.229023  | 894             | 
+| imogen CJ de briancon#1398             | Teckel  | 0:00:04.761236  | 881             | 
+| Héloïse CJ de Pornic#6617              | Teckel  | 0:00:05.002308  | 875             | 
+| soizic du CJ de la roche sur yon#8969  | Teckel  | 0:00:08.644461  | 784             | 
+| Noelly CJ de Chameyrat#1221            | N/A     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 20/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Fila Brasileiro`
+
+| Username                               | Answer           | Time            | Points awarded  | 
+| -------------------------------------- | ---------------- | --------------- | --------------- | 
+| malena#8914                            | Fila Brasileiro  | 0:00:03.418205  | 915             | 
+| Loane#5676                             | Fila Brasileiro  | 0:00:05.034976  | 874             | 
+| Héloïse CJ de Pornic#6617              | Fila Brasileiro  | 0:00:05.196830  | 870             | 
+| KimieCJduGarric#7403                   | Fila Brasileiro  | 0:00:05.818762  | 855             | 
+| Charlotte du CJ de le Garric#9861      | Fila Brasileiro  | 0:00:06.989026  | 825             | 
+| Marinette CJ de Luynes#4290            | Fila Brasileiro  | 0:00:07.079625  | 823             | 
+| soizic du CJ de la roche sur yon#8969  | Fila Brasileiro  | 0:00:07.464592  | 813             | 
+| eliinaa_mrz#0489                       | Fila Brasileiro  | 0:00:08.907817  | 777             | 
+| imogen CJ de briancon#1398             | Fila Brasileiro  | 0:00:09.044029  | 774             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Fila Brasileiro  | 0:00:12.394758  | 690             | 
+| Valentin CJ vaux-le-pénil#8476         | Fila Brasileiro  | 0:00:14.578449  | 636             | 
+| Noelly CJ de Chameyrat#1221            | N/A              | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A              | N/A             | N/A             | 
+
+### Question 21/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Berger Blanc Suisse`
+
+| Username                               | Answer               | Time            | Points awarded  | 
+| -------------------------------------- | -------------------- | --------------- | --------------- | 
+| KimieCJduGarric#7403                   | Berger Blanc Suisse  | 0:00:02.911869  | 927             | 
+| eliinaa_mrz#0489                       | Berger Blanc Suisse  | 0:00:03.145677  | 921             | 
+| imogen CJ de briancon#1398             | Berger Blanc Suisse  | 0:00:03.316363  | 917             | 
+| soizic du CJ de la roche sur yon#8969  | Berger Blanc Suisse  | 0:00:03.346495  | 916             | 
+| malena#8914                            | Berger Blanc Suisse  | 0:00:03.560337  | 911             | 
+| Héloïse CJ de Pornic#6617              | Berger Blanc Suisse  | 0:00:03.810122  | 905             | 
+| Loane#5676                             | Berger Blanc Suisse  | 0:00:04.046252  | 899             | 
+| Valentin CJ vaux-le-pénil#8476         | Berger Blanc Suisse  | 0:00:04.722386  | 882             | 
+| Marinette CJ de Luynes#4290            | Berger Blanc Suisse  | 0:00:04.821103  | 879             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Berger Blanc Suisse  | 0:00:09.811144  | 755             | 
+| Charlotte du CJ de le Garric#9861      | Berger Blanc Suisse  | 0:00:13.711590  | 657             | 
+| Noelly CJ de Chameyrat#1221            | N/A                  | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                  | N/A             | N/A             | 
+
+### Question 22/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Dandie Dinmont Terrier`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| KimieCJduGarric#7403                   | Dandie Dinmont Terrier  | 0:00:05.630727  | 859             | 
+| Loane#5676                             | Dandie Dinmont Terrier  | 0:00:06.800306  | 830             | 
+| malena#8914                            | Dandie Dinmont Terrier  | 0:00:06.840221  | 829             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Dandie Dinmont Terrier  | 0:00:07.392683  | 815             | 
+| Héloïse CJ de Pornic#6617              | Dandie Dinmont Terrier  | 0:00:08.908783  | 777             | 
+| eliinaa_mrz#0489                       | Dandie Dinmont Terrier  | 0:00:10.990344  | 725             | 
+| Marinette CJ de Luynes#4290            | Dandie Dinmont Terrier  | 0:00:11.516034  | 712             | 
+| Charlotte du CJ de le Garric#9861      | Dandie Dinmont Terrier  | 0:00:11.814858  | 705             | 
+| soizic du CJ de la roche sur yon#8969  | Bouvier de l'Entlebuch  | 0:00:09.087706  | 0               | 
+| Valentin CJ vaux-le-pénil#8476         | N/A                     | N/A             | N/A             | 
+| imogen CJ de briancon#1398             | N/A                     | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | N/A                     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                     | N/A             | N/A             | 
+
+### Question 23/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Braque de l'Ariège`
+
+| Username                               | Answer                       | Time            | Points awarded  | 
+| -------------------------------------- | ---------------------------- | --------------- | --------------- | 
+| Charlotte du CJ de le Garric#9861      | Braque de l'Ariège           | 0:00:03.712591  | 907             | 
+| malena#8914                            | Braque de l'Ariège           | 0:00:03.762626  | 906             | 
+| Héloïse CJ de Pornic#6617              | Braque de l'Ariège           | 0:00:04.732418  | 882             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Braque de l'Ariège           | 0:00:05.462479  | 863             | 
+| KimieCJduGarric#7403                   | Braque de l'Ariège           | 0:00:05.760994  | 856             | 
+| imogen CJ de briancon#1398             | Braque de l'Ariège           | 0:00:06.486582  | 838             | 
+| Marinette CJ de Luynes#4290            | Braque de l'Ariège           | 0:00:08.631018  | 784             | 
+| Loane#5676                             | Braque de l'Ariège           | 0:00:09.296384  | 768             | 
+| soizic du CJ de la roche sur yon#8969  | Manchester Terrier           | 0:00:08.523391  | 0               | 
+| eliinaa_mrz#0489                       | Chien d'Elan Norvégien Gris  | 0:00:10.532936  | 0               | 
+| Valentin CJ vaux-le-pénil#8476         | N/A                          | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | N/A                          | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                          | N/A             | N/A             | 
+
+### Question 24/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Berger Allemand`
+
+| Username                               | Answer           | Time            | Points awarded  | 
+| -------------------------------------- | ---------------- | --------------- | --------------- | 
+| KimieCJduGarric#7403                   | Berger Allemand  | 0:00:02.166966  | 946             | 
+| Loane#5676                             | Berger Allemand  | 0:00:02.770344  | 931             | 
+| Héloïse CJ de Pornic#6617              | Berger Allemand  | 0:00:02.855081  | 929             | 
+| eliinaa_mrz#0489                       | Berger Allemand  | 0:00:03.397644  | 915             | 
+| soizic du CJ de la roche sur yon#8969  | Berger Allemand  | 0:00:03.420444  | 914             | 
+| imogen CJ de briancon#1398             | Berger Allemand  | 0:00:03.914776  | 902             | 
+| Charlotte du CJ de le Garric#9861      | Berger Allemand  | 0:00:04.618312  | 885             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Berger Allemand  | 0:00:05.218848  | 870             | 
+| Marinette CJ de Luynes#4290            | Berger Allemand  | 0:00:05.631095  | 859             | 
+| malena#8914                            | Berger Allemand  | 0:00:05.932001  | 852             | 
+| Valentin CJ vaux-le-pénil#8476         | N/A              | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | N/A              | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A              | N/A             | N/A             | 
+
+### Question 25/25
+
+`Quelle est cette race ?`
+
+Correct answer: `Laïka de Yakoutie`
+
+| Username                               | Answer                      | Time            | Points awarded  | 
+| -------------------------------------- | --------------------------- | --------------- | --------------- | 
+| KimieCJduGarric#7403                   | Laïka de Yakoutie           | 0:00:03.536633  | 912             | 
+| Loane#5676                             | Laïka de Yakoutie           | 0:00:03.590510  | 910             | 
+| Héloïse CJ de Pornic#6617              | Laïka de Yakoutie           | 0:00:05.319731  | 867             | 
+| Charlotte du CJ de le Garric#9861      | Laïka de Yakoutie           | 0:00:05.983858  | 850             | 
+| soizic du CJ de la roche sur yon#8969  | Laïka de Yakoutie           | 0:00:06.589881  | 835             | 
+| imogen CJ de briancon#1398             | Laïka de Yakoutie           | 0:00:08.882845  | 778             | 
+| Marinette CJ de Luynes#4290            | Laïka de Yakoutie           | 0:00:09.652275  | 759             | 
+| malena#8914                            | Berger roumain de Bucovine  | 0:00:04.454038  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Schapendoes Néerlandais     | 0:00:03.929824  | 0               | 
+| eliinaa_mrz#0489                       | Grand Bouvier Suisse        | 0:00:08.410299  | 0               | 
+| Valentin CJ vaux-le-pénil#8476         | N/A                         | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | N/A                         | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                         | N/A             | N/A             | 
+
+---------------------------------
+
+## Final leaderboard
+
+There were a total of 25 questions in this quiz.
+
+13 users participated.
+
+| #   | Username                               | Nickname                        | Points  | Correct  | Answered  | 
+| --- | -------------------------------------- | ------------------------------- | ------- | -------- | --------- | 
+| 1   | KimieCJduGarric#7403                   | Kimie - Le Garric (81)          | 15927   | 18       | 25        | 
+| 2   | malena#8914                            | Maléna - Cholet (49)            | 15702   | 18       | 25        | 
+| 3   | Charlotte du CJ de le Garric#9861      | Charlotte - Le Garric (81)      | 15676   | 19       | 25        | 
+| 4   | Héloïse CJ de Pornic#6617              | Héloise - Pornic (44)           | 15393   | 18       | 25        | 
+| 5   | soizic du CJ de la roche sur yon#8969  | Soizic - La Roche-sur-Yon (85)  | 15258   | 18       | 25        | 
+| 6   | Loane#5676                             | Loane - Chamarande (91)         | 13950   | 16       | 23        | 
+| 7   | Anaïs CJ de Saint Pierre du Mont#1284  | Anaïs - SPDM (40)               | 13348   | 16       | 25        | 
+| 8   | eliinaa_mrz#0489                       | Elina - Yvré l'Évêque (72)      | 11057   | 13       | 22        | 
+| 9   | imogen CJ de briancon#1398             | Imogen - Briançon (05)          | 10068   | 12       | 18        | 
+| 10  | Valentin CJ vaux-le-pénil#8476         | Valentin - Vaux-le-Pénil (77)   | 8796    | 12       | 18        | 
+| 11  | Marinette CJ de Luynes#4290            | Marinette - Luynes (37)         | 6400    | 8        | 9         | 
+| 12  | Margau CJ de Vaux-le-Pénil#1974        | Margau - Vaux-le-Pénil (77)     | 2327    | 3        | 4         | 
+| 13  | Noelly CJ de Chameyrat#1221            | Noelly - Chameyrat (19)         | 1575    | 2        | 2         | 
+
+---------------------------------
+
+## Links
+
+Thank you for supporting and using the bot.
+
+[Vote for the bot](https://top.gg/bot/558996910581612545/vote?src=qbResultsFile)
+
+[QuizBot website](https://quizbot.xyz/)
+
+[Invite the bot](https://ihxyz.dev/bots/qb?src=qbResultsFile)
+
+[ihxyz development](https://ihxyz.dev/)
+
+[Support server](https://ihxyz.dev/bots/support)
+
+---------------------------------

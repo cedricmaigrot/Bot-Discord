@@ -1,0 +1,504 @@
+
+# QuizBot Results
+
+---------------------------------
+
+Start time: 2021-04-10 19:00:01.478673
+
+End time: 2021-04-10 19:13:24.257277
+
+Quiz: 2021 04 10 Les furets QuizBot Quiz Template 1 (ID 726432)
+
+Session: 57665468
+
+---------------------------------
+
+## Questions
+
+### Question 1/25
+
+`Le furet aime-t-il ?`
+
+Correct answer: `La compagnie`
+
+| Username                               | Answer        | Time            | Points awarded  | 
+| -------------------------------------- | ------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | La compagnie  | 0:00:03.075585  | 923             | 
+| Repti#9965                             | La compagnie  | 0:00:03.135404  | 922             | 
+| imogen CJ de briancon#1398             | La compagnie  | 0:00:04.393217  | 890             | 
+| Cathy#7851                             | La compagnie  | 0:00:04.924805  | 877             | 
+| Marinette CJ de Luynes#4290            | La compagnie  | 0:00:12.804378  | 680             | 
+| eliinaa_mrz#0489                       | La solitude   | 0:00:12.264631  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A           | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A           | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A           | N/A             | N/A             | 
+
+### Question 2/25
+
+`Deux mâles adultes se supportent-ils ?`
+
+Correct answer: `Rarement`
+
+| Username                               | Answer    | Time            | Points awarded  | 
+| -------------------------------------- | --------- | --------------- | --------------- | 
+| imogen CJ de briancon#1398             | Rarement  | 0:00:02.388631  | 940             | 
+| eliinaa_mrz#0489                       | Rarement  | 0:00:02.456477  | 939             | 
+| Cathy#7851                             | Rarement  | 0:00:10.085455  | 748             | 
+| Ewen du CJ de Chateaubourg#7758        | Oui       | 0:00:04.011341  | 0               | 
+| Repti#9965                             | Oui       | 0:00:02.009043  | 0               | 
+| Marinette CJ de Luynes#4290            | Oui       | 0:00:07.335862  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A       | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A       | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A       | N/A             | N/A             | 
+
+### Question 3/25
+
+`Existe-t-il des furets albinos ?`
+
+Correct answer: `Oui`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Repti#9965                             | Oui     | 0:00:01.270314  | 968             | 
+| Ewen du CJ de Chateaubourg#7758        | Oui     | 0:00:01.348595  | 966             | 
+| imogen CJ de briancon#1398             | Oui     | 0:00:01.515286  | 962             | 
+| Cathy#7851                             | Oui     | 0:00:01.959247  | 951             | 
+| eliinaa_mrz#0489                       | Oui     | 0:00:02.409506  | 940             | 
+| Marinette CJ de Luynes#4290            | Oui     | 0:00:05.304041  | 867             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A     | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A     | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A     | N/A             | N/A             | 
+
+### Question 4/25
+
+`Avec quoi le furet s'oriente-t-il (à part ses yeux) `
+
+Correct answer: `Ses moustaches`
+
+| Username                               | Answer          | Time            | Points awarded  | 
+| -------------------------------------- | --------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Ses moustaches  | 0:00:01.831405  | 954             | 
+| Ewen du CJ de Chateaubourg#7758        | Ses moustaches  | 0:00:04.224516  | 894             | 
+| Cathy#7851                             | Ses moustaches  | 0:00:04.374314  | 891             | 
+| imogen CJ de briancon#1398             | Ses moustaches  | 0:00:05.145932  | 871             | 
+| Repti#9965                             | Ses moustaches  | 0:00:06.260420  | 843             | 
+| Marinette CJ de Luynes#4290            | Ses moustaches  | 0:00:08.144415  | 796             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A             | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A             | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A             | N/A             | N/A             | 
+
+### Question 5/25
+
+`Pourquoi le furet fait-il trembler ses muscles au réveil ?`
+
+Correct answer: `Pour réactiver la circulation du sang`
+
+| Username                               | Answer                                 | Time            | Points awarded  | 
+| -------------------------------------- | -------------------------------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Pour réactiver la circulation du sang  | 0:00:02.079519  | 948             | 
+| Ewen du CJ de Chateaubourg#7758        | Pour réactiver la circulation du sang  | 0:00:02.514529  | 937             | 
+| imogen CJ de briancon#1398             | Pour réactiver la circulation du sang  | 0:00:02.894583  | 928             | 
+| Repti#9965                             | Pour réactiver la circulation du sang  | 0:00:03.581861  | 910             | 
+| Cathy#7851                             | Pour réactiver la circulation du sang  | 0:00:04.573193  | 886             | 
+| Marinette CJ de Luynes#4290            | Pour réactiver la circulation du sang  | 0:00:08.884855  | 778             | 
+| Clémentine CJ SaintPierreDuMont#3516   | N/A                                    | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | N/A                                    | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                                    | N/A             | N/A             | 
+
+### Question 6/25
+
+`Combien de fois par jour le furet nettoye son pelage ?`
+
+Correct answer: `Plusieurs fois par jour`
+
+| Username                               | Answer                   | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------ | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Plusieurs fois par jour  | 0:00:09.697130  | 758             | 
+| Repti#9965                             | Plusieurs fois par jour  | 0:00:09.713828  | 757             | 
+| Ewen du CJ de Chateaubourg#7758        | Plusieurs fois par jour  | 0:00:09.746182  | 756             | 
+| imogen CJ de briancon#1398             | Plusieurs fois par jour  | 0:00:09.768935  | 756             | 
+| Cathy#7851                             | Plusieurs fois par jour  | 0:00:09.793712  | 755             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Plusieurs fois par jour  | 0:00:10.221243  | 744             | 
+| Marinette CJ de Luynes#4290            | Tous les matins          | 0:00:15.997685  | 0               | 
+| Héloïse CJ de Pornic#6617              | N/A                      | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                      | N/A             | N/A             | 
+
+### Question 7/25
+
+`Pourquoi le furet lèche-t-il son maître ?`
+
+Correct answer: `En signe de confiance et d'amour`
+
+| Username                               | Answer                            | Time            | Points awarded  | 
+| -------------------------------------- | --------------------------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | En signe de confiance et d'amour  | 0:00:01.734151  | 957             | 
+| imogen CJ de briancon#1398             | En signe de confiance et d'amour  | 0:00:02.012182  | 950             | 
+| Repti#9965                             | En signe de confiance et d'amour  | 0:00:02.713977  | 932             | 
+| Clémentine CJ SaintPierreDuMont#3516   | En signe de confiance et d'amour  | 0:00:03.578258  | 911             | 
+| Ewen du CJ de Chateaubourg#7758        | En signe de confiance et d'amour  | 0:00:03.714507  | 907             | 
+| Cathy#7851                             | En signe de confiance et d'amour  | 0:00:05.018071  | 875             | 
+| Marinette CJ de Luynes#4290            | En signe de confiance et d'amour  | 0:00:08.421650  | 789             | 
+| Héloïse CJ de Pornic#6617              | N/A                               | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                               | N/A             | N/A             | 
+
+### Question 8/25
+
+`Un furet nait-il avec des poils ?`
+
+Correct answer: `Non`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Non     | 0:00:01.639107  | 959             | 
+| Cathy#7851                             | Non     | 0:00:02.660742  | 933             | 
+| Ewen du CJ de Chateaubourg#7758        | Non     | 0:00:02.819698  | 930             | 
+| Marinette CJ de Luynes#4290            | Non     | 0:00:07.791931  | 805             | 
+| Repti#9965                             | Oui     | 0:00:01.882032  | 0               | 
+| imogen CJ de briancon#1398             | Oui     | 0:00:01.660597  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | Oui     | 0:00:04.247776  | 0               | 
+| Héloïse CJ de Pornic#6617              | N/A     | N/A             | N/A             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A     | N/A             | N/A             | 
+
+### Question 9/25
+
+`Comment s'appelle le petit du furet ?`
+
+Correct answer: `Un fureton`
+
+| Username                               | Answer      | Time            | Points awarded  | 
+| -------------------------------------- | ----------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Un fureton  | 0:00:02.245458  | 944             | 
+| Repti#9965                             | Un fureton  | 0:00:02.338370  | 942             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Un fureton  | 0:00:03.657595  | 909             | 
+| Ewen du CJ de Chateaubourg#7758        | Un fureton  | 0:00:04.303242  | 892             | 
+| imogen CJ de briancon#1398             | Un fureton  | 0:00:06.820306  | 829             | 
+| Cathy#7851                             | Un fureton  | 0:00:07.159032  | 821             | 
+| Marinette CJ de Luynes#4290            | Un fureton  | 0:00:12.288860  | 693             | 
+| Héloïse CJ de Pornic#6617              | Un furiet   | 0:00:19.264732  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A         | N/A             | N/A             | 
+
+### Question 10/25
+
+`Puis-je donner des fruits sucrés à mon furet ?`
+
+Correct answer: `Oui`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| imogen CJ de briancon#1398             | Oui     | 0:00:01.847031  | 954             | 
+| Ewen du CJ de Chateaubourg#7758        | Oui     | 0:00:02.971060  | 926             | 
+| Héloïse CJ de Pornic#6617              | Oui     | 0:00:06.967960  | 826             | 
+| Marinette CJ de Luynes#4290            | Oui     | 0:00:10.618520  | 735             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Oui     | 0:00:15.610477  | 610             | 
+| Repti#9965                             | Non     | 0:00:02.714396  | 0               | 
+| Cathy#7851                             | Non     | 0:00:07.959747  | 0               | 
+| eliinaa_mrz#0489                       | Non     | 0:00:01.580615  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A     | N/A             | N/A             | 
+
+### Question 11/25
+
+`A quel âge un petit furet peut-il être séparé de sa mère ?`
+
+Correct answer: `8 semaines`
+
+| Username                               | Answer      | Time            | Points awarded  | 
+| -------------------------------------- | ----------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 8 semaines  | 0:00:02.101324  | 947             | 
+| imogen CJ de briancon#1398             | 8 semaines  | 0:00:02.432436  | 939             | 
+| eliinaa_mrz#0489                       | 8 semaines  | 0:00:03.284654  | 918             | 
+| Héloïse CJ de Pornic#6617              | 8 semaines  | 0:00:03.682672  | 908             | 
+| Cathy#7851                             | 8 semaines  | 0:00:04.836241  | 879             | 
+| Clémentine CJ SaintPierreDuMont#3516   | 8 semaines  | 0:00:05.295144  | 868             | 
+| Marinette CJ de Luynes#4290            | 8 semaines  | 0:00:15.836360  | 604             | 
+| Repti#9965                             | 8 semaines  | 0:00:16.946793  | 576             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A         | N/A             | N/A             | 
+
+### Question 12/25
+
+`Peut-on considérer le furet comme un aventurier ?`
+
+Correct answer: `Oh oui`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| imogen CJ de briancon#1398             | Oh oui            | 0:00:02.448437  | 939             | 
+| Cathy#7851                             | Oh oui            | 0:00:02.508468  | 937             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Oh oui            | 0:00:03.006694  | 925             | 
+| eliinaa_mrz#0489                       | Oh oui            | 0:00:04.027854  | 899             | 
+| Héloïse CJ de Pornic#6617              | Oh oui            | 0:00:04.440209  | 889             | 
+| Repti#9965                             | Oh oui            | 0:00:04.562561  | 886             | 
+| Marinette CJ de Luynes#4290            | Oh oui            | 0:00:04.648214  | 884             | 
+| Ewen du CJ de Chateaubourg#7758        | Non, pas du tout  | 0:00:02.469131  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A               | N/A             | N/A             | 
+
+### Question 13/25
+
+`Combien de temps devriez-vous consacrer à votre furet chaque jour au minimum ?`
+
+Correct answer: `Il devrait pouvoir sortir de sa cage au moins 2 heures`
+
+| Username                               | Answer                                                  | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------------------------------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Il devrait pouvoir sortir de sa cage au moins 2 heures  | 0:00:03.631900  | 909             | 
+| Repti#9965                             | Il devrait pouvoir sortir de sa cage au moins 2 heures  | 0:00:04.062891  | 898             | 
+| Cathy#7851                             | Il devrait pouvoir sortir de sa cage au moins 2 heures  | 0:00:05.470175  | 863             | 
+| Héloïse CJ de Pornic#6617              | Il devrait pouvoir sortir de sa cage au moins 2 heures  | 0:00:06.429756  | 839             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Il devrait pouvoir sortir de sa cage au moins 2 heures  | 0:00:07.322850  | 817             | 
+| imogen CJ de briancon#1398             | Il devrait pouvoir sortir de sa cage au moins 2 heures  | 0:00:09.099788  | 773             | 
+| Marinette CJ de Luynes#4290            | Il devrait pouvoir sortir de sa cage au moins 2 heures  | 0:00:10.299930  | 743             | 
+| eliinaa_mrz#0489                       | Hors de sa cage au moins 5 heures                       | 0:00:04.740173  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                                                     | N/A             | N/A             | 
+
+### Question 14/25
+
+`Votre furet doit-il porter une puce électronique (en France et en Suisse) ?`
+
+Correct answer: `Oui dans les deux pays`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Oui dans les deux pays  | 0:00:03.819874  | 905             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Oui dans les deux pays  | 0:00:03.839985  | 904             | 
+| Ewen du CJ de Chateaubourg#7758        | Oui dans les deux pays  | 0:00:03.864601  | 903             | 
+| Héloïse CJ de Pornic#6617              | Oui dans les deux pays  | 0:00:04.684533  | 883             | 
+| imogen CJ de briancon#1398             | Oui dans les deux pays  | 0:00:04.794505  | 880             | 
+| Repti#9965                             | Oui dans les deux pays  | 0:00:09.390471  | 765             | 
+| Cathy#7851                             | Oui dans les deux pays  | 0:00:09.608460  | 760             | 
+| Marinette CJ de Luynes#4290            | Oui dans les deux pays  | 0:00:10.992770  | 725             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                     | N/A             | N/A             | 
+
+### Question 15/25
+
+`En général, combien d'années vit un furet ?`
+
+Correct answer: `10 ans`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 10 ans  | 0:00:01.507612  | 962             | 
+| imogen CJ de briancon#1398             | 10 ans  | 0:00:01.988467  | 950             | 
+| Repti#9965                             | 10 ans  | 0:00:02.346200  | 941             | 
+| eliinaa_mrz#0489                       | 10 ans  | 0:00:02.430704  | 939             | 
+| Héloïse CJ de Pornic#6617              | 10 ans  | 0:00:03.405831  | 915             | 
+| Clémentine CJ SaintPierreDuMont#3516   | 10 ans  | 0:00:04.666602  | 883             | 
+| Cathy#7851                             | 5 ans   | 0:00:05.417778  | 0               | 
+| Marinette CJ de Luynes#4290            | 15 ans  | 0:00:11.598534  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A     | N/A             | N/A             | 
+
+### Question 16/25
+
+`Quelle est la nourriture principale du furet ?`
+
+Correct answer: `La viande`
+
+| Username                               | Answer                 | Time            | Points awarded  | 
+| -------------------------------------- | ---------------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | La viande              | 0:00:02.311491  | 942             | 
+| Ewen du CJ de Chateaubourg#7758        | La viande              | 0:00:02.371704  | 941             | 
+| Repti#9965                             | La viande              | 0:00:06.035003  | 849             | 
+| Cathy#7851                             | La viande              | 0:00:06.083067  | 848             | 
+| Marinette CJ de Luynes#4290            | La viande              | 0:00:18.039634  | 549             | 
+| imogen CJ de briancon#1398             | Les fruits et légumes  | 0:00:06.057782  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | Les fruits et légumes  | 0:00:02.463294  | 0               | 
+| Héloïse CJ de Pornic#6617              | Les fruits et légumes  | 0:00:02.291432  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                    | N/A             | N/A             | 
+
+### Question 17/25
+
+`Combien de temps dort un furet ?`
+
+Correct answer: `18 heures par jour`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 12 heures par jour  | 0:00:02.007316  | 0               | 
+| Repti#9965                             | 15 heures par jour  | 0:00:15.526481  | 0               | 
+| imogen CJ de briancon#1398             | 15 heures par jour  | 0:00:01.569035  | 0               | 
+| Cathy#7851                             | 15 heures par jour  | 0:00:08.398182  | 0               | 
+| eliinaa_mrz#0489                       | 15 heures par jour  | 0:00:01.956395  | 0               | 
+| Marinette CJ de Luynes#4290            | 12 heures par jour  | 0:00:16.943096  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | 15 heures par jour  | 0:00:02.545383  | 0               | 
+| Héloïse CJ de Pornic#6617              | 15 heures par jour  | 0:00:02.510434  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | N/A                 | N/A             | N/A             | 
+
+### Question 18/25
+
+`Autrefois, le furet était utilisé pour...`
+
+Correct answer: `La chasse aux lapins`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| Cathy#7851                             | La chasse aux lapins    | 0:00:02.468985  | 938             | 
+| Ewen du CJ de Chateaubourg#7758        | La chasse aux lapins    | 0:00:06.914516  | 827             | 
+| Repti#9965                             | La chasse aux lapins    | 0:00:06.931054  | 827             | 
+| Marinette CJ de Luynes#4290            | La chasse aux lapins    | 0:00:06.995353  | 825             | 
+| Héloïse CJ de Pornic#6617              | La chasse aux lapins    | 0:00:07.025974  | 824             | 
+| Clémentine CJ SaintPierreDuMont#3516   | La chasse aux lapins    | 0:00:07.787918  | 805             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | La chasse aux lapins    | 0:00:16.335216  | 592             | 
+| imogen CJ de briancon#1398             | La récolte des truffes  | 0:00:03.646301  | 0               | 
+| eliinaa_mrz#0489                       | La récolte des truffes  | 0:00:06.947942  | 0               | 
+
+### Question 19/25
+
+`De quelle famille d'animaux le furet fait-il partie ?`
+
+Correct answer: `Mustélidés`
+
+| Username                               | Answer      | Time            | Points awarded  | 
+| -------------------------------------- | ----------- | --------------- | --------------- | 
+| Repti#9965                             | Mustélidés  | 0:00:02.218054  | 945             | 
+| Cathy#7851                             | Mustélidés  | 0:00:08.544864  | 786             | 
+| Marinette CJ de Luynes#4290            | Mustélidés  | 0:00:16.981911  | 575             | 
+| Ewen du CJ de Chateaubourg#7758        | Rongeurs    | 0:00:02.113275  | 0               | 
+| imogen CJ de briancon#1398             | Rongeurs    | 0:00:02.401016  | 0               | 
+| eliinaa_mrz#0489                       | Rongeurs    | 0:00:02.572822  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | Rongeurs    | 0:00:04.388970  | 0               | 
+| Héloïse CJ de Pornic#6617              | Rongeurs    | 0:00:04.035139  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Rongeurs    | 0:00:06.796757  | 0               | 
+
+### Question 20/25
+
+`Comment nomme-t-on les furets aux poils longs ?`
+
+Correct answer: `Angora`
+
+| Username                               | Answer       | Time            | Points awarded  | 
+| -------------------------------------- | ------------ | --------------- | --------------- | 
+| Cathy#7851                             | Angora       | 0:00:02.720260  | 932             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Angora       | 0:00:03.102707  | 922             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Angora       | 0:00:03.477016  | 913             | 
+| Héloïse CJ de Pornic#6617              | Angora       | 0:00:03.588717  | 910             | 
+| Ewen du CJ de Chateaubourg#7758        | Angora       | 0:00:05.128901  | 872             | 
+| Repti#9965                             | Long hair    | 0:00:03.353941  | 0               | 
+| imogen CJ de briancon#1398             | Long hair    | 0:00:03.045476  | 0               | 
+| eliinaa_mrz#0489                       | Poils longs  | 0:00:02.741288  | 0               | 
+| Marinette CJ de Luynes#4290            | Long hair    | 0:00:09.823937  | 0               | 
+
+### Question 21/25
+
+`Quel cousin du furet change de couleur selon les saisons ?`
+
+Correct answer: `L'hermine`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Repti#9965                             | L'hermine  | 0:00:05.889136  | 853             | 
+| Cathy#7851                             | L'hermine  | 0:00:06.929372  | 827             | 
+| Marinette CJ de Luynes#4290            | L'hermine  | 0:00:08.058540  | 799             | 
+| Ewen du CJ de Chateaubourg#7758        | La fouine  | 0:00:04.692308  | 0               | 
+| imogen CJ de briancon#1398             | La fouine  | 0:00:05.062000  | 0               | 
+| eliinaa_mrz#0489                       | La fouine  | 0:00:02.192311  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | La fouine  | 0:00:03.558100  | 0               | 
+| Héloïse CJ de Pornic#6617              | La fouine  | 0:00:05.101716  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | La fouine  | 0:00:07.620225  | 0               | 
+
+### Question 22/25
+
+`Quand le furet sautille en poussant des cris stridents, cela veut dire ?`
+
+Correct answer: `Qu'il veut jouer`
+
+| Username                               | Answer                                                   | Time            | Points awarded  | 
+| -------------------------------------- | -------------------------------------------------------- | --------------- | --------------- | 
+| Cathy#7851                             | Qu'il veut jouer                                         | 0:00:11.613435  | 710             | 
+| Ewen du CJ de Chateaubourg#7758        | Qu'il a vu quelque chose d'effrayant, qui lui fait peur  | 0:00:06.119954  | 0               | 
+| Repti#9965                             | Qu'il a vu quelque chose d'effrayant, qui lui fait peur  | 0:00:05.550041  | 0               | 
+| imogen CJ de briancon#1398             | Qu'il a vu quelque chose d'effrayant, qui lui fait peur  | 0:00:03.936559  | 0               | 
+| eliinaa_mrz#0489                       | Qu'il a vu quelque chose d'effrayant, qui lui fait peur  | 0:00:05.937688  | 0               | 
+| Marinette CJ de Luynes#4290            | Qu'il a vu quelque chose d'effrayant, qui lui fait peur  | 0:00:13.897349  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | Qu'il a vu quelque chose d'effrayant, qui lui fait peur  | 0:00:04.710523  | 0               | 
+| Héloïse CJ de Pornic#6617              | Qu'il a vu quelque chose d'effrayant, qui lui fait peur  | 0:00:07.812210  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Qu'il a vu quelque chose d'effrayant, qui lui fait peur  | 0:00:10.973180  | 0               | 
+
+### Question 23/25
+
+`Et quand tous ses poils sont hérissés ?`
+
+Correct answer: `Cela veut dire qu'il a peur`
+
+| Username                               | Answer                                                                   | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------------------------------------------------------ | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Cela veut dire qu'il a peur                                              | 0:00:03.097580  | 923             | 
+| Clémentine CJ SaintPierreDuMont#3516   | Cela veut dire qu'il a peur                                              | 0:00:06.821307  | 829             | 
+| Repti#9965                             | Cela veut dire qu'il a peur                                              | 0:00:08.913756  | 777             | 
+| imogen CJ de briancon#1398             | Cela veut dire qu'il a peur                                              | 0:00:09.002794  | 775             | 
+| Marinette CJ de Luynes#4290            | Cela veut dire qu'il a peur                                              | 0:00:15.402569  | 615             | 
+| Cathy#7851                             | Cela veut dire qu'il a aperçu une proie, et qu'il est prêt à l'attaquer  | 0:00:10.118665  | 0               | 
+| eliinaa_mrz#0489                       | Cela veut dire qu'il se prend pour un chat : il joue                     | 0:00:02.147127  | 0               | 
+| Héloïse CJ de Pornic#6617              | Cela veut dire qu'il a aperçu une proie, et qu'il est prêt à l'attaquer  | 0:00:05.253134  | 0               | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Cela veut dire qu'il a aperçu une proie, et qu'il est prêt à l'attaquer  | 0:00:03.975191  | 0               | 
+
+### Question 24/25
+
+`Comment s'appelle le cri du furet quand il est content ?`
+
+Correct answer: `Le « pout-pout »`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| Cathy#7851                             | Le « pout-pout »  | 0:00:05.581822  | 860             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | Le « pout-pout »  | 0:00:07.533448  | 812             | 
+| Repti#9965                             | Le « pout-pout »  | 0:00:17.940809  | 551             | 
+| Ewen du CJ de Chateaubourg#7758        | Le feulement      | 0:00:05.365154  | 0               | 
+| imogen CJ de briancon#1398             | Le feulement      | 0:00:05.742606  | 0               | 
+| eliinaa_mrz#0489                       | Le feulement      | 0:00:03.392443  | 0               | 
+| Marinette CJ de Luynes#4290            | Le feulement      | 0:00:14.720584  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516   | Le « cot-cot »    | 0:00:03.299395  | 0               | 
+| Héloïse CJ de Pornic#6617              | Le feulement      | 0:00:04.539085  | 0               | 
+
+### Question 25/25
+
+`D'après la loi, le furet est un animal`
+
+Correct answer: `sauvage`
+
+| Username                               | Answer      | Time            | Points awarded  | 
+| -------------------------------------- | ----------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | sauvage     | 0:00:01.654125  | 959             | 
+| Héloïse CJ de Pornic#6617              | sauvage     | 0:00:02.403925  | 940             | 
+| Ewen du CJ de Chateaubourg#7758        | sauvage     | 0:00:03.032761  | 924             | 
+| Repti#9965                             | sauvage     | 0:00:03.526974  | 912             | 
+| Clémentine CJ SaintPierreDuMont#3516   | sauvage     | 0:00:03.841639  | 904             | 
+| Anaïs CJ de Saint Pierre du Mont#1284  | sauvage     | 0:00:04.313592  | 892             | 
+| imogen CJ de briancon#1398             | sauvage     | 0:00:06.030671  | 849             | 
+| Marinette CJ de Luynes#4290            | sauvage     | 0:00:10.291427  | 743             | 
+| Cathy#7851                             | domestique  | 0:00:08.018699  | 0               | 
+
+---------------------------------
+
+## Final leaderboard
+
+There were a total of 25 questions in this quiz.
+
+9 users participated.
+
+| #  | Username                               | Nickname                    | Points  | Correct  | Answered  | 
+| -- | -------------------------------------- | --------------------------- | ------- | -------- | --------- | 
+| 1  | Cathy#7851                             | Cathy - Sarreguemines (57)  | 17077   | 20       | 25        | 
+| 2  | Ewen du CJ de Chateaubourg#7758        | Ewen - Châteaubourg (35)    | 16339   | 18       | 25        | 
+| 3  | Repti#9965                             | Enzo - Saint-Omer (62)      | 16054   | 19       | 25        | 
+| 4  | imogen CJ de briancon#1398             | Imogen - Briançon (05)      | 14185   | 16       | 25        | 
+| 5  | Marinette CJ de Luynes#4290            | Marinette - Luynes (37)     | 13205   | 18       | 25        | 
+| 6  | eliinaa_mrz#0489                       | Elina - Yvré l'Évêque (72)  | 12961   | 14       | 25        | 
+| 7  | Clémentine CJ SaintPierreDuMont#3516   | Clémentine - SPDM (40)      | 11022   | 13       | 20        | 
+| 8  | Héloïse CJ de Pornic#6617              | Héloise - Pornic (44)       | 7934    | 9        | 17        | 
+| 9  | Anaïs CJ de Saint Pierre du Mont#1284  | Anaïs - SPDM (40)           | 3218    | 4        | 8         | 
+
+---------------------------------
+
+## Links
+
+Thank you for supporting and using the bot.
+
+[Vote for the bot](https://top.gg/bot/558996910581612545/vote?src=qbResultsFile)
+
+[QuizBot website](https://quizbot.xyz/)
+
+[Invite the bot](https://ihxyz.dev/bots/qb?src=qbResultsFile)
+
+[ihxyz development](https://ihxyz.dev/)
+
+[Support server](https://ihxyz.dev/bots/support)
+
+---------------------------------

@@ -1,33 +1,61 @@
-import os
 import discord
 import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-import random
-import pickle
+
+import functions
 
 async def commands(message, client):
+
 	if message.content.startswith('>help'):
 		txt = ""
-		txt += "**FONCTIONS DE D\'ANIMATION DU DISCORD**\n"
-		txt += ':frame_photo: | **>race** : affiche une race d`une espèce aléatoire.\n'
-		txt += ':frame_photo: :dog: | **>race chien** : affiche une race de chien.\n'
-		txt += ':frame_photo: :cat: | **>race chat** : affiche une race de chat.\n'
-		txt += ':frame_photo: :horse: | **>race cheval** : affiche une race d\'équidé.\n'
+		txt += "**FONCTIONS D\'ANIMATION DU DISCORD**\n"
+		txt += "-----------------------------------\n"
+		txt += ':frame_photo: | **>race** : affiche une race d\`une espèce aléatoire.\n'
+		txt += '> :dog: :cat: :horse: | *paramètre **chien**, **chat** et **cheval** possible pour préciser l\espèce.\n'
+		txt += "\n"
+		txt += "**FONCTIONS POUR LES QUIZ**\n"
+		txt += "-----------------------------------\n"
+		txt += ':calendar: | **>planning** : affiche une race d`une espèce aléatoire.\n'
+		txt += ':100: | **>classement** : affiche une race de chien.\n'
+		txt += ':notepad_spiral: | **>rappel** : affiche une race de chien.\n'
 		txt += "\n"
 		txt += "**FONCTIONS DE GESTION DU DISCORD**\n"
 		txt += "-----------------------------------\n"
 		txt += ':bar_chart: **>utilisateurs** : affiche des statistiques sur les utilisateurs du Discord.\n'
 		txt += ':bar_chart: **>messages** : affiche des statistiques sur les messages postés sur le Discord.\n'
-		txt += ':calendar: **>algo** : affiche le lien vers le flowchart du bot.\n'
+		#txt += ':calendar: **>algo** : affiche le lien vers le flowchart du bot.\n'
 		txt += ':calendar: **>projets** : affiche le lien vers la roadmap du bot.\n'
 		txt += ':computer: **>data** : regénère les fichiers de données pour mettre à jour les statistiques.\n'
 		await message.channel.send(txt)
 
+	# INTERACTIONS COMMANDS
+
+	if message.content.startswith('>ordre'):
+		await functions.order_not_available(message);
+
+	if message.content.startswith('>anecdote'):
+		await functions.order_not_available(message);
+
+	if message.content.startswith('>race'):
+		await functions.order_not_available(message);
+
+	# QUIZ COMMANDS
+
+	if message.content.startswith('>planning'):
+		await functions.order_not_available(message);
+
+	if message.content.startswith('>classement'):
+		await functions.order_not_available(message);
+
+	if message.content.startswith('>rappel'):
+		await functions.order_not_available(message);
+
+	# ADMIN COMMANDS
+
+	if message.content.startswith('>algo'):
+		await functions.order_not_available(message);
+
 	if message.content.startswith('>utilisateurs'):
-		await message.channel.send('Cette fonction n\'est pas encore terminée. A bientôt !')
-		await message.channel.send(file=discord.File('inputs/images/work.gif'))
+		await functions.order_not_available(message);
 		return
 
 		await message.channel.send('Bien reçu ! Je vais inspecter les utilisateurs du Discord.')

@@ -1,0 +1,587 @@
+
+# QuizBot Results
+
+---------------------------------
+
+Start time: 2021-03-27 19:02:03.004059
+
+End time: 2021-03-27 19:12:13.946213
+
+Quiz: Les galops en équitation (ID 2163325)
+
+Session: 69223316
+
+---------------------------------
+
+## Questions
+
+### Question 1/28
+
+`[Galop 1] Comment s'appelle un cheval, qui est blanc sur le corps et noir sur les jambes ?`
+
+Correct answer: `Un souris`
+
+| Username                              | Answer  | Time            | Points awarded  | 
+| ------------------------------------- | ------- | --------------- | --------------- | 
+| Erwan#0084                            | Un pie  | 0:00:05.302605  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | Alezan  | 0:00:07.656521  | 0               | 
+| KimieCJduGarric#7403                  | Un pie  | 0:00:09.282179  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | Alezan  | 0:00:10.425484  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | Un pie  | 0:00:10.604293  | 0               | 
+| marinette#4290                        | N/A     | N/A             | N/A             | 
+| Anaël CJ de Cluses#7963               | N/A     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974       | N/A     | N/A             | N/A             | 
+| lilou#0184                            | N/A     | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A     | N/A             | N/A             | 
+
+### Question 2/28
+
+`[Galop 1] Que fait-on quand le pied d'un cheval est sale ?`
+
+Correct answer: `On le cure`
+
+| Username                              | Answer      | Time            | Points awarded  | 
+| ------------------------------------- | ----------- | --------------- | --------------- | 
+| Clémentine CJ SaintPierreDuMont#3516  | On le cure  | 0:00:03.533628  | 882             | 
+| Erwan#0084                            | On le cure  | 0:00:03.622298  | 879             | 
+| lily_blk CJ de yvré l'évêque#7445     | On le cure  | 0:00:04.347093  | 855             | 
+| KimieCJduGarric#7403                  | On le cure  | 0:00:04.442714  | 852             | 
+| marinette#4290                        | On le cure  | 0:00:07.477543  | 751             | 
+| Anaël CJ de Cluses#7963               | On le cure  | 0:00:07.499514  | 750             | 
+| Ewen du CJ de Chateaubourg#7758       | On le cure  | 0:00:08.295016  | 723             | 
+| Margau CJ de Vaux-le-Pénil#1974       | N/A         | N/A             | N/A             | 
+| lilou#0184                            | N/A         | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A         | N/A             | N/A             | 
+
+### Question 3/28
+
+`[Galop 1] Que fait-on quand le sabot d'un cheval est sale ?`
+
+Correct answer: `On le brosse`
+
+| Username                              | Answer        | Time            | Points awarded  | 
+| ------------------------------------- | ------------- | --------------- | --------------- | 
+| Erwan#0084                            | On le brosse  | 0:00:04.843287  | 839             | 
+| Clémentine CJ SaintPierreDuMont#3516  | On le brosse  | 0:00:08.907915  | 703             | 
+| lily_blk CJ de yvré l'évêque#7445     | On le cure    | 0:00:08.616630  | 0               | 
+| KimieCJduGarric#7403                  | On le cure    | 0:00:03.026578  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | On le cure    | 0:00:05.078382  | 0               | 
+| marinette#4290                        | N/A           | N/A             | N/A             | 
+| Anaël CJ de Cluses#7963               | On le cure    | 0:00:05.957994  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974       | On le cure    | 0:00:08.575066  | 0               | 
+| lilou#0184                            | N/A           | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A           | N/A             | N/A             | 
+
+### Question 4/28
+
+`[Galop 1] À partir de quelle taille un poney devient-il un cheval ?`
+
+Correct answer: `1.48`
+
+| Username                              | Answer  | Time            | Points awarded  | 
+| ------------------------------------- | ------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974       | 1.48    | 0:00:04.836872  | 839             | 
+| Anaël CJ de Cluses#7963               | 1.48    | 0:00:06.474081  | 784             | 
+| Erwan#0084                            | 1.50    | 0:00:04.520355  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | 1.50    | 0:00:09.719887  | 0               | 
+| KimieCJduGarric#7403                  | 1.43    | 0:00:03.738941  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | 1.50    | 0:00:05.748076  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | 1.50    | 0:00:06.666922  | 0               | 
+| marinette#4290                        | 1.43    | 0:00:09.031233  | 0               | 
+| lilou#0184                            | N/A     | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A     | N/A             | N/A             | 
+
+### Question 5/28
+
+`[Galop 2] Quel est le bon ordre des opérations de pansage ? 1=brosse douce; 2=cure-pied; 3=éponge; 4= épousette; 5=bouchon; 6=étrille(galop 2)`
+
+Correct answer: `2, 6, 5, 1, 3, 4`
+
+| Username                              | Answer            | Time            | Points awarded  | 
+| ------------------------------------- | ----------------- | --------------- | --------------- | 
+| Erwan#0084                            | 2, 3, 5, 4, 1, 6  | 0:00:05.638849  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | 2, 6, 5, 1, 4, 3  | 0:00:26.687945  | 0               | 
+| KimieCJduGarric#7403                  | 2, 6, 5, 1, 4, 3  | 0:00:19.321090  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | N/A               | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516  | 2, 6, 5, 1, 4, 3  | 0:00:23.597640  | 0               | 
+| marinette#4290                        | N/A               | N/A             | N/A             | 
+| Anaël CJ de Cluses#7963               | N/A               | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974       | N/A               | N/A             | N/A             | 
+| lilou#0184                            | N/A               | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A               | N/A             | N/A             | 
+
+### Question 6/28
+
+`[Galop 2] Le trot est parfois plus rapide que le galop.`
+
+Correct answer: `Vrai`
+
+| Username                              | Answer  | Time            | Points awarded  | 
+| ------------------------------------- | ------- | --------------- | --------------- | 
+| KimieCJduGarric#7403                  | Vrai    | 0:00:02.079873  | 931             | 
+| Margau CJ de Vaux-le-Pénil#1974       | Vrai    | 0:00:02.915728  | 903             | 
+| Anaël CJ de Cluses#7963               | Vrai    | 0:00:05.897115  | 803             | 
+| Clémentine CJ SaintPierreDuMont#3516  | Vrai    | 0:00:06.283070  | 791             | 
+| lily_blk CJ de yvré l'évêque#7445     | Vrai    | 0:00:11.085163  | 630             | 
+| lilou#0184                            | Vrai    | 0:00:15.209195  | 493             | 
+| Erwan#0084                            | Faux    | 0:00:10.491338  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | Faux    | 0:00:06.918595  | 0               | 
+| marinette#4290                        | Faux    | 0:00:09.484210  | 0               | 
+| Alma CJ de Bordeaux#1871              | N/A     | N/A             | N/A             | 
+
+### Question 7/28
+
+`[Galop 2] Quelle est ta position lorsque tu sautes un obstacle ?`
+
+Correct answer: `En équilibre`
+
+| Username                              | Answer        | Time            | Points awarded  | 
+| ------------------------------------- | ------------- | --------------- | --------------- | 
+| KimieCJduGarric#7403                  | En équilibre  | 0:00:03.197776  | 893             | 
+| Margau CJ de Vaux-le-Pénil#1974       | En équilibre  | 0:00:03.631728  | 879             | 
+| Anaël CJ de Cluses#7963               | En équilibre  | 0:00:04.377116  | 854             | 
+| lilou#0184                            | En équilibre  | 0:00:06.729284  | 776             | 
+| lily_blk CJ de yvré l'évêque#7445     | En équilibre  | 0:00:07.722554  | 743             | 
+| Clémentine CJ SaintPierreDuMont#3516  | En équilibre  | 0:00:07.846582  | 738             | 
+| Ewen du CJ de Chateaubourg#7758       | En équilibre  | 0:00:09.889781  | 670             | 
+| Erwan#0084                            | Debout        | 0:00:03.704426  | 0               | 
+| marinette#4290                        | N/A           | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A           | N/A             | N/A             | 
+
+### Question 8/28
+
+`[Galop 2] Quelle est l'aide artificielle ?`
+
+Correct answer: `La cravache`
+
+| Username                              | Answer       | Time            | Points awarded  | 
+| ------------------------------------- | ------------ | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974       | La cravache  | 0:00:02.706410  | 910             | 
+| Clémentine CJ SaintPierreDuMont#3516  | La cravache  | 0:00:04.004267  | 867             | 
+| KimieCJduGarric#7403                  | La cravache  | 0:00:05.168032  | 828             | 
+| Ewen du CJ de Chateaubourg#7758       | La cravache  | 0:00:05.390824  | 820             | 
+| lily_blk CJ de yvré l'évêque#7445     | La cravache  | 0:00:05.691465  | 810             | 
+| Erwan#0084                            | La cravache  | 0:00:05.719869  | 809             | 
+| Anaël CJ de Cluses#7963               | La cravache  | 0:00:08.921371  | 703             | 
+| marinette#4290                        | La cravache  | 0:00:11.257969  | 625             | 
+| lilou#0184                            | N/A          | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A          | N/A             | N/A             | 
+
+### Question 9/28
+
+`[Galop 3] Il faut graisser les pieds au moins :`
+
+Correct answer: `Une fois par semaine`
+
+| Username                              | Answer                | Time            | Points awarded  | 
+| ------------------------------------- | --------------------- | --------------- | --------------- | 
+| KimieCJduGarric#7403                  | Une fois par semaine  | 0:00:03.354886  | 888             | 
+| Erwan#0084                            | Une fois par semaine  | 0:00:05.181697  | 827             | 
+| lily_blk CJ de yvré l'évêque#7445     | Une fois par semaine  | 0:00:06.133138  | 796             | 
+| Anaël CJ de Cluses#7963               | Une fois par semaine  | 0:00:08.760006  | 708             | 
+| Ewen du CJ de Chateaubourg#7758       | Une fois par semaine  | 0:00:09.443236  | 685             | 
+| Clémentine CJ SaintPierreDuMont#3516  | Une fois par semaine  | 0:00:09.773099  | 674             | 
+| marinette#4290                        | Une fois par semaine  | 0:00:10.072276  | 664             | 
+| Margau CJ de Vaux-le-Pénil#1974       | Une fois par mois     | 0:00:02.969503  | 0               | 
+| lilou#0184                            | N/A                   | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A                   | N/A             | N/A             | 
+
+### Question 10/28
+
+`[Galop 3] Alimentation : quel est le bon ordre ?`
+
+Correct answer: `Foin, aliment complet`
+
+| Username                              | Answer                 | Time            | Points awarded  | 
+| ------------------------------------- | ---------------------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974       | Foin, aliment complet  | 0:00:03.383671  | 887             | 
+| lily_blk CJ de yvré l'évêque#7445     | Foin, aliment complet  | 0:00:03.447337  | 885             | 
+| Clémentine CJ SaintPierreDuMont#3516  | Foin, aliment complet  | 0:00:04.092414  | 864             | 
+| Erwan#0084                            | Foin, aliment complet  | 0:00:05.295176  | 823             | 
+| Ewen du CJ de Chateaubourg#7758       | Foin, aliment complet  | 0:00:05.732304  | 809             | 
+| Anaël CJ de Cluses#7963               | Foin, aliment complet  | 0:00:06.886216  | 770             | 
+| marinette#4290                        | Foin, aliment complet  | 0:00:09.854681  | 672             | 
+| KimieCJduGarric#7403                  | Aliment complet, foin  | 0:00:04.654190  | 0               | 
+| lilou#0184                            | N/A                    | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A                    | N/A             | N/A             | 
+
+### Question 11/28
+
+`[Galop 3] De bas en haut, quelles sont les parties des membres antérieurs d'un cheval ?`
+
+Correct answer: `Sabot, couronne, paturon, boulet, canon`
+
+| Username                              | Answer                                   | Time            | Points awarded  | 
+| ------------------------------------- | ---------------------------------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758       | Sabot, couronne, paturon, boulet, canon  | 0:00:07.735484  | 742             | 
+| Erwan#0084                            | Sabot, paturon, couronne, canon, boulet  | 0:00:10.344480  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | N/A                                      | N/A             | N/A             | 
+| KimieCJduGarric#7403                  | Sabot, paturon, couronne, canon, boulet  | 0:00:13.509923  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | N/A                                      | N/A             | N/A             | 
+| marinette#4290                        | Sabot, paturon, couronne, boulet, canon  | 0:00:13.835136  | 0               | 
+| Anaël CJ de Cluses#7963               | Sabot, paturon, couronne, canon, boulet  | 0:00:11.474801  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974       | N/A                                      | N/A             | N/A             | 
+| lilou#0184                            | N/A                                      | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A                                      | N/A             | N/A             | 
+
+### Question 12/28
+
+`[Galop 3] Le galop est une allure :`
+
+Correct answer: `A trois temps, sautée, basculée.`
+
+| Username                              | Answer                              | Time            | Points awarded  | 
+| ------------------------------------- | ----------------------------------- | --------------- | --------------- | 
+| Erwan#0084                            | Basculée, dissymétrique, a 4 temps  | 0:00:11.887526  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | Basculée, dissymétrique, a 4 temps  | 0:00:09.350255  | 0               | 
+| KimieCJduGarric#7403                  | Basculée, dissymétrique, a 4 temps  | 0:00:06.142848  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | Basculée, dissymétrique, a 4 temps  | 0:00:08.710923  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | Basculée, dissymétrique, a 4 temps  | 0:00:12.581475  | 0               | 
+| marinette#4290                        | N/A                                 | N/A             | N/A             | 
+| Anaël CJ de Cluses#7963               | Basculée, dissymétrique, a 4 temps  | 0:00:09.997750  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974       | Basculée, dissymétrique, a 4 temps  | 0:00:07.334766  | 0               | 
+| lilou#0184                            | N/A                                 | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A                                 | N/A             | N/A             | 
+
+### Question 13/28
+
+`[Galop 4] Le cheval vomit ?`
+
+Correct answer: `Jamais, certains muscles lui interdisent`
+
+| Username                              | Answer                                    | Time            | Points awarded  | 
+| ------------------------------------- | ----------------------------------------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974       | Jamais, certains muscles lui interdisent  | 0:00:03.024519  | 899             | 
+| Ewen du CJ de Chateaubourg#7758       | Jamais, certains muscles lui interdisent  | 0:00:04.249484  | 858             | 
+| KimieCJduGarric#7403                  | Jamais, certains muscles lui interdisent  | 0:00:04.302964  | 857             | 
+| Clémentine CJ SaintPierreDuMont#3516  | Jamais, certains muscles lui interdisent  | 0:00:04.515160  | 849             | 
+| lily_blk CJ de yvré l'évêque#7445     | Jamais, certains muscles lui interdisent  | 0:00:05.830905  | 806             | 
+| Erwan#0084                            | Jamais, certains muscles lui interdisent  | 0:00:07.558344  | 748             | 
+| Anaël CJ de Cluses#7963               | Jamais, certains muscles lui interdisent  | 0:00:08.079609  | 731             | 
+| marinette#4290                        | Jamais, certains muscles lui interdisent  | 0:00:11.350062  | 622             | 
+| lilou#0184                            | N/A                                       | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A                                       | N/A             | N/A             | 
+
+### Question 14/28
+
+`[Galop 4] Mécanisme du galop à droite :`
+
+Correct answer: `Postérieur gauche , diagonal gauche , antérieur droit , projection`
+
+| Username                              | Answer                                                               | Time            | Points awarded  | 
+| ------------------------------------- | -------------------------------------------------------------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758       | Postérieur gauche , diagonal gauche , antérieur droit , projection   | 0:00:08.041022  | 732             | 
+| Erwan#0084                            | Postérieur gauche , diagonal gauche , postérieur droit , projection  | 0:00:08.466492  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | Postérieur droit , diagonal droit , antérieur gauche , projection    | 0:00:13.165660  | 0               | 
+| KimieCJduGarric#7403                  | Postérieur gauche , diagonal gauche , postérieur droit , projection  | 0:00:14.881121  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | N/A                                                                  | N/A             | N/A             | 
+| marinette#4290                        | N/A                                                                  | N/A             | N/A             | 
+| Anaël CJ de Cluses#7963               | N/A                                                                  | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974       | N/A                                                                  | N/A             | N/A             | 
+| lilou#0184                            | N/A                                                                  | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A                                                                  | N/A             | N/A             | 
+
+### Question 15/28
+
+`[Galop 4] Mécanisme du saut :`
+
+Correct answer: `Battue des antérieurs Battue des potérieurs Phase ascendante , Planer , Phase descendante , Réception`
+
+| Username                              | Answer                                                                                                          | Time            | Points awarded  | 
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------- | --------------- | 
+| lily_blk CJ de yvré l'évêque#7445     | Battue des antérieurs Battue des potérieurs Phase ascendante , Planer , Phase descendante , Réception           | 0:00:02.297238  | 923             | 
+| Erwan#0084                            | Battue des antérieurs Battue des potérieurs Phase ascendante , Planer , Phase descendante , Réception           | 0:00:02.887012  | 904             | 
+| marinette#4290                        | Battue des antérieurs Battue des potérieurs Phase ascendante , Planer , Phase descendante , Réception           | 0:00:07.046369  | 765             | 
+| KimieCJduGarric#7403                  | Battue des antérieurs Battue des potérieurs Phase ascendante , Planer , Phase descendante , Réception           | 0:00:10.792291  | 640             | 
+| Anaël CJ de Cluses#7963               | Battue des antérieurs Battue des potérieurs Phase ascendante , Planer , Phase descendante , Réception           | 0:00:12.461036  | 585             | 
+| Ewen du CJ de Chateaubourg#7758       | Battue des postérieurs Battue des antérieurs Phase ascendante Survol de l'obstacle Phase descendante Réception  | 0:00:06.360930  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | N/A                                                                                                             | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974       | N/A                                                                                                             | N/A             | N/A             | 
+| lilou#0184                            | N/A                                                                                                             | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | Battue des postérieurs Battue des antérieurs Phase ascendante Survol de l'obstacle Phase descendante Réception  | 0:00:08.000350  | 0               | 
+
+### Question 16/28
+
+`[Galop 4] Définition : L'assiette`
+
+Correct answer: `C'est la qualité qui permet au cavalier de rester maitre de son équilibre en toute circonstance`
+
+| Username                              | Answer                                                                                           | Time            | Points awarded  | 
+| ------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------- | --------------- | 
+| KimieCJduGarric#7403                  | C'est la qualité qui permet au cavalier de rester maitre de son équilibre en toute circonstance  | 0:00:05.877776  | 804             | 
+| Margau CJ de Vaux-le-Pénil#1974       | C'est la qualité qui permet au cavalier de rester maitre de son équilibre en toute circonstance  | 0:00:09.335284  | 689             | 
+| Clémentine CJ SaintPierreDuMont#3516  | C'est la qualité qui permet au cavalier de rester maitre de son équilibre en toute circonstance  | 0:00:09.572865  | 681             | 
+| Alma CJ de Bordeaux#1871              | C'est la qualité qui permet au cavalier de rester maitre de son équilibre en toute circonstance  | 0:00:10.455192  | 651             | 
+| Erwan#0084                            | C'est la qualité qui permet au cavalier de rester maitre de son équilibre en toute circonstance  | 0:00:11.977834  | 601             | 
+| Anaël CJ de Cluses#7963               | C'est la qualité qui permet au cavalier de rester maitre de son équilibre en toute circonstance  | 0:00:13.117849  | 563             | 
+| lily_blk CJ de yvré l'évêque#7445     | C'est la capacité du cavalier qui lui permet de tomber                                           | 0:00:01.434062  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | C'est la capacité du cheval a être droit                                                         | 0:00:09.356340  | 0               | 
+| marinette#4290                        | C'est la capacité du cavalier qui lui permet de tomber                                           | 0:00:10.330333  | 0               | 
+| lilou#0184                            | N/A                                                                                              | N/A             | N/A             | 
+
+### Question 17/28
+
+`[Galop 5] Combien de vertèbres sacrées a le cheval ?`
+
+Correct answer: `5`
+
+| Username                              | Answer  | Time            | Points awarded  | 
+| ------------------------------------- | ------- | --------------- | --------------- | 
+| Erwan#0084                            | 7       | 0:00:03.091233  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | 7       | 0:00:04.396927  | 0               | 
+| KimieCJduGarric#7403                  | 7       | 0:00:03.284763  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | 7       | 0:00:05.223534  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | 7       | 0:00:07.723630  | 0               | 
+| marinette#4290                        | 7       | 0:00:10.759551  | 0               | 
+| Anaël CJ de Cluses#7963               | 7       | 0:00:06.991401  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974       | 7       | 0:00:05.010553  | 0               | 
+| lilou#0184                            | N/A     | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | 7       | 0:00:04.356047  | 0               | 
+
+### Question 18/28
+
+`[Galop 5] Combien de paires de côtes a le cheval ?`
+
+Correct answer: `18`
+
+| Username                              | Answer  | Time            | Points awarded  | 
+| ------------------------------------- | ------- | --------------- | --------------- | 
+| Clémentine CJ SaintPierreDuMont#3516  | 18      | 0:00:06.809797  | 773             | 
+| Alma CJ de Bordeaux#1871              | 18      | 0:00:10.252271  | 658             | 
+| Erwan#0084                            | 16      | 0:00:09.210981  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | 16      | 0:00:06.418424  | 0               | 
+| KimieCJduGarric#7403                  | 16      | 0:00:04.042458  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | 20      | 0:00:04.543279  | 0               | 
+| marinette#4290                        | 16      | 0:00:08.922977  | 0               | 
+| Anaël CJ de Cluses#7963               | N/A     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974       | 16      | 0:00:08.691194  | 0               | 
+| lilou#0184                            | N/A     | N/A             | N/A             | 
+
+### Question 19/28
+
+`[Galop 5] Un muscle est fait de :`
+
+Correct answer: `Tissus vivants`
+
+| Username                              | Answer          | Time            | Points awarded  | 
+| ------------------------------------- | --------------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974       | Tissus vivants  | 0:00:03.085381  | 897             | 
+| Anaël CJ de Cluses#7963               | Tissus vivants  | 0:00:07.673981  | 744             | 
+| marinette#4290                        | Tissus vivants  | 0:00:12.305988  | 590             | 
+| Erwan#0084                            | Fibres          | 0:00:05.332489  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | N/A             | N/A             | N/A             | 
+| KimieCJduGarric#7403                  | Fibres          | 0:00:02.292002  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | Fibres          | 0:00:08.389225  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | Fibres          | 0:00:05.300113  | 0               | 
+| lilou#0184                            | N/A             | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | Fibres          | 0:00:10.691630  | 0               | 
+
+### Question 20/28
+
+`[Galop 5] Les muscles lisses s'appellent aussi muscles :`
+
+Correct answer: `Blancs`
+
+| Username                              | Answer  | Time            | Points awarded  | 
+| ------------------------------------- | ------- | --------------- | --------------- | 
+| Clémentine CJ SaintPierreDuMont#3516  | Blancs  | 0:00:03.701027  | 877             | 
+| marinette#4290                        | Blancs  | 0:00:07.082801  | 764             | 
+| KimieCJduGarric#7403                  | Blancs  | 0:00:07.612731  | 746             | 
+| Alma CJ de Bordeaux#1871              | Blancs  | 0:00:12.155083  | 595             | 
+| Erwan#0084                            | Rouges  | 0:00:06.128643  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | N/A     | N/A             | N/A             | 
+| Ewen du CJ de Chateaubourg#7758       | Noirs   | 0:00:04.840141  | 0               | 
+| Anaël CJ de Cluses#7963               | Rouges  | 0:00:08.175338  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974       | Rouges  | 0:00:09.375583  | 0               | 
+| lilou#0184                            | N/A     | N/A             | N/A             | 
+
+### Question 21/28
+
+`[Galop 6] Comment s'appelle le bruit que fait entendre le pied quand il entre en contact avec le sol ?`
+
+Correct answer: `Battue`
+
+| Username                              | Answer      | Time            | Points awarded  | 
+| ------------------------------------- | ----------- | --------------- | --------------- | 
+| Margau CJ de Vaux-le-Pénil#1974       | Battue      | 0:00:04.172349  | 861             | 
+| KimieCJduGarric#7403                  | Battue      | 0:00:05.279787  | 824             | 
+| Ewen du CJ de Chateaubourg#7758       | Battue      | 0:00:05.847643  | 805             | 
+| Erwan#0084                            | Claquement  | 0:00:04.999907  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | N/A         | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516  | Claquement  | 0:00:04.664452  | 0               | 
+| marinette#4290                        | Claquement  | 0:00:06.662044  | 0               | 
+| Anaël CJ de Cluses#7963               | Claquement  | 0:00:07.328828  | 0               | 
+| lilou#0184                            | N/A         | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | Claquement  | 0:00:11.008107  | 0               | 
+
+### Question 22/28
+
+`[Galop 6] Compléter : Le ... suspenseur du boulet :`
+
+Correct answer: `Ligament`
+
+| Username                              | Answer    | Time            | Points awarded  | 
+| ------------------------------------- | --------- | --------------- | --------------- | 
+| Alma CJ de Bordeaux#1871              | Ligament  | 0:00:11.777121  | 607             | 
+| Erwan#0084                            | Tendon    | 0:00:02.717063  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | N/A       | N/A             | N/A             | 
+| KimieCJduGarric#7403                  | Tendon    | 0:00:06.118086  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | Tendon    | 0:00:07.726053  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | N/A       | N/A             | N/A             | 
+| marinette#4290                        | Muscle    | 0:00:10.968660  | 0               | 
+| Anaël CJ de Cluses#7963               | N/A       | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974       | Tendon    | 0:00:05.307968  | 0               | 
+| lilou#0184                            | N/A       | N/A             | N/A             | 
+
+### Question 23/28
+
+`[Galop 6] Quels enrênements sont autorisés en concours de dressage officiel chevaux :`
+
+Correct answer: `Aucun enraînement n'est autorisé.`
+
+| Username                              | Answer                                 | Time            | Points awarded  | 
+| ------------------------------------- | -------------------------------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758       | Aucun enraînement n'est autorisé.      | 0:00:07.475678  | 751             | 
+| KimieCJduGarric#7403                  | Aucun enraînement n'est autorisé.      | 0:00:08.363259  | 721             | 
+| Erwan#0084                            | Tous les enraînements sont autorisés.  | 0:00:08.669702  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | N/A                                    | N/A             | N/A             | 
+| Clémentine CJ SaintPierreDuMont#3516  | N/A                                    | N/A             | N/A             | 
+| marinette#4290                        | Tous les enraînements sont autorisés.  | 0:00:14.423698  | 0               | 
+| Anaël CJ de Cluses#7963               | N/A                                    | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974       | Tous les enraînements sont autorisés.  | 0:00:09.932929  | 0               | 
+| lilou#0184                            | N/A                                    | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | Tous les enraînements sont autorisés.  | 0:00:13.642987  | 0               | 
+
+### Question 24/28
+
+`[Galop 6] Quelles sont les lettres au centre du manège ?`
+
+Correct answer: `A d l x i g c`
+
+| Username                              | Answer         | Time            | Points awarded  | 
+| ------------------------------------- | -------------- | --------------- | --------------- | 
+| Erwan#0084                            | A b c d e f g  | 0:00:08.119903  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | N/A            | N/A             | N/A             | 
+| KimieCJduGarric#7403                  | A b c d e f g  | 0:00:10.923958  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | A d e x i f g  | 0:00:06.858012  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | N/A            | N/A             | N/A             | 
+| marinette#4290                        | A b c d e f g  | 0:00:10.229939  | 0               | 
+| Anaël CJ de Cluses#7963               | A d e x i f g  | 0:00:10.340331  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974       | A d e x i f g  | 0:00:08.872305  | 0               | 
+| lilou#0184                            | N/A            | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | A d e x i f g  | 0:00:10.841406  | 0               | 
+
+### Question 25/28
+
+`[Galop 7] Parmi ces mors, lequel a l´action la plus douce ?`
+
+Correct answer: `Mors à Olives.`
+
+| Username                              | Answer          | Time            | Points awarded  | 
+| ------------------------------------- | --------------- | --------------- | --------------- | 
+| Anaël CJ de Cluses#7963               | Mors à Olives.  | 0:00:04.997463  | 833             | 
+| Margau CJ de Vaux-le-Pénil#1974       | Mors à Olives.  | 0:00:06.717052  | 776             | 
+| Ewen du CJ de Chateaubourg#7758       | Mors à Olives.  | 0:00:07.452747  | 752             | 
+| marinette#4290                        | Mors à Olives.  | 0:00:09.807498  | 673             | 
+| Erwan#0084                            | Mors Pessoa.    | 0:00:06.352977  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | N/A             | N/A             | N/A             | 
+| KimieCJduGarric#7403                  | Mors Pessoa.    | 0:00:07.570986  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | N/A             | N/A             | N/A             | 
+| lilou#0184                            | N/A             | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | Mors Pessoa.    | 0:00:14.195661  | 0               | 
+
+### Question 26/28
+
+`[Galop 7]  Dans un double de verticaux séparés de 10,5 m., combien de foulées fait un cheval moyen ?`
+
+Correct answer: `2`
+
+| Username                              | Answer  | Time            | Points awarded  | 
+| ------------------------------------- | ------- | --------------- | --------------- | 
+| Erwan#0084                            | 3       | 0:00:11.433161  | 0               | 
+| lily_blk CJ de yvré l'évêque#7445     | N/A     | N/A             | N/A             | 
+| KimieCJduGarric#7403                  | 3       | 0:00:06.538989  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | 3       | 0:00:06.488822  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | N/A     | N/A             | N/A             | 
+| marinette#4290                        | 3       | 0:00:06.804943  | 0               | 
+| Anaël CJ de Cluses#7963               | 3       | 0:00:14.211309  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974       | 3       | 0:00:07.789969  | 0               | 
+| lilou#0184                            | N/A     | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | 3       | 0:00:09.569342  | 0               | 
+
+### Question 27/28
+
+`[Galop 7]  Parmi ces enrênements, lequel ne peut-être utilisé qu´à la longe ?`
+
+Correct answer: `Le chambon`
+
+| Username                              | Answer                                | Time            | Points awarded  | 
+| ------------------------------------- | ------------------------------------- | --------------- | --------------- | 
+| KimieCJduGarric#7403                  | Le chambon                            | 0:00:06.160745  | 795             | 
+| Erwan#0084                            | Le chambon                            | 0:00:08.554363  | 715             | 
+| marinette#4290                        | Le chambon                            | 0:00:09.771153  | 674             | 
+| lily_blk CJ de yvré l'évêque#7445     | N/A                                   | N/A             | N/A             | 
+| Ewen du CJ de Chateaubourg#7758       | Les rênes coulissantes ou viennoises  | 0:00:06.400902  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | N/A                                   | N/A             | N/A             | 
+| Anaël CJ de Cluses#7963               | Les rênes coulissantes ou viennoises  | 0:00:12.198353  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974       | Le gogue                              | 0:00:11.783714  | 0               | 
+| lilou#0184                            | N/A                                   | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871              | N/A                                   | N/A             | N/A             | 
+
+### Question 28/28
+
+`[Galop 7]  Qu´est-ce qu´on appelle une seime ?`
+
+Correct answer: `Une fente verticale dans le sabot.`
+
+| Username                              | Answer                              | Time            | Points awarded  | 
+| ------------------------------------- | ----------------------------------- | --------------- | --------------- | 
+| Anaël CJ de Cluses#7963               | Une fente verticale dans le sabot.  | 0:00:07.322821  | 756             | 
+| marinette#4290                        | Une fente verticale dans le sabot.  | 0:00:07.515061  | 749             | 
+| Alma CJ de Bordeaux#1871              | Une fente verticale dans le sabot.  | 0:00:08.455641  | 718             | 
+| Erwan#0084                            | Une fente verticale dans le sabot.  | 0:00:10.539913  | 649             | 
+| lily_blk CJ de yvré l'évêque#7445     | N/A                                 | N/A             | N/A             | 
+| KimieCJduGarric#7403                  | Un hématome au niveau de la sole    | 0:00:06.423189  | 0               | 
+| Ewen du CJ de Chateaubourg#7758       | Un hématome au niveau de la sole    | 0:00:03.434502  | 0               | 
+| Clémentine CJ SaintPierreDuMont#3516  | N/A                                 | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974       | Un hématome au niveau de la sole    | 0:00:04.741192  | 0               | 
+| lilou#0184                            | N/A                                 | N/A             | N/A             | 
+
+---------------------------------
+
+## Final leaderboard
+
+There were a total of 28 questions in this quiz.
+
+10 users participated.
+
+| #   | Username                              | Nickname             | Points  | Correct  | Answered  | 
+| --- | ------------------------------------- | -------------------- | ------- | -------- | --------- | 
+| 1   | KimieCJduGarric#7403                  |                      | 9779    | 12       | 28        | 
+| 2   | Anaël CJ de Cluses#7963               |                      | 9584    | 13       | 22        | 
+| 3   | Clémentine CJ SaintPierreDuMont#3516  |                      | 8699    | 11       | 18        | 
+| 4   | Margau CJ de Vaux-le-Pénil#1974       |                      | 8540    | 10       | 22        | 
+| 5   | Ewen du CJ de Chateaubourg#7758       |                      | 8347    | 11       | 27        | 
+| 6   | Erwan#0084                            | Erwan Châteaubourg   | 7794    | 10       | 28        | 
+| 7   | marinette#4290                        | Marinette Luynes     | 7549    | 11       | 22        | 
+| 8   | lily_blk CJ de yvré l'évêque#7445     |                      | 6448    | 8        | 17        | 
+| 9   | Alma CJ de Bordeaux#1871              | Alma CJ de Bordeaux  | 3229    | 5        | 13        | 
+| 10  | lilou#0184                            |                      | 1269    | 2        | 2         | 
+
+---------------------------------
+
+## Links
+
+Thank you for supporting and using the bot.
+
+[Vote for the bot](https://top.gg/bot/558996910581612545/vote?src=qbResultsFile)
+
+[QuizBot website](https://quizbot.xyz/)
+
+[Invite the bot](https://ihxyz.dev/bots/qb?src=qbResultsFile)
+
+[ihxyz development](https://ihxyz.dev/)
+
+[Support server](https://ihxyz.dev/bots/support)
+
+---------------------------------
