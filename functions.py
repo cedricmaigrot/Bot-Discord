@@ -66,7 +66,7 @@ async def race(message):
         await message.channel.send('Je n\'ai pas d\'image de cheval. Pourtant ça doit faire 3 semaines que Cédric doit le faire ... ')
         return
     sample = df_temp.sample()
-    message.channel.send('*Ohana montre une race au hasard :*')
+    await message.channel.send('*Ohana montre une race au hasard :*')
     e = discord.Embed()
     e.set_image(url= list(sample['URL'])[0])
     await message.channel.send('**{}**'.format(list(sample['Name'])[0]), embed=e)
