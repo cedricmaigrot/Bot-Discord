@@ -1,3 +1,5 @@
+import asyncio
+
 import discord
 import pandas as pd
 import random
@@ -28,6 +30,29 @@ async def commands(message, client):
         txt += ':computer: **>data** : regénère les fichiers de données pour mettre à jour les statistiques.\n'
         await message.channel.send(txt)
 
+    if message.content.startswith('>test'):
+        await message.channel.send('>help')
+        await asyncio.sleep(2)
+        await message.channel.send('>race')
+        await asyncio.sleep(2)
+        await message.channel.send('>race chien')
+        await asyncio.sleep(2)
+        await message.channel.send('>race chat')
+        await asyncio.sleep(2)
+        await message.channel.send('>race cheval')
+        await asyncio.sleep(2)
+        await message.channel.send('>anecdote')
+        await asyncio.sleep(2)
+        await message.channel.send('>ordre')
+        await asyncio.sleep(2)
+        await message.channel.send('>ordre assis')
+        await asyncio.sleep(2)
+        await message.channel.send('>ordre couché')
+        await asyncio.sleep(2)
+        await message.channel.send('>ordre patte')
+        await asyncio.sleep(2)
+        await message.channel.send('>ordre belle')
+
     # INTERACTIONS COMMANDS
     if message.content.startswith('>ordre'):
         await functions.apply_order(message)
@@ -36,8 +61,7 @@ async def commands(message, client):
         await functions.anecdote(message)
 
     if message.content.startswith('>race'):
-        functions.race(message)
-        return
+        await functions.race(message)
 
     # QUIZ COMMANDS
     if message.content.startswith('>planning'):
