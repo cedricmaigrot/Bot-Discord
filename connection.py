@@ -18,7 +18,7 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    if message.author == client.user:
+    if not message.content.startswith('>') and message.author == client.user:
         return
 
     if 'ohana' in message.content.lower():
