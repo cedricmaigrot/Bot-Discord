@@ -56,17 +56,19 @@ async def anecdote(message):
 
 
 async def race(message):
-    df_images_races_urls = pd.read_csv('inputs/csv/images.csv', delimiter="\t")
+    df_images_races_urls = pd.read_csv('inputs/csv/images.csv', delimiter=",")
     df_temp = df_images_races_urls
     if 'chien' in message.content:
         df_temp = df_temp[df_temp['Espece'] == "chien"]
     if 'chat' in message.content:
         df_temp = df_temp[df_temp['Espece'] == "chat"]
     if 'cheval' in message.content:
-        await message.channel.send('Je n\'ai pas d\'image de cheval. Pourtant ça doit faire 3 semaines que Cédric doit le faire ... ')
-        return
+        df_temp = df_temp[df_temp['Espece'] == "cheval"]
     sample = df_temp.sample()
     await message.channel.send('*Ohana montre une race au hasard :*')
     e = discord.Embed()
     e.set_image(url= list(sample['URL'])[0])
-    await message.channel.send('**{}**'.format(list(sample['Name'])[0]), embed=e)
+    if 'cheval' in list(sample['Espece'])[0]:
+        await message.channel.send('**{}** | *{}*'.format(list(sample['Race'])[0], list(sample['Categorie'])[0]), embed=e)
+    else :
+        await message.channel.send('**{}**'.format(list(sample['Race'])[0]), embed=e)
