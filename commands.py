@@ -12,14 +12,23 @@ async def commands(message, client):
         txt = ""
         txt += "**FONCTIONS D\'ANIMATION DU DISCORD**\n"
         txt += "-----------------------------------\n"
+        txt += ':dog2: | **>ordre** : Donne un ordre à Ohana.\n'
+        txt += '> Paramètres :\n'
+        txt += '> *assis*, *couché* ou *patte* | Liste non exhaustive.A toi de trouver les autres :upside_down:.\n'
+        txt += '> Exemple : **>ordre patte chien**\n'
         txt += ':frame_photo: | **>race** : affiche une race d\`une espèce aléatoire.\n'
-        txt += '> :dog: :cat: :horse: | *paramètre **chien**, **chat** et **cheval** possible pour préciser l\espèce.\n'
+        txt += '> Paramètres :\n'
+        txt += '> *chien* :dog:, *chat* :cat: ou *cheval* :horse: | Permet de préciser l\'espèce dont la race tirée au sort est associée.\n'
+        txt += '> Exemple : **>race chien**\n'
+        txt += ':teacher: | **>anecdote** : affiche une anecdote sur les animaux.\n'
         txt += "\n"
         txt += "**FONCTIONS POUR LES QUIZ**\n"
         txt += "-----------------------------------\n"
-        txt += ':calendar: | **>planning** : affiche une race d`une espèce aléatoire.\n'
-        txt += ':100: | **>classement** : affiche une race de chien.\n'
-        txt += ':notepad_spiral: | **>rappel** : affiche une race de chien.\n'
+        txt += ':question: | **>quiz** : commande globale pour toutes les commandes liées aux quiz.\n'
+        txt += '> Paramètres :\n'
+        txt += '> *planning* :calendar: | Affiche la liste des quiz avec leur date.\n'
+        txt += '> *classement* :crown: | Affiche le classement en cours (mois courant).\n'
+        txt += '> *rappel* :notepad_spiral: | Gestion de la liste des joueurs de quiz qui veulent un rappel 10 minutes avant les quiz.\n'
         txt += "\n"
         txt += "**FONCTIONS DE GESTION DU DISCORD**\n"
         txt += "-----------------------------------\n"
@@ -31,27 +40,20 @@ async def commands(message, client):
         await message.channel.send(txt)
 
     if message.content.startswith('>test'):
-        await message.channel.send('>help')
-        await asyncio.sleep(2)
-        await message.channel.send('>race')
-        await asyncio.sleep(2)
-        await message.channel.send('>race chien')
-        await asyncio.sleep(2)
-        await message.channel.send('>race chat')
-        await asyncio.sleep(2)
-        await message.channel.send('>race cheval')
-        await asyncio.sleep(2)
-        await message.channel.send('>anecdote')
-        await asyncio.sleep(2)
-        await message.channel.send('>ordre')
-        await asyncio.sleep(2)
-        await message.channel.send('>ordre assis')
-        await asyncio.sleep(2)
-        await message.channel.send('>ordre couché')
-        await asyncio.sleep(2)
-        await message.channel.send('>ordre patte')
-        await asyncio.sleep(2)
-        await message.channel.send('>ordre belle')
+        commands = ['>help',
+                    '>race',
+                    '>race chat',
+                    '>race chien',
+                    '>race cheval',
+                    '>anecdote',
+                    '>ordre assis',
+                    '>ordre couché',
+                    '>ordre patte',
+                    '>ordre high five',
+                    '>ordre belle']
+        for command in commands:
+            await message.channel.send(command)
+            await asyncio.sleep(1)
 
     # INTERACTIONS COMMANDS
     if message.content.startswith('>ordre'):
@@ -68,7 +70,17 @@ async def commands(message, client):
         await functions.order_not_available(message);
 
     if message.content.startswith('>classement'):
-        await functions.order_not_available(message);
+        import quiz as q
+        #q.prepare_csv()
+
+        df = pd.read_csv("outputs/charts/classement.csv")
+        txt = ""
+        for key, row in df.iterrows():
+            txt += "{:6d}pts\t<@{}>\n".format(row['Points'], row['Id'])
+
+        am = discord.AllowedMentions(everyone=False, users=False, roles=False, replied_user=False)
+        await message.channel.send(txt, allowed_mentions=am )
+        #await functions.order_not_available(message);
 
     if message.content.startswith('>rappel'):
         await functions.order_not_available(message);
@@ -81,44 +93,7 @@ async def commands(message, client):
         await functions.order_not_available(message);
         return
 
-        await message.channel.send('Bien reçu ! Je vais inspecter les utilisateurs du Discord.')
-        jeunes, encadrants, referents, autres = list(), list(), list(), list()
-        for guild in client.guilds:
-            if guild.name in "Clubs Jeunes SPA":
-                for member in guild.members:
-                    r = list()
-                    for role in member.roles:
-                        r.append(role.name)
-                    has_a_role = False
-                    if "Référents" in r and not has_a_role:
-                        encadrants.append(member.name)
-                        has_a_role = True
-                    if "Encadrants" in r and not has_a_role:
-                        referents.append(member.name)
-                        has_a_role = True
-                    if "Jeunes" in r and not has_a_role:
-                        jeunes.append(member.name)
-                        has_a_role = True
-                    if not has_a_role:
-                        autres.append(member.name)
-                        has_a_role = True
-
-                import matplotlib.pyplot as plt
-                labels = 'Jeunes', 'Encadrants', 'Référents', 'Autres'
-                sizes = [len(jeunes), len(encadrants), len(referents), len(autres)]
-                explode = (0.1, 0, 0, 0)  # only "explode" the 2nd slice (i.e. 'Hogs')
-
-                fig1, ax1 = plt.subplots()
-                ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
-                        shadow=True, startangle=90)
-                ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
-                plt.savefig("outputs/images/chart.png")
-                await message.channel.send(
-                    'Il y a : {} jeunes, {} encadrants, {} référents et {} autres personnes.'.format(len(jeunes),
-                                                                                                     len(encadrants),
-                                                                                                     len(referents),
-                                                                                                     len(autres)),
-                    file=discord.File('outputs/images/chart.png'))
+        df = pd.read_csv("outputs/csv/messages.csv")
 
     if message.content.startswith('>messages'):
         import time
