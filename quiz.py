@@ -80,17 +80,17 @@ def chart_joueurs_par_refuge(df, path="outputs/charts/joueurs_par_refuge.csv"):
 
 
 def chart_classement(df, path="outputs/charts/classement.csv"):
-	x = df.groupby(['Username', 'CJ'])['Points'].sum().sort_values(ascending=False)
+	x = df.groupby(['Id', 'CJ'])['Points'].sum().sort_values(ascending=False)
 	x.to_csv(path)
 
 def chart_classement_par_refuge(df, path="outputs/charts/classement_par_refuge.csv"):
-	x = df.groupby(['CJ'])['Username'].nunique().sort_values(ascending=False)
+	x = df.groupby(['CJ'])['Id'].nunique().sort_values(ascending=False)
 	list_refuges = list()
 	list_points = list()
 	for key in x.keys():
 		if x[key] >=2 :
 			df_temp = df[df["CJ"].str.match(key)]
-			y = df_temp.groupby(['Username'])['Points'].sum().sort_values(ascending=False)
+			y = df_temp.groupby(['Id'])['Points'].sum().sort_values(ascending=False)
 			summ = 0
 			for key_ in y.keys()[:2]:
 				summ += y[key_]
@@ -98,7 +98,7 @@ def chart_classement_par_refuge(df, path="outputs/charts/classement_par_refuge.c
 			list_points.append(summ)
 		else :
 			df_temp = df[df["CJ"].str.match(key)]
-			y = df_temp.groupby(['Username'])['Points'].sum().sort_values(ascending=False)
+			y = df_temp.groupby(['Id'])['Points'].sum().sort_values(ascending=False)
 			summ = 0
 			for key_ in y.keys():
 				summ += y[key_]

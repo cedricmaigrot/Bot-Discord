@@ -1,462 +1,463 @@
-	Espece	File	Name	Category	URL
-1	chat	abyssin.jpg	Abyssin		https://i.imgur.com/AAxYUm0.jpg
-2	chat	american-bobtail.jpg	American Bobtail		https://i.imgur.com/zgoGPaB.jpg
-3	chat	american-curl.jpg	American Curl		https://i.imgur.com/eWTk90s.jpg
-4	chat	american-shortair.jpg	American Shorthair		https://i.imgur.com/gDhdGvn.jpg
-5	chat	american-wirehair.jpg	American Wirehair		https://i.imgur.com/17VOUOK.jpg
-6	chat	angora-turc.jpg	Angora Turc		https://i.imgur.com/F9Ac2zK.jpg
-7	chat	balinais.jpg	Balinais		https://i.imgur.com/nf7I6gu.jpg
-8	chat	bengal.jpg	Bengal		https://i.imgur.com/ltrXe8O.jpg
-9	chat	bleu-russe.jpg	Bleu Russe		https://i.imgur.com/fl87NNt.jpg
-10	chat	bombay.jpg	Bombay		https://i.imgur.com/oVSWoS1.jpg
-11	chat	british-shorthair.jpg	British Shorthair		https://i.imgur.com/zthLEJz.jpg
-12	chat	burmese.jpg	Burmese		https://i..com/ygzCS2y.jpg
-13	chat	burmilla.jpg	Burmilla		https://i.imgur.com/ddh8xYc.jpg
-14	chat	ceylan.jpg	Ceylan		https://i.imgur.com/NSir0xB.jpg
-15	chat	chartreux.jpg	Chartreux		https://i.imgur.com/Y2kfdZG.jpg
-16	chat	chausie.jpg	Chausie		https://i.imgur.com/1ywZQCY.jpg
-17	chat	cornish-rex.jpg	Cornish Rex		https://i.imgur.com/aR0CCjm.jpg
-18	chat	devon-rex.jpg	Devon Rex		https://i.imgur.com/IcPgnQC.jpg
-19	chat	donskoy.jpg	Donskoy		https://i.imgur.com/6h6nTI1.jpg
-20	chat	europeen.jpg	Européen		https://i.imgur.com/e60FmHY.jpg
-21	chat	exotic.jpg	Exotic		https://i.imgur.com/wvcxtfJ.jpg
-22	chat	german-rex.jpg	German Rex		https://i.imgur.com/1Dhm3Si.jpg
-23	chat	havana-brown.jpg	Havana Brown		https://i.imgur.com/v7NmdOM.jpg
-24	chat	highland-lynx.jpg	Highland Lynx		https://i.imgur.com/fixAoDy.jpg
-25	chat	japanese-bobtail.jpg	Japanese Bobtail		https://i.imgur.com/UnQ5log.jpg
-26	chat	javanais.jpg	Javanais		https://i.imgur.com/QViUIft.jpg
-27	chat	korat.jpg	Korat		https://i.imgur.com/b8l42VV.jpg
-28	chat	kurilian-bobtail.jpg	Kurilian Bobtail		https://i.imgur.com/lH7l9YG.jpg
-29	chat	laperm.jpg	LaPerm		https://i.imgur.com/aaULkSo.jpg
-30	chat	maine-coon.jpg	Maine Coon		https://i.imgur.com/hy8UXDI.jpg
-31	chat	manx.jpg	Manx		https://i.imgur.com/f1ndxEC.jpg
-32	chat	mau-egyptien.jpg	Mau Egyptien		https://i.imgur.com/YjDoVK9.jpg
-33	chat	munchkin.jpg	Munchkin		https://i.imgur.com/UdVtOZf.jpg
-34	chat	norvegien.jpg	Norvégien		https://i.imgur.com/00h21Cb.jpg
-35	chat	ocicat.jpg	Ocicat		https://i.imgur.com/KxCDpNh.jpg
-36	chat	oriental.jpg	Oriental		https://i.imgur.com/xA4mhcZ.jpg
-37	chat	persan.jpg	Persan		https://i.imgur.com/N2wq3QG.jpg
-38	chat	peterbald.jpg	Peterbald		https://i.imgur.com/DheIRdq.jpg
-39	chat	pixie-bob.jpg	Pixie-Bob		https://i.imgur.com/nGVNR4e.jpg
-40	chat	ragdoll.jpg	Ragdoll		https://i.imgur.com/srBKuvi.jpg
-41	chat	sacre-birmanie.jpg	Sacré de Birmanie		https://i.imgur.com/97KEYsu.jpg
-42	chat	savannah.jpg	Savannah		https://i.imgur.com/IrFEXsi.jpg
-43	chat	scottish-fold.jpg	Scottish & Highland		https://i.imgur.com/rwflBUd.jpg
-44	chat	scottish-highland.jpg	Scottish Fold		https://i.imgur.com/rC0IvIP.jpg
-45	chat	siamois.jpg	Siamois		https://i.imgur.com/Dgak5bx.jpg
-46	chat	siberien.jpg	Sibérien		https://i.imgur.com/JOuz1ui.jpg
-47	chat	singapura.jpg	Singapura		https://i.imgur.com/7S7zIhW.jpg
-48	chat	skogcatt.jpg	Skogcatt		https://i.imgur.com/1nQdhU0.jpg
-49	chat	snowshoe.jpg	Snowshoe		https://i.imgur.com/7ZzpRmU.jpg
-50	chat	somali.jpg	Somali		https://i.imgur.com/vsmh1sE.jpg
-51	chat	sphynx.jpg	Sphynx		https://i.imgur.com/mhtI98S.jpg
-52	chat	thai.jpg	Thaï		https://i.imgur.com/ZQlndIB.jpg
-53	chat	tiffany.jpg	Tiffany		https://i.imgur.com/yOHA6PB.jpg
-54	chat	tonkinois.jpg	Tonkinois		https://i.imgur.com/HTENsXA.jpg
-55	chat	toyger.jpg	Toyger		https://i.imgur.com/Pxq09nU.jpg
-56	chat	turc-van.jpg	Turc de Van		https://i.imgur.com/aJhnr6t.jpg
-57	chien	186	Affenpinscher	Groupe 2	https://i.imgur.com/XfgVSQa.jpg
-58	chien	247	Aïdi	Groupe 2	https://i.imgur.com/A8l2Tdm.jpg
-59	chien	7	Airedale Terrier	Groupe 3	https://i.imgur.com/nnppUnN.jpg
-60	chien	255	Akita Inu	Groupe 5	https://i.imgur.com/wv2x2cN.jpg
-61	chien	243	Malamute d'Alaska	Groupe 5	https://i.imgur.com/xVYYswq.jpg
-62	chien	344	Akita Américain	Groupe 5	https://i.imgur.com/zxgoFJv.jpg
-63	chien	167	Cocker Américain	Groupe 8	https://i.imgur.com/cA3KMAf.jpg
-64	chien	301	Épagneul d'Eau Américain	Groupe 8	https://i.imgur.com/kOydFrQ.jpg
-65	chien	286	American Staffordshire Terrier	Groupe 3	https://i.imgur.com/2ZGAdXb.jpg
-66	chien	325	Anglo-Français de Petite Vénerie	Groupe 6	https://i.imgur.com/AQSjokt.jpg
-67	chien	20	Ariégeois	Groupe 6	https://i.imgur.com/353XHjY.jpg
-68	chien	293	Kelpie Australien	Groupe 1	https://i.imgur.com/WiX6yzk.jpg
-69	chien	236	Silky Terrier	Groupe 3	https://i.imgur.com/Nb13QXT.jpg
-70	chien	351	Bouvier Australien Courte Queue	Groupe 1	https://i.imgur.com/abQtXK4.jpg
-71	chien	8	Terrier Australien	Groupe 3	https://i.imgur.com/1ej7QUz.jpg
-72	chien	307	Azawakh	Groupe 10	https://i.imgur.com/u8prDis.jpg
-73	chien	358	Bangkaew de Thaïlande	Groupe 5	https://i.imgur.com/iVSFwGN.jpg
-74	chien	155	Chien Courant de Bosnie à Poil Raide	Groupe 6	https://i.imgur.com/iVUbDfv.jpg
-75	chien	105	Barbet	Groupe 8	https://i.imgur.com/vEf2DRI.jpg
-76	chien	245	Barbu Tchèque	Groupe 7	https://i.imgur.com/UqyWFUt.jpg
-77	chien	193	Barzoï	Groupe 10	https://i.imgur.com/066nzWN.jpg
-78	chien	43	Basenji	Groupe 5	https://i.imgur.com/IU74Mqz.jpg
-79	chien	34	Basset artésien normand	Groupe 6	https://i.imgur.com/yD9bNrH.jpg
-80	chien	35	Basset bleu de Gascogne	Groupe 6	https://i.imgur.com/vycJ8oY.jpg
-81	chien	100	Basset de Westphalie	Groupe 6	https://i.imgur.com/qOl1xq1.jpg
-82	chien	254	Basset des Alpes	Groupe 6	https://i.imgur.com/WQZ36hT.jpg
-83	chien	36	Basset fauve de Bretagne	Groupe 6	https://i.imgur.com/8TTPwM5.jpg
-84	chien	163	Basset Hound	Groupe 6	https://i.imgur.com/1feNrqL.jpg
-85	chien	130	Drever	Groupe 6	https://i.imgur.com/sWGaKx6.jpg
-86	chien	161	Beagle	Groupe 6	https://i.imgur.com/TScrdCE.jpg
-87	chien	290	Beagle-Harrier	Groupe 6	https://i.imgur.com/xpkJUPC.jpg
-88	chien	44	Beauceron	Groupe 1	https://i.imgur.com/7uYh6Y1.jpg
-89	chien	9	Bedlington Terrier	Groupe 3	https://i.imgur.com/OOaagks.jpg
-90	chien	194	Berger de Bergame	Groupe 1	https://i.imgur.com/IWqo1mm.jpg
-91	chien	166	Berger Allemand	Groupe 1	https://i.imgur.com/2qbdGwz.jpg
-92	chien	342	Berger Australien	Groupe 1	https://i.imgur.com/P6P2Aza.jpg
-93	chien	367	Berger Australien Miniature	Groupe 1	https://i.imgur.com/Qy36E22.jpg
-94	chien	15	Berger Belge	Groupe 1	https://i.imgur.com/Gt2fhXI.jpg
-95	chien	347	Berger Blanc Suisse	Groupe 1	https://i.imgur.com/qLJgBST.jpg
-96	chien	237	Buhund Norvégien	Groupe 5	https://i.imgur.com/9Uliam6.jpg
-97	chien	87	Berger Catalan	Groupe 1	https://i.imgur.com/N7lEbW1.jpg
-98	chien	277	Berger Croate	Groupe 1	https://i.imgur.com/9QrfPDz.jpg
-99	chien	335	Berger d'Asie Centrale	Groupe 2	https://i.imgur.com/laRHqZS.jpg
-100	chien	364	Berger de Bohême	Groupe 1	https://i.imgur.com/keCc9c3.jpg
-101	chien	355	Tornjak	Groupe 2	https://i.imgur.com/0tr7K4o.jpg
-102	chien	201	Berger de Maremme-Abruzzes	Groupe 1	https://i.imgur.com/ez1tIsT.jpg
-103	chien	321	Berger de Majorque	Groupe 1	https://i.imgur.com/s5o250B.jpg
-104	chien	326	Berger de Russie Méridionale	Groupe 1	https://i.imgur.com/ZTCdROn.jpg
-105	chien	138	Berger des Pyrénées à face rase	Groupe 1	https://i.imgur.com/0tgWMJk.jpg
-106	chien	141	Berger des Pyrénées	Groupe 1	https://i.imgur.com/WgQs63l.jpg
-107	chien	88	Berger des Shetland	Groupe 1	https://i.imgur.com/g1f5fzA.jpg
-108	chien	328	Berger du Caucase	Groupe 2	https://i.imgur.com/cCKy9zE.jpg
-109	chien	278	Berger du Karst	Groupe 2	https://i.imgur.com/SxrzAW3.jpg
-110	chien	284	Berger Finnois de Laponie	Groupe 5	https://i.imgur.com/nFy4Kvx.jpg
-111	chien	223	Berger Hollandais	Groupe 1	https://i.imgur.com/UAIdk9C.jpg
-112	chien	289	Berger d'Islande	Groupe 5	https://i.imgur.com/2tmT1Oc.jpg
-113	chien	176	Berger Picard	Groupe 1	https://i.imgur.com/XEY22vB.jpg
-114	chien	252	Berger Polonais de Podhale	Groupe 1	https://i.imgur.com/3eUo9QY.jpg
-115	chien	93	Berger Portugais	Groupe 1	https://i.imgur.com/wFeG1OE.jpg
-116	chien	357	Berger roumain de Bucovine	Groupe 2	https://i.imgur.com/M0f6Coc.jpg
-117	chien	349	Berger Roumain de Mioritza	Groupe 1	https://i.imgur.com/Du8jEc0.jpg
-118	chien	350	Berger Roumain des Carpathes	Groupe 1	https://i.imgur.com/mAHjk75.jpg
-119	chien	142	Tchouvatch Slovaque	Groupe 1	https://i.imgur.com/gLKOC8s.jpg
-120	chien	59	Chien courant Bernois	Groupe 6	https://i.imgur.com/QTRO1xm.jpg
-121	chien	215	Bichon Frisé	Groupe 9	https://i.imgur.com/ABJrnRX.jpg
-122	chien	250	Bichon Havanais	Groupe 9	https://i.imgur.com/kGfjzhA.jpg
-123	chien	25	Billy	Groupe 6	https://i.imgur.com/dWReF0J.jpg
-124	chien	180	Braque d'Auvergne	Groupe 7	https://i.imgur.com/QT97lav.jpg
-125	chien	16	Bobtail	Groupe 1	https://i.imgur.com/nNolyoy.jpg
-126	chien	196	Bichon Bolonais	Groupe 9	https://i.imgur.com/SNk5xY2.jpg
-127	chien	297	Border Collie	Groupe 1	https://i.imgur.com/jXDv4fy.jpg
-128	chien	10	Border Terrier	Groupe 3	https://i.imgur.com/U8yjYkf.jpg
-129	chien	149	Bouledogue Anglais	Groupe 2	https://i.imgur.com/OY9HGD6.jpg
-130	chien	101	Bouledogue Français	Groupe 9	https://i.imgur.com/ow950dT.jpg
-131	chien	46	Bouvier d'Appenzell	Groupe 2	https://i.imgur.com/m4adrqp.jpg
-132	chien	287	Bouvier Australien	Groupe 1	https://i.imgur.com/YXkdWpA.jpg
-133	chien	45	Bouvier Bernois	Groupe 2	https://i.imgur.com/PLSUKe4.jpg
-134	chien	47	Bouvier de l'Entlebuch	Groupe 2	https://i.imgur.com/FdKWkhY.jpg
-135	chien	171	Bouvier des Ardennes	Groupe 1	https://i.imgur.com/Xb4EPxF.jpg
-136	chien	191	Bouvier des Flandres	Groupe 1	https://i.imgur.com/2bPODmp.jpg
-137	chien	144	Boxer	Groupe 2	https://i.imgur.com/ve5qrbK.jpg
-138	chien	299	Brachet Allemand	Groupe 6	https://i.imgur.com/e2SISFZ.jpg
-139	chien	63	Brachet Autrichien Noir et Feu	Groupe 6	https://i.imgur.com/840YCeJ.jpg
-140	chien	62	Brachet de Styrie à Poil Dur	Groupe 6	https://i.imgur.com/080Zb2R.jpg
-141	chien	52	Brachet Polonais	Groupe 6	https://i.imgur.com/o2uDuEC.jpg
-142	chien	68	Brachet Tyrolien	Groupe 6	https://i.imgur.com/2Mljgjb.jpg
-143	chien	119	Braque Allemand à Poil Court	Groupe 7	https://i.imgur.com/jw6oWrM.jpg
-144	chien	90	Perdiguero de Burgos	Groupe 7	https://i.imgur.com/aGcqi09.jpg
-145	chien	177	Braque de l'Ariège	Groupe 7	https://i.imgur.com/mHN37RE.jpg
-146	chien	179	Braque du Bourbonnais	Groupe 7	https://i.imgur.com/jJO4P5c.jpg
-147	chien	133	Braque français type Gascogne	Groupe 7	https://i.imgur.com/MxefPtR.jpg
-148	chien	134	Braque français type Pyrénées	Groupe 7	https://i.imgur.com/uZyPXEI.jpg
-149	chien	57	Vizsla à Poil Court	Groupe 7	https://i.imgur.com/OUtdRZ3.jpg
-150	chien	239	Vizsla à Poil Dur	Groupe 7	https://i.imgur.com/B1aG7Fo.jpg
-151	chien	202	Braque Italien	Groupe 7	https://i.imgur.com/pfhilka.jpg
-152	chien	115	Braque Saint-Germain	Groupe 7	https://i.imgur.com/9u88blV.jpg
-153	chien	320	Braque Slovaque à Poil Dur	Groupe 7	https://i.imgur.com/IiSjd3C.jpg
-154	chien	113	Berger de Brie	Groupe 1	https://i.imgur.com/kWaAsmg.jpg
-155	chien	19	Briquet Griffon Vendéen	Groupe 6	https://i.imgur.com/51aOvcU.jpg
-156	chien	315	Broholmer	Groupe 2	https://i.imgur.com/u8YK7xT.jpg
-157	chien	113	Berger de Brie	Groupe 1	https://i.imgur.com/1iJbI7x.jpg
-158	chien	19	Briquet Griffon Vendéen	Groupe 6	https://i.imgur.com/fkf35H6.jpg
-159	chien	315	Broholmer	Groupe 2	https://i.imgur.com/blP4xij.jpg
-160	chien	11	Bull Terrier	Groupe 3	https://i.imgur.com/CkqD3f1.jpg
-161	chien	359	Bull Terrier miniature	Groupe 3	https://i.imgur.com/ITiGSMC.jpg
-162	chien	157	Bullmastiff	Groupe 2	https://i.imgur.com/ed8FQj6.jpg
-163	chien	249	Dogue de Majorque	Groupe 2	https://i.imgur.com/rnRF8BQ.jpg
-164	chien	4	Cairn Terrier	Groupe 3	https://i.imgur.com/dYCxDWC.jpg
-165	chien	343	Cane Corso	Groupe 2	https://i.imgur.com/dwNSksp.jpg
-166	chien	172	Caniche	Groupe 9	https://i.imgur.com/PmlBH1a.jpg
-167	chien	253	Carlin	Groupe 9	https://i.imgur.com/p4UwFzm.jpg
-168	chien	136	Cavalier King Charles Spaniel	Groupe 9	https://i.imgur.com/lzMvRPA.jpg
-169	chien	246	Terrier Tchèque	Groupe 3	https://i.imgur.com/Q27lnCE.jpg
-170	chien	366	Chien courant d'Estonie	Groupe 6	https://i.imgur.com/oSmJsem.jpg
-171	chien	152	Chien Courant d'Istrie à Poil Dur	Groupe 6	https://i.imgur.com/6quRwj6.jpg
-172	chien	151	Chien Courant d'Istrie à Poil Ras	Groupe 6	https://i.imgur.com/PEtyDrX.jpg
-173	chien	279	Chien Courant de Montagne du Monténégro	Groupe 6	https://i.imgur.com/dbzyPys.jpg
-174	chien	154	Chien Courant de Posavatz	Groupe 6	https://i.imgur.com/WAd5Edf.jpg
-175	chien	241	Chien Courant de Transylvanie	Groupe 6	https://i.imgur.com/zYv6CjV.jpg
-176	chien	129	Chien Courant du Smaland	Groupe 6	https://i.imgur.com/T3AMncl.jpg
-177	chien	204	Chien Courant Espagnol	Groupe 6	https://i.imgur.com/H5Pkmg3.jpg
-178	chien	51	Chien Courant Finlandais	Groupe 6	https://i.imgur.com/OmWRM8t.jpg
-179	chien	214	Chien Courant Grec	Groupe 6	https://i.imgur.com/fkNb5Ai.jpg
-180	chien	267	Chien Courant de Halden	Groupe 6	https://i.imgur.com/19C2lGi.jpg
-181	chien	132	Chien Courant de Hamilton	Groupe 6	https://i.imgur.com/TlXVupV.jpg
-182	chien	266	Chien Courant de Hygen	Groupe 6	https://i.imgur.com/MqV7m1v.jpg
-183	chien	337	Chien Courant Italien à Poil Ras	Groupe 6	https://i.imgur.com/HdOL1z0.jpg
-184	chien	198	Chien Courant Italien à Poil Dur	Groupe 6	https://i.imgur.com/Q02dWqF.jpg
-185	chien	150	Chien Courant Serbe	Groupe 6	https://i.imgur.com/Nc73WPu.jpg
-186	chien	244	Chien Courant Slovaque	Groupe 6	https://i.imgur.com/VQMGhp9.jpg
-187	chien	229	Chien Courant Tricolore Serbe	Groupe 6	https://i.imgur.com/Fg05LXK.jpg
-188	chien	232	Chien d'Arrêt Allemand à Poil Raide	Groupe 7	https://i.imgur.com/yMFFwRh.jpg
-189	chien	281	Chien d'Arrêt Danois Ancestral	Groupe 7	https://i.imgur.com/RmTrdCF.jpg
-190	chien	222	Stabyhoun	Groupe 7	https://i.imgur.com/IjhUPHP.jpg
-191	chien	165	Spinone Italiano	Groupe 7	https://i.imgur.com/IRjxHLU.jpg
-192	chien	187	Braque Portugais	Groupe 7	https://i.imgur.com/c5uQaUT.jpg
-193	chien	28	Chien d'Artois	Groupe 6	https://i.imgur.com/fIY5SVP.jpg
-194	chien	37	Chien d'Eau Portugais	Groupe 8	https://i.imgur.com/HtIxp4R.jpg
-195	chien	242	Chien d'Elan Norvégien Gris	Groupe 5	https://i.imgur.com/Pga42Lk.jpg
-196	chien	268	Chien d'Elan Norvégien Noir	Groupe 5	https://i.imgur.com/fNJctlA.jpg
-197	chien	48	Chien d'Ours de Carélie	Groupe 5	https://i.imgur.com/VCUFbia.jpg
-198	chien	362	Chien de Bali	Groupe 5	https://i.imgur.com/R56TRby.jpg
-199	chien	273	Chien de Canaan	Groupe 5	https://i.imgur.com/viUCotN.jpg
-200	chien	170	Chien de Castro Laboreiro	Groupe 2	https://i.imgur.com/DDPvzgZ.jpg
-201	chien	356	Chien de Ferme dano-suédois	Groupe 2	https://i.imgur.com/SRmLzDb.jpg
-202	chien	94	Podengo Portugais	Groupe 5	https://i.imgur.com/D2fmfGo.jpg
-203	chien	217	Chien de Rouge de Bavière	Groupe 6	https://i.imgur.com/kJWx0Kl.jpg
-204	chien	213	Chien de Rouge de Hanovre	Groupe 6	https://i.imgur.com/bmkHwET.jpg
-205	chien	348	Chien de Taiwan	Groupe 5	https://i.imgur.com/j7XUOPI.jpg
-206	chien	274	Chien du Groenland	Groupe 5	https://i.imgur.com/hFmTCaH.jpg
-207	chien	248	Chien du Pharaon	Groupe 5	https://i.imgur.com/Kg9xczt.jpg
-208	chien	42	Jämthund	Groupe 5	https://i.imgur.com/Jxtvxuo.jpg
-209	chien	189	Chien Finnois de Laponie	Groupe 5	https://i.imgur.com/RPhkIrt.jpg
-210	chien	332	Chien Loup Tchécoslovaque	Groupe 1	https://i.imgur.com/2X35iwE.jpg
-211	chien	288	Chien Chinois à Crête	Groupe 9	https://i.imgur.com/iNo04xR.jpg
-212	chien	310	Chien Nu du Pérou	Groupe 5	https://i.imgur.com/xM4T5B5.jpg
-213	chien	24	Poitevin	Groupe 6	https://i.imgur.com/S9NhZsk.jpg
-214	chien	135	Chien Suédois de Laponie	Groupe 5	https://i.imgur.com/hguFNXn.jpg
-215	chien	206	Épagneul Japonais	Groupe 9	https://i.imgur.com/pW2RHcu.jpg
-216	chien	336	Chien d'Eau Espagnol	Groupe 8	https://i.imgur.com/G16NzNP.jpg
-217	chien	218	Chihuahua	Groupe 9	https://i.imgur.com/CZIcsSJ.jpg
-218	chien	205	Chow Chow	Groupe 5	https://i.imgur.com/stWZUEg.jpg
-219	chien	353	Cimarron Uruguayen	Groupe 2	https://i.imgur.com/049BnA4.jpg
-220	chien	199	Cirneco de l'Etna	Groupe 5	https://i.imgur.com/4cV8hVl.jpg
-221	chien	109	Clumber Spaniel	Groupe 8	https://i.imgur.com/sqyiWLI.jpg
-222	chien	5	Cocker Anglais	Groupe 8	https://i.imgur.com/hPe4e6H.jpg
-223	chien	271	Bearded Collie	Groupe 1	https://i.imgur.com/7DujCZU.jpg
-224	chien	296	Colley à Poil Court	Groupe 1	https://i.imgur.com/dWNwWZG.jpg
-225	chien	156	Colley à Poil Long	Groupe 1	https://i.imgur.com/9PPV0n6.jpg
-226	chien	300	Black and Tan Coonhound	Groupe 6	https://i.imgur.com/oiPYb0e.jpg
-227	chien	283	Coton de Tuléar	Groupe 9	https://i.imgur.com/YujVz0z.jpg
-228	chien	110	Curly Coated Retriever	Groupe 8	https://i.imgur.com/DNUJtrm.jpg
-229	chien	153	Dalmatien	Groupe 6	https://i.imgur.com/3Y92UsW.jpg
-230	chien	168	Dandie Dinmont Terrier	Groupe 3	https://i.imgur.com/EVDqtah.jpg
-231	chien	117	Langhaar	Groupe 7	https://i.imgur.com/j0H110Y.jpg
-232	chien	184	Pinscher Allemand	Groupe 2	https://i.imgur.com/FXTfoyg.jpg
-233	chien	104	Chien d'Oysel	Groupe 8	https://i.imgur.com/EBS0TwL.jpg
-234	chien	143	Dobermann	Groupe 2	https://i.imgur.com/wdFjehr.jpg
-235	chien	346	Dogo Canario	Groupe 2	https://i.imgur.com/KDJ0qeY.jpg
-236	chien	235	Dogue Allemand	Groupe 2	https://i.imgur.com/ZmRgnUG.jpg
-237	chien	292	Dogue Argentin	Groupe 2	https://i.imgur.com/sLKeotG.jpg
-238	chien	116	Dogue de Bordeaux	Groupe 2	https://i.imgur.com/v6lv7Ha.jpg
-239	chien	230	Dogue du Tibet	Groupe 2	https://i.imgur.com/s2hkHMY.jpg
-240	chien	98	Draathaar	Groupe 7	https://i.imgur.com/psXEHIp.jpg
-241	chien	203	Chien Courant Norvégien	Groupe 6	https://i.imgur.com/OG5oEEt.jpg
-242	chien	264	Mastiff	Groupe 2	https://i.imgur.com/sYT72cO.jpg
-243	chien	1	Pointer	Groupe 7	https://i.imgur.com/IUcRhUb.jpg
-244	chien	2	Setter Anglais	Groupe 7	https://i.imgur.com/lTCWeuY.jpg
-245	chien	125	Springer Anglais	Groupe 8	https://i.imgur.com/vBHG6Qv.jpg
-246	chien	128	English Toy Spaniel	Groupe 9	https://i.imgur.com/BGwCfWT.jpg
-247	chien	224	Épagneul à Perdrix de Drente	Groupe 7	https://i.imgur.com/tIfNZjF.jpg
-248	chien	106	Épagneul bleu de Picardie	Groupe 7	https://i.imgur.com/k4fZsVu.jpg
-249	chien	95	Épagneul Breton	Groupe 7	https://i.imgur.com/pt8dYj9.jpg
-250	chien	114	Épagneul de Pont-Audemer	Groupe 7	https://i.imgur.com/lXXEJQM.jpg
-251	chien	175	Épagneul français	Groupe 7	https://i.imgur.com/oEDtSui.jpg
-252	chien	77	Épagneul Nain Continental Papillon	Groupe 9	https://i.imgur.com/RWSpqB6.jpg
-253	chien	207	Pékinois	Groupe 9	https://i.imgur.com/znIiwbw.jpg
-254	chien	108	Épagneul picard	Groupe 7	https://i.imgur.com/oYoQ5vi.jpg
-255	chien	211	Esquimau Canadien	Groupe 5	https://i.imgur.com/peRkaLt.jpg
-256	chien	173	Chien de Montagne Portugais	Groupe 2	https://i.imgur.com/7WMdqhc.jpg
-257	chien	291	Eurasier	Groupe 5	https://i.imgur.com/I0Oe2uB.jpg
-258	chien	123	Field Spaniel	Groupe 8	https://i.imgur.com/Hfmj9k2.jpg
-259	chien	225	Fila Brasileiro	Groupe 2	https://i.imgur.com/aIyy0vj.jpg
-260	chien	340	Fila de Sao Miguel	Groupe 2	https://i.imgur.com/BecLr7I.jpg
-261	chien	121	Retriever à Poil Plat	Groupe 8	https://i.imgur.com/YNv3YJO.jpg
-262	chien	169	Fox Terrier à Poil Dur	Groupe 3	https://i.imgur.com/kFcKWPm.jpg
-263	chien	12	Fox Terrier à Poil Lisse	Groupe 3	https://i.imgur.com/GwEptJ2.jpg
-264	chien	303	Foxhound Américain	Groupe 6	https://i.imgur.com/PN675FP.jpg
-265	chien	159	Foxhound Anglais	Groupe 6	https://i.imgur.com/R04ZuCD.jpg
-266	chien	220	Français blanc et noir	Groupe 6	https://i.imgur.com/RrNwfuu.jpg
-267	chien	316	Français blanc et orange	Groupe 6	https://i.imgur.com/l84KSXS.jpg
-268	chien	219	Français tricolore	Groupe 6	https://i.imgur.com/FowcUgn.jpg
-269	chien	111	Golden Retriever	Groupe 8	https://i.imgur.com/ZW75JGv.jpg
-270	chien	354	Chien Courant Polonais	Groupe 6	https://i.imgur.com/H1QashA.jpg
-271	chien	323	Grand Anglo Français Blanc et Noir	Groupe 6	https://i.imgur.com/8lPP0hd.jpg
-272	chien	324	Grand Anglo Français Blanc et Orange	Groupe 6	https://i.imgur.com/CaOWtqc.jpg
-273	chien	322	Grand Anglo Français Tricolore	Groupe 6	https://i.imgur.com/M8tKWVl.jpg
-274	chien	33	Grand Basset Griffon Vendéen	Groupe 6	https://i.imgur.com/QqFMghb.jpg
-275	chien	22	Grand Bleu de Gascogne	Groupe 6	https://i.imgur.com/G6ElPFo.jpg
-276	chien	58	Grand Bouvier Suisse	Groupe 2	https://i.imgur.com/SCY2kuZ.jpg
-277	chien	118	Grand épagneul de Münster	Groupe 7	https://i.imgur.com/ed3eA0e.jpg
-278	chien	282	Grand Griffon Vendéen	Groupe 6	https://i.imgur.com/pRkkjjY.jpg
-279	chien	158	Greyhound	Groupe 10	https://i.imgur.com/HDqOWGO.jpg
-280	chien	81	Griffon belge	Groupe 9	https://i.imgur.com/ptwQ04z.jpg
-281	chien	32	Griffon bleu de Gascogne	Groupe 6	https://i.imgur.com/qEPYbiD.jpg
-282	chien	80	Griffon bruxellois	Groupe 9	https://i.imgur.com/axfPOzx.jpg
-283	chien	66	Griffon fauve de Bretagne	Groupe 6	https://i.imgur.com/1jTzF9V.jpg
-284	chien	107	Korthals	Groupe 7	https://i.imgur.com/EfhPNLC.jpg
-285	chien	17	Griffon Nivernais	Groupe 6	https://i.imgur.com/DpvdhbL.jpg
-286	chien	295	Harrier	Groupe 6	https://i.imgur.com/ynsZTBe.jpg
-287	chien	261	Hokkaïdo Ken	Groupe 5	https://i.imgur.com/j0ACjIA.jpg
-288	chien	308	Smous des Pays-Bas	Groupe 2	https://i.imgur.com/aODC4Ll.jpg
-289	chien	190	Hovawart	Groupe 2	https://i.imgur.com/WhsbhSv.jpg
-290	chien	120	Setter Irlandais	Groupe 7	https://i.imgur.com/HcenApT.jpg
-291	chien	124	Épagneul d'Eau Irlandais	Groupe 8	https://i.imgur.com/g5zsoyr.jpg
-292	chien	160	Irish Wolfhound	Groupe 10	https://i.imgur.com/Okt6IG3.jpg
-293	chien	200	Petit Lévrier Italien	Groupe 10	https://i.imgur.com/jQ14Ulo.jpg
-294	chien	345	Jack Russell	Groupe 3	https://i.imgur.com/4A5EDmj.jpg
-295	chien	334	Jindo Coréen	Groupe 5	https://i.imgur.com/ZRIUust.jpg
-296	chien	317	Kai Ken	Groupe 5	https://i.imgur.com/M44jS5K.jpg
-297	chien	331	Kangal	Groupe 2	https://i.imgur.com/jaAcXvO.jpg
-298	chien	3	Kerry Blue Terrier	Groupe 3	https://i.imgur.com/CdIUJt4.jpg
-299	chien	318	Kishu Ken	Groupe 5	https://i.imgur.com/rn0UZdt.jpg
-300	chien	53	Komondor	Groupe 1	https://i.imgur.com/nrQwB7F.jpg
-301	chien	314	Kooikerhondje	Groupe 8	https://i.imgur.com/eZIrnWz.jpg
-302	chien	192	Kromfohrländer	Groupe 9	https://i.imgur.com/JUhoiNP.jpg
-303	chien	54	Kuvasz	Groupe 1	https://i.imgur.com/TR6gJ5M.jpg
-304	chien	122	Labrador Retriever	Groupe 8	https://i.imgur.com/oc7IHlY.jpg
-305	chien	298	Lagotto Romagnolo	Groupe 8	https://i.imgur.com/VO7Dsdh.jpg
-306	chien	306	Laïka de Sibérie Occidentale	Groupe 5	https://i.imgur.com/FpcgBQw.jpg
-307	chien	305	Laïka de Sibérie Orientale	Groupe 5	https://i.imgur.com/JYcwMe8.jpg
-308	chien	365	Laïka de Yakoutie	Groupe 5	https://i.imgur.com/sbalV3t.jpg
-309	chien	304	Laïka Russo-Européen	Groupe 5	https://i.imgur.com/Sir47oi.jpg
-310	chien	70	Lakeland Terrier	Groupe 3	https://i.imgur.com/kaH81Fg.jpg
-311	chien	360	Lancashire Heeler	Groupe 1	https://i.imgur.com/66sGRDF.jpg
-312	chien	226	Landseer	Groupe 2	https://i.imgur.com/n0PiKZU.jpg
-313	chien	145	Leonberg	Groupe 2	https://i.imgur.com/mcxDtjE.jpg
-314	chien	228	Lévrier Afghan	Groupe 10	https://i.imgur.com/vabkNwQ.jpg
-315	chien	164	Lévrier Ecossais	Groupe 10	https://i.imgur.com/vLy3Ovi.jpg
-316	chien	285	Galgo Espagnol	Groupe 10	https://i.imgur.com/Bi5NmXF.jpg
-317	chien	240	Lévrier Hongrois	Groupe 10	https://i.imgur.com/FRhPPHx.jpg
-318	chien	333	Chart polski	Groupe 10	https://i.imgur.com/VKT1CYd.jpg
-319	chien	162	Whippet	Groupe 10	https://i.imgur.com/9xcRFsw.jpg
-320	chien	227	Lhassa Apso	Groupe 9	https://i.imgur.com/E1VdVUt.jpg
-321	chien	265	Lundehund	Groupe 5	https://i.imgur.com/cilAgC7.jpg
-322	chien	65	Bichon Maltais	Groupe 9	https://i.imgur.com/I79txLQ.jpg
-323	chien	92	Mâtin des Pyrénées	Groupe 2	https://i.imgur.com/8t9n5sD.jpg
-324	chien	91	Mâtin Espagnol	Groupe 2	https://i.imgur.com/eLViu88.jpg
-325	chien	197	Mâtin Napolitain	Groupe 2	https://i.imgur.com/GPk9QlT.jpg
-326	chien	96	Rafeiro de l'Alentejo	Groupe 2	https://i.imgur.com/fqq0rfN.jpg
-327	chien	368	Mâtin Transmontano	Groupe 2	https://i.imgur.com/i5297nv.jpg
-328	chien	182	Schnauzer Moyen	Groupe 2	https://i.imgur.com/s7SmDHH.jpg
-329	chien	238	Mudi	Groupe 1	https://i.imgur.com/w5pA0Rl.jpg
-330	chien	251	Nizinny	Groupe 1	https://i.imgur.com/94n2N7t.jpg
-331	chien	294	Otterhound	Groupe 6	https://i.imgur.com/mwLDPYX.jpg
-332	chien	339	Parson Russell Terrier	Groupe 3	https://i.imgur.com/qsWloXk.jpg
-333	chien	137	Chien de Montagne des Pyrénées	Groupe 2	https://i.imgur.com/GKlFSjX.jpg
-334	chien	67	Petit Basset Griffon Vendéen	Groupe 6	https://i.imgur.com/1XJ7vzM.jpg
-335	chien	31	Petit bleu de Gascogne	Groupe 6	https://i.imgur.com/ipeDvFR.jpg
-336	chien	82	Petit Brabançon	Groupe 9	https://i.imgur.com/b0tmAxw.jpg
-337	chien	60	Petit Chien Courant Suisse	Groupe 6	https://i.imgur.com/OJcBugj.jpg
-338	chien	233	Petit chien lion	Groupe 9	https://i.imgur.com/cpNL0v5.jpg
-339	chien	102	Petit Epagneul de Münster	Groupe 7	https://i.imgur.com/2Q9Xfix.jpg
-340	chien	21	Petit gascon saintongeois	Groupe 6	https://i.imgur.com/aSPq8bp.jpg
-341	chien	64	Pinscher Autrichien	Groupe 2	https://i.imgur.com/w2QqJFG.jpg
-342	chien	185	Pinscher Nain	Groupe 2	https://i.imgur.com/NCsegdJ.jpg
-343	chien	329	Podenco Canario	Groupe 5	https://i.imgur.com/ToidUDA.jpg
-344	chien	89	Podenco d'Ibiza	Groupe 5	https://i.imgur.com/g1G7qgv.jpg
-345	chien	30	Porcelaine	Groupe 6	https://i.imgur.com/BMIRnHS.jpg
-346	chien	216	Pudelpointer	Groupe 7	https://i.imgur.com/L2CqcRr.jpg
-347	chien	55	Puli	Groupe 1	https://i.imgur.com/6f70VH9.jpg
-348	chien	56	Pumi	Groupe 1	https://i.imgur.com/99rYdDJ.jpg
-349	chien	363	Ratier de Prague	Groupe 9	https://i.imgur.com/tIrVtWn.jpg
-350	chien	263	Chesapeake Bay Retriever	Groupe 8	https://i.imgur.com/bQil9lm.jpg
-351	chien	312	Retriever de la Nouvelle-Écosse	Groupe 8	https://i.imgur.com/JaSY95p.jpg
-352	chien	146	Rhodesian Ridgeback	Groupe 6	https://i.imgur.com/1jryjIc.jpg
-353	chien	147	Rottweiler	Groupe 2	https://i.imgur.com/eRNrajS.jpg
-354	chien	352	Russkiy Toy	Groupe 9	https://i.imgur.com/zifbrrB.jpg
-355	chien	311	Chien Loup de Saarloos	Groupe 1	https://i.imgur.com/pBDrexu.jpg
-356	chien	61	Saint-Bernard	Groupe 2	https://i.imgur.com/cN3b6Lz.jpg
-357	chien	84	Saint-Hubert	Groupe 6	https://i.imgur.com/AKXuSdN.jpg
-358	chien	269	Saluki	Groupe 10	https://i.imgur.com/rEYYPq1.jpg
-359	chien	212	Samoyède	Groupe 5	https://i.imgur.com/01cENMs.jpg
-360	chien	41	Berger Yougoslave	Groupe 2	https://i.imgur.com/fW9mINF.jpg
-361	chien	313	Schapendoes Néerlandais	Groupe 1	https://i.imgur.com/Yt6bm8I.jpg
-362	chien	131	Chien Courant de Schiller	Groupe 6	https://i.imgur.com/yJvbdp1.jpg
-363	chien	83	Schipperke	Groupe 1	https://i.imgur.com/blhlpkC.jpg
-364	chien	181	Schnauzer Géant	Groupe 2	https://i.imgur.com/rK7OAKa.jpg
-365	chien	183	Schnauzer Nain	Groupe 2	https://i.imgur.com/hfcdpp9.jpg
-366	chien	73	Scottish Terrier	Groupe 3	https://i.imgur.com/DLakMyi.jpg
-367	chien	361	Segugio Maremmano	Groupe 6	https://i.imgur.com/1qGMlbB.jpg
-368	chien	6	Setter Gordon	Groupe 7	https://i.imgur.com/B7JNBTe.jpg
-369	chien	330	Setter Irlandais Rouge et Blanc	Groupe 7	https://i.imgur.com/xclHr3o.jpg
-370	chien	309	Shar-Peï	Groupe 2	https://i.imgur.com/q89ZjMw.jpg
-371	chien	257	Shiba Inu	Groupe 5	https://i.imgur.com/EYDPNiy.jpg
-372	chien	208	Shih Tzu	Groupe 9	https://i.imgur.com/nPy7fYb.jpg
-373	chien	319	Shikoku Ken	Groupe 5	https://i.imgur.com/1xDWU0T.jpg
-374	chien	270	Husky Sibérien	Groupe 5	https://i.imgur.com/cFvsS2U.jpg
-375	chien	75	Skye Terrier	Groupe 3	https://i.imgur.com/YyWOK0H.jpg
-376	chien	188	Sloughi	Groupe 10	https://i.imgur.com/CaBpuaO.jpg
-377	chien	97	Spitz Allemand	Groupe 5	https://i.imgur.com/iBmy7l6.jpg
-378	chien	276	Spitz de Norrbotten	Groupe 5	https://i.imgur.com/Ku2Kcym.jpg
-379	chien	49	Spitz Finlandais	Groupe 5	https://i.imgur.com/zZ2M1W0.jpg
-380	chien	262	Spitz Japonais	Groupe 5	https://i.imgur.com/IusPnvj.jpg
-381	chien	76	Staffordshire Bull Terrier	Groupe 3	https://i.imgur.com/UQ4DcFk.jpg
-382	chien	127	Sussex Spaniel	Groupe 8	https://i.imgur.com/a69jWfg.jpg
-383	chien	148	Teckel	Groupe 4	https://i.imgur.com/Ul6hpA6.jpg
-384	chien	50	Terre Neuve	Groupe 2	https://i.imgur.com/c3k3eiD.jpg
-385	chien	341	Terrier Brésilien	Groupe 3	https://i.imgur.com/PqeloOa.jpg
-386	chien	140	Boston Terrier	Groupe 9	https://i.imgur.com/lisxB4s.jpg
-387	chien	103	Deutscher Jagdterrier	Groupe 3	https://i.imgur.com/1Leihtj.jpg
-388	chien	71	Manchester Terrier	Groupe 3	https://i.imgur.com/sgCYtEc.jpg
-389	chien	72	Norwich Terrier	Groupe 3	https://i.imgur.com/0zrutpJ.jpg
-390	chien	74	Sealyham Terrier	Groupe 3	https://i.imgur.com/M5WosLW.jpg
-391	chien	272	Norfolk Terrier	Groupe 3	https://i.imgur.com/csDx9vb.jpg
-392	chien	139	Irish Terrier	Groupe 3	https://i.imgur.com/D1NxpBh.jpg
-393	chien	40	Terrier Irlandais à Poil Doux	Groupe 3	https://i.imgur.com/52oxITG.jpg
-394	chien	302	Terrier Irlandais Glen of Imaal	Groupe 3	https://i.imgur.com/KajgluS.jpg
-395	chien	259	Terrier Japonais	Groupe 3	https://i.imgur.com/rwEpXrq.jpg
-396	chien	327	Terrier Noir Russe	Groupe 2	https://i.imgur.com/oA3ummy.jpg
-397	chien	338	Thaï Ridgeback	Groupe 5	https://i.imgur.com/ZiUCdmB.jpg
-398	chien	231	Épagneul Tibétain	Groupe 9	https://i.imgur.com/AXO0Xzs.jpg
-399	chien	209	Terrier du Tibet	Groupe 9	https://i.imgur.com/dqxdVHd.jpg
-400	chien	260	Tosa Inu	Groupe 2	https://i.imgur.com/0Brgy8X.jpg
-401	chien	13	Terrier d'Agrément anglais Noir et Feu	Groupe 3	https://i.imgur.com/9bLkgbQ.jpg
-402	chien	14	Vallhund Suédois	Groupe 5	https://i.imgur.com/KGsFeiK.jpg
-403	chien	195	Volpino	Groupe 5	https://i.imgur.com/N2TBVfP.jpg
-404	chien	99	Braque de Weimar	Groupe 7	https://i.imgur.com/vAkPhrn.jpg
-405	chien	38	Welsh Corgi Cardigan	Groupe 1	https://i.imgur.com/nACkgEU.jpg
-406	chien	39	Welsh Corgi Pembroke	Groupe 1	https://i.imgur.com/1szAYQL.jpg
-407	chien	126	Springer Gallois	Groupe 8	https://i.imgur.com/AOdegwr.jpg
-408	chien	78	Welsh Terrier	Groupe 3	https://i.imgur.com/135BKZg.jpg
-409	chien	85	West Highland White Terrier	Groupe 3	https://i.imgur.com/y5D8OlE.jpg
-410	chien	221	Wetterhoun	Groupe 8	https://i.imgur.com/SIKW5Y0.jpg
-411	chien	234	Xoloitzcuintle	Groupe 5	https://i.imgur.com/MEXV28c.jpg
-412	chien	86	Yorkshire Terrier	Groupe 3	https://i.imgur.com/1izbl7l.jpg
-413	cheval		Cotentin	Ane	
-414	cheval		Grand Noir du Berry	Ane	
-415	cheval		Normand	Ane	
-416	cheval		Provence	Ane	
-417	cheval		Pyrénées	Ane	
-418	cheval		Baudet du Poitou	Ane	
-419	cheval		Bourbonnais	Ane	
-420	cheval		Ardennais	Cheval de trait	
-421	cheval		Auxois	Cheval de trait	
-422	cheval		Boulonnais	Cheval de trait	
-423	cheval		Breton	Cheval de trait	
-424	cheval		Cob Normand	Cheval de trait	
-425	cheval		Comtois	Cheval de trait	
-426	cheval		Cheval de pure race Franches-Montagnes	Cheval de trait	
-427	cheval		Cheval mulassier du Poitou	Cheval de trait	
-428	cheval		Percheron	Cheval de trait	
-429	cheval	France	Arabe	chevaux de sang	
-430	cheval	France	Anglo-Arabe	chevaux de sang	
-431	cheval	France	Selle Français	chevaux de sang	
-432	cheval	France	Camargue	chevaux de sang	
-433	cheval	France	Ariégeois de Castillon	chevaux de sang	
-434	cheval	France	Mérens	chevaux de sang	
-435	cheval	France	Henson	chevaux de sang	
-436	cheval	Etrangère	Akhal-Téké de Pur Sang	chevaux de sang	
-437	cheval	Etrangère	Appaloosa	chevaux de sang	
-438	cheval	Etrangère	Barbe	chevaux de sang	
-439	cheval	Etrangère	Crème	chevaux de sang	
-440	cheval	Etrangère	Frison	chevaux de sang	
-441	cheval	Etrangère	Islandais	chevaux de sang	
-442	cheval	Etrangère	Lipizzan	chevaux de sang	
-443	cheval	Etrangère	Paint Horse	chevaux de sang	
-444	cheval	Etrangère	Lusitanienne	chevaux de sang	
-445	cheval	Etrangère	Espagnole	chevaux de sang	
-446	cheval	Etrangère	Quarter Horse	chevaux de sang	
-447	cheval	Etrangère	Shagya	chevaux de sang	
-448	cheval	Etrangère	Trakehner	chevaux de sang	
-449	cheval		Pur-Sang	chevaux de sang	
-450	cheval		Trotteur Français	chevaux de sang	
-451	cheval		Connemara	poney	
-452	cheval		Dartmoor	poney	
-453	cheval		Fjord	poney	
-454	cheval		Français de Selle	poney	
-455	cheval		Haflinger	poney	
-456	cheval		Highland	poney	
-457	cheval		Landais	poney	
-458	cheval		New Forest	poney	
-459	cheval		Pottok	poney	
-460	cheval		Shetland	poney	
-461	cheval		Welsh	poney	
+Espece,Info,Race,Categorie,URL
+chat,abyssin.jpg,Abyssin,chat,https://i.imgur.com/AAxYUm0.jpg
+chat,american-bobtail.jpg,American Bobtail,chat,https://i.imgur.com/zgoGPaB.jpg
+chat,american-curl.jpg,American Curl,chat,https://i.imgur.com/eWTk90s.jpg
+chat,american-shortair.jpg,American Shorthair,chat,https://i.imgur.com/gDhdGvn.jpg
+chat,american-wirehair.jpg,American Wirehair,chat,https://i.imgur.com/17VOUOK.jpg
+chat,angora-turc.jpg,Angora Turc,chat,https://i.imgur.com/F9Ac2zK.jpg
+chat,balinais.jpg,Balinais,chat,https://i.imgur.com/nf7I6gu.jpg
+chat,bengal.jpg,Bengal,chat,https://i.imgur.com/ltrXe8O.jpg
+chat,bleu-russe.jpg,Bleu Russe,chat,https://i.imgur.com/fl87NNt.jpg
+chat,bombay.jpg,Bombay,chat,https://i.imgur.com/oVSWoS1.jpg
+chat,british-shorthair.jpg,British Shorthair,chat,https://i.imgur.com/zthLEJz.jpg
+chat,burmese.jpg,Burmese,chat,https://i.imgur.com/ygzCS2y.jpg
+chat,burmilla.jpg,Burmilla,chat,https://i.imgur.com/ddh8xYc.jpg
+chat,ceylan.jpg,Ceylan,chat,https://i.imgur.com/NSir0xB.jpg
+chat,chartreux.jpg,Chartreux,chat,https://i.imgur.com/Y2kfdZG.jpg
+chat,chausie.jpg,Chausie,chat,https://i.imgur.com/1ywZQCY.jpg
+chat,cornish-rex.jpg,Cornish Rex,chat,https://i.imgur.com/aR0CCjm.jpg
+chat,devon-rex.jpg,Devon Rex,chat,https://i.imgur.com/IcPgnQC.jpg
+chat,donskoy.jpg,Donskoy,chat,https://i.imgur.com/6h6nTI1.jpg
+chat,europeen.jpg,Européen,chat,https://i.imgur.com/e60FmHY.jpg
+chat,exotic.jpg,Exotic,chat,https://i.imgur.com/wvcxtfJ.jpg
+chat,german-rex.jpg,German Rex,chat,https://i.imgur.com/1Dhm3Si.jpg
+chat,havana-brown.jpg,Havana Brown,chat,https://i.imgur.com/v7NmdOM.jpg
+chat,highland-lynx.jpg,Highland Lynx,chat,https://i.imgur.com/fixAoDy.jpg
+chat,japanese-bobtail.jpg,Japanese Bobtail,chat,https://i.imgur.com/UnQ5log.jpg
+chat,javanais.jpg,Javanais,chat,https://i.imgur.com/QViUIft.jpg
+chat,korat.jpg,Korat,chat,https://i.imgur.com/b8l42VV.jpg
+chat,kurilian-bobtail.jpg,Kurilian Bobtail,chat,https://i.imgur.com/lH7l9YG.jpg
+chat,laperm.jpg,LaPerm,chat,https://i.imgur.com/aaULkSo.jpg
+chat,maine-coon.jpg,Maine Coon,chat,https://i.imgur.com/hy8UXDI.jpg
+chat,manx.jpg,Manx,chat,https://i.imgur.com/f1ndxEC.jpg
+chat,mau-egyptien.jpg,Mau Egyptien,chat,https://i.imgur.com/YjDoVK9.jpg
+chat,munchkin.jpg,Munchkin,chat,https://i.imgur.com/UdVtOZf.jpg
+chat,norvegien.jpg,Norvégien,chat,https://i.imgur.com/00h21Cb.jpg
+chat,ocicat.jpg,Ocicat,chat,https://i.imgur.com/KxCDpNh.jpg
+chat,oriental.jpg,Oriental,chat,https://i.imgur.com/xA4mhcZ.jpg
+chat,persan.jpg,Persan,chat,https://i.imgur.com/N2wq3QG.jpg
+chat,peterbald.jpg,Peterbald,chat,https://i.imgur.com/DheIRdq.jpg
+chat,pixie-bob.jpg,Pixie-Bob,chat,https://i.imgur.com/nGVNR4e.jpg
+chat,ragdoll.jpg,Ragdoll,chat,https://i.imgur.com/srBKuvi.jpg
+chat,sacre-birmanie.jpg,Sacré de Birmanie,chat,https://i.imgur.com/97KEYsu.jpg
+chat,savannah.jpg,Savannah,chat,https://i.imgur.com/IrFEXsi.jpg
+chat,scottish-fold.jpg,Scottish & Highland,chat,https://i.imgur.com/rwflBUd.jpg
+chat,scottish-highland.jpg,Scottish Fold,chat,https://i.imgur.com/rC0IvIP.jpg
+chat,siamois.jpg,Siamois,chat,https://i.imgur.com/Dgak5bx.jpg
+chat,siberien.jpg,Sibérien,chat,https://i.imgur.com/JOuz1ui.jpg
+chat,singapura.jpg,Singapura,chat,https://i.imgur.com/7S7zIhW.jpg
+chat,skogcatt.jpg,Skogcatt,chat,https://i.imgur.com/1nQdhU0.jpg
+chat,snowshoe.jpg,Snowshoe,chat,https://i.imgur.com/7ZzpRmU.jpg
+chat,somali.jpg,Somali,chat,https://i.imgur.com/vsmh1sE.jpg
+chat,sphynx.jpg,Sphynx,chat,https://i.imgur.com/mhtI98S.jpg
+chat,thai.jpg,Thaï,chat,https://i.imgur.com/ZQlndIB.jpg
+chat,tiffany.jpg,Tiffany,chat,https://i.imgur.com/yOHA6PB.jpg
+chat,tonkinois.jpg,Tonkinois,chat,https://i.imgur.com/HTENsXA.jpg
+chat,toyger.jpg,Toyger,chat,https://i.imgur.com/Pxq09nU.jpg
+chat,turc-van.jpg,Turc de Van,chat,https://i.imgur.com/aJhnr6t.jpg
+chien,186,Affenpinscher,Groupe 2,https://i.imgur.com/XfgVSQa.jpg
+chien,247,Aïdi,Groupe 2,https://i.imgur.com/A8l2Tdm.jpg
+chien,7,Airedale Terrier,Groupe 3,https://i.imgur.com/nnppUnN.jpg
+chien,255,Akita Inu,Groupe 5,https://i.imgur.com/wv2x2cN.jpg
+chien,243,Malamute d'Alaska,Groupe 5,https://i.imgur.com/xVYYswq.jpg
+chien,344,Akita Américain,Groupe 5,https://i.imgur.com/zxgoFJv.jpg
+chien,167,Cocker Américain,Groupe 8,https://i.imgur.com/cA3KMAf.jpg
+chien,301,Épagneul d'Eau Américain,Groupe 8,https://i.imgur.com/kOydFrQ.jpg
+chien,286,American Staffordshire Terrier,Groupe 3,https://i.imgur.com/2ZGAdXb.jpg
+chien,325,Anglo-Français de Petite Vénerie,Groupe 6,https://i.imgur.com/AQSjokt.jpg
+chien,20,Ariégeois,Groupe 6,https://i.imgur.com/353XHjY.jpg
+chien,293,Kelpie Australien,Groupe 1,https://i.imgur.com/WiX6yzk.jpg
+chien,236,Silky Terrier,Groupe 3,https://i.imgur.com/Nb13QXT.jpg
+chien,351,Bouvier Australien Courte Queue,Groupe 1,https://i.imgur.com/abQtXK4.jpg
+chien,8,Terrier Australien,Groupe 3,https://i.imgur.com/1ej7QUz.jpg
+chien,307,Azawakh,Groupe 10,https://i.imgur.com/u8prDis.jpg
+chien,358,Bangkaew de Thaïlande,Groupe 5,https://i.imgur.com/iVSFwGN.jpg
+chien,155,Chien Courant de Bosnie à Poil Raide,Groupe 6,https://i.imgur.com/iVUbDfv.jpg
+chien,105,Barbet,Groupe 8,https://i.imgur.com/vEf2DRI.jpg
+chien,245,Barbu Tchèque,Groupe 7,https://i.imgur.com/UqyWFUt.jpg
+chien,193,Barzoï,Groupe 10,https://i.imgur.com/066nzWN.jpg
+chien,43,Basenji,Groupe 5,https://i.imgur.com/IU74Mqz.jpg
+chien,34,Basset artésien normand,Groupe 6,https://i.imgur.com/yD9bNrH.jpg
+chien,35,Basset bleu de Gascogne,Groupe 6,https://i.imgur.com/vycJ8oY.jpg
+chien,100,Basset de Westphalie,Groupe 6,https://i.imgur.com/qOl1xq1.jpg
+chien,254,Basset des Alpes,Groupe 6,https://i.imgur.com/WQZ36hT.jpg
+chien,36,Basset fauve de Bretagne,Groupe 6,https://i.imgur.com/8TTPwM5.jpg
+chien,163,Basset Hound,Groupe 6,https://i.imgur.com/1feNrqL.jpg
+chien,130,Drever,Groupe 6,https://i.imgur.com/sWGaKx6.jpg
+chien,161,Beagle,Groupe 6,https://i.imgur.com/TScrdCE.jpg
+chien,290,Beagle-Harrier,Groupe 6,https://i.imgur.com/xpkJUPC.jpg
+chien,44,Beauceron,Groupe 1,https://i.imgur.com/7uYh6Y1.jpg
+chien,9,Bedlington Terrier,Groupe 3,https://i.imgur.com/OOaagks.jpg
+chien,194,Berger de Bergame,Groupe 1,https://i.imgur.com/IWqo1mm.jpg
+chien,166,Berger Allemand,Groupe 1,https://i.imgur.com/2qbdGwz.jpg
+chien,342,Berger Australien,Groupe 1,https://i.imgur.com/P6P2Aza.jpg
+chien,367,Berger Australien Miniature,Groupe 1,https://i.imgur.com/Qy36E22.jpg
+chien,15,Berger Belge,Groupe 1,https://i.imgur.com/Gt2fhXI.jpg
+chien,347,Berger Blanc Suisse,Groupe 1,https://i.imgur.com/qLJgBST.jpg
+chien,237,Buhund Norvégien,Groupe 5,https://i.imgur.com/9Uliam6.jpg
+chien,87,Berger Catalan,Groupe 1,https://i.imgur.com/N7lEbW1.jpg
+chien,277,Berger Croate,Groupe 1,https://i.imgur.com/9QrfPDz.jpg
+chien,335,Berger d'Asie Centrale,Groupe 2,https://i.imgur.com/laRHqZS.jpg
+chien,364,Berger de Bohême,Groupe 1,https://i.imgur.com/keCc9c3.jpg
+chien,355,Tornjak,Groupe 2,https://i.imgur.com/0tr7K4o.jpg
+chien,201,Berger de Maremme-Abruzzes,Groupe 1,https://i.imgur.com/ez1tIsT.jpg
+chien,321,Berger de Majorque,Groupe 1,https://i.imgur.com/s5o250B.jpg
+chien,326,Berger de Russie Méridionale,Groupe 1,https://i.imgur.com/ZTCdROn.jpg
+chien,138,Berger des Pyrénées à face rase,Groupe 1,https://i.imgur.com/0tgWMJk.jpg
+chien,141,Berger des Pyrénées,Groupe 1,https://i.imgur.com/WgQs63l.jpg
+chien,88,Berger des Shetland,Groupe 1,https://i.imgur.com/g1f5fzA.jpg
+chien,328,Berger du Caucase,Groupe 2,https://i.imgur.com/cCKy9zE.jpg
+chien,278,Berger du Karst,Groupe 2,https://i.imgur.com/SxrzAW3.jpg
+chien,284,Berger Finnois de Laponie,Groupe 5,https://i.imgur.com/nFy4Kvx.jpg
+chien,223,Berger Hollandais,Groupe 1,https://i.imgur.com/UAIdk9C.jpg
+chien,289,Berger d'Islande,Groupe 5,https://i.imgur.com/2tmT1Oc.jpg
+chien,176,Berger Picard,Groupe 1,https://i.imgur.com/XEY22vB.jpg
+chien,252,Berger Polonais de Podhale,Groupe 1,https://i.imgur.com/3eUo9QY.jpg
+chien,93,Berger Portugais,Groupe 1,https://i.imgur.com/wFeG1OE.jpg
+chien,357,Berger roumain de Bucovine,Groupe 2,https://i.imgur.com/M0f6Coc.jpg
+chien,349,Berger Roumain de Mioritza,Groupe 1,https://i.imgur.com/Du8jEc0.jpg
+chien,350,Berger Roumain des Carpathes,Groupe 1,https://i.imgur.com/mAHjk75.jpg
+chien,142,Tchouvatch Slovaque,Groupe 1,https://i.imgur.com/gLKOC8s.jpg
+chien,59,Chien courant Bernois,Groupe 6,https://i.imgur.com/QTRO1xm.jpg
+chien,215,Bichon Frisé,Groupe 9,https://i.imgur.com/ABJrnRX.jpg
+chien,250,Bichon Havanais,Groupe 9,https://i.imgur.com/kGfjzhA.jpg
+chien,25,Billy,Groupe 6,https://i.imgur.com/dWReF0J.jpg
+chien,180,Braque d'Auvergne,Groupe 7,https://i.imgur.com/QT97lav.jpg
+chien,16,Bobtail,Groupe 1,https://i.imgur.com/nNolyoy.jpg
+chien,196,Bichon Bolonais,Groupe 9,https://i.imgur.com/SNk5xY2.jpg
+chien,297,Border Collie,Groupe 1,https://i.imgur.com/jXDv4fy.jpg
+chien,10,Border Terrier,Groupe 3,https://i.imgur.com/U8yjYkf.jpg
+chien,149,Bouledogue Anglais,Groupe 2,https://i.imgur.com/OY9HGD6.jpg
+chien,101,Bouledogue Français,Groupe 9,https://i.imgur.com/ow950dT.jpg
+chien,46,Bouvier d'Appenzell,Groupe 2,https://i.imgur.com/m4adrqp.jpg
+chien,287,Bouvier Australien,Groupe 1,https://i.imgur.com/YXkdWpA.jpg
+chien,45,Bouvier Bernois,Groupe 2,https://i.imgur.com/PLSUKe4.jpg
+chien,47,Bouvier de l'Entlebuch,Groupe 2,https://i.imgur.com/FdKWkhY.jpg
+chien,171,Bouvier des Ardennes,Groupe 1,https://i.imgur.com/Xb4EPxF.jpg
+chien,191,Bouvier des Flandres,Groupe 1,https://i.imgur.com/2bPODmp.jpg
+chien,144,Boxer,Groupe 2,https://i.imgur.com/ve5qrbK.jpg
+chien,299,Brachet Allemand,Groupe 6,https://i.imgur.com/e2SISFZ.jpg
+chien,63,Brachet Autrichien Noir et Feu,Groupe 6,https://i.imgur.com/840YCeJ.jpg
+chien,62,Brachet de Styrie à Poil Dur,Groupe 6,https://i.imgur.com/080Zb2R.jpg
+chien,52,Brachet Polonais,Groupe 6,https://i.imgur.com/o2uDuEC.jpg
+chien,68,Brachet Tyrolien,Groupe 6,https://i.imgur.com/2Mljgjb.jpg
+chien,119,Braque Allemand à Poil Court,Groupe 7,https://i.imgur.com/jw6oWrM.jpg
+chien,90,Perdiguero de Burgos,Groupe 7,https://i.imgur.com/aGcqi09.jpg
+chien,177,Braque de l'Ariège,Groupe 7,https://i.imgur.com/mHN37RE.jpg
+chien,179,Braque du Bourbonnais,Groupe 7,https://i.imgur.com/jJO4P5c.jpg
+chien,133,Braque français type Gascogne,Groupe 7,https://i.imgur.com/MxefPtR.jpg
+chien,134,Braque français type Pyrénées,Groupe 7,https://i.imgur.com/uZyPXEI.jpg
+chien,57,Vizsla à Poil Court,Groupe 7,https://i.imgur.com/OUtdRZ3.jpg
+chien,239,Vizsla à Poil Dur,Groupe 7,https://i.imgur.com/B1aG7Fo.jpg
+chien,202,Braque Italien,Groupe 7,https://i.imgur.com/pfhilka.jpg
+chien,115,Braque Saint-Germain,Groupe 7,https://i.imgur.com/9u88blV.jpg
+chien,320,Braque Slovaque à Poil Dur,Groupe 7,https://i.imgur.com/IiSjd3C.jpg
+chien,113,Berger de Brie,Groupe 1,https://i.imgur.com/kWaAsmg.jpg
+chien,19,Briquet Griffon Vendéen,Groupe 6,https://i.imgur.com/51aOvcU.jpg
+chien,315,Broholmer,Groupe 2,https://i.imgur.com/u8YK7xT.jpg
+chien,113,Berger de Brie,Groupe 1,https://i.imgur.com/1iJbI7x.jpg
+chien,19,Briquet Griffon Vendéen,Groupe 6,https://i.imgur.com/fkf35H6.jpg
+chien,315,Broholmer,Groupe 2,https://i.imgur.com/blP4xij.jpg
+chien,11,Bull Terrier,Groupe 3,https://i.imgur.com/CkqD3f1.jpg
+chien,359,Bull Terrier miniature,Groupe 3,https://i.imgur.com/ITiGSMC.jpg
+chien,157,Bullmastiff,Groupe 2,https://i.imgur.com/ed8FQj6.jpg
+chien,249,Dogue de Majorque,Groupe 2,https://i.imgur.com/rnRF8BQ.jpg
+chien,4,Cairn Terrier,Groupe 3,https://i.imgur.com/dYCxDWC.jpg
+chien,343,Cane Corso,Groupe 2,https://i.imgur.com/dwNSksp.jpg
+chien,172,Caniche,Groupe 9,https://i.imgur.com/PmlBH1a.jpg
+chien,253,Carlin,Groupe 9,https://i.imgur.com/p4UwFzm.jpg
+chien,136,Cavalier King Charles Spaniel,Groupe 9,https://i.imgur.com/lzMvRPA.jpg
+chien,246,Terrier Tchèque,Groupe 3,https://i.imgur.com/Q27lnCE.jpg
+chien,366,Chien courant d'Estonie,Groupe 6,https://i.imgur.com/oSmJsem.jpg
+chien,152,Chien Courant d'Istrie à Poil Dur,Groupe 6,https://i.imgur.com/6quRwj6.jpg
+chien,151,Chien Courant d'Istrie à Poil Ras,Groupe 6,https://i.imgur.com/PEtyDrX.jpg
+chien,279,Chien Courant de Montagne du Monténégro,Groupe 6,https://i.imgur.com/dbzyPys.jpg
+chien,154,Chien Courant de Posavatz,Groupe 6,https://i.imgur.com/WAd5Edf.jpg
+chien,241,Chien Courant de Transylvanie,Groupe 6,https://i.imgur.com/zYv6CjV.jpg
+chien,129,Chien Courant du Smaland,Groupe 6,https://i.imgur.com/T3AMncl.jpg
+chien,204,Chien Courant Espagnol,Groupe 6,https://i.imgur.com/H5Pkmg3.jpg
+chien,51,Chien Courant Finlandais,Groupe 6,https://i.imgur.com/OmWRM8t.jpg
+chien,214,Chien Courant Grec,Groupe 6,https://i.imgur.com/fkNb5Ai.jpg
+chien,267,Chien Courant de Halden,Groupe 6,https://i.imgur.com/19C2lGi.jpg
+chien,132,Chien Courant de Hamilton,Groupe 6,https://i.imgur.com/TlXVupV.jpg
+chien,266,Chien Courant de Hygen,Groupe 6,https://i.imgur.com/MqV7m1v.jpg
+chien,337,Chien Courant Italien à Poil Ras,Groupe 6,https://i.imgur.com/HdOL1z0.jpg
+chien,198,Chien Courant Italien à Poil Dur,Groupe 6,https://i.imgur.com/Q02dWqF.jpg
+chien,150,Chien Courant Serbe,Groupe 6,https://i.imgur.com/Nc73WPu.jpg
+chien,244,Chien Courant Slovaque,Groupe 6,https://i.imgur.com/VQMGhp9.jpg
+chien,229,Chien Courant Tricolore Serbe,Groupe 6,https://i.imgur.com/Fg05LXK.jpg
+chien,232,Chien d'Arrêt Allemand à Poil Raide,Groupe 7,https://i.imgur.com/yMFFwRh.jpg
+chien,281,Chien d'Arrêt Danois Ancestral,Groupe 7,https://i.imgur.com/RmTrdCF.jpg
+chien,222,Stabyhoun,Groupe 7,https://i.imgur.com/IjhUPHP.jpg
+chien,165,Spinone Italiano,Groupe 7,https://i.imgur.com/IRjxHLU.jpg
+chien,187,Braque Portugais,Groupe 7,https://i.imgur.com/c5uQaUT.jpg
+chien,28,Chien d'Artois,Groupe 6,https://i.imgur.com/fIY5SVP.jpg
+chien,37,Chien d'Eau Portugais,Groupe 8,https://i.imgur.com/HtIxp4R.jpg
+chien,242,Chien d'Elan Norvégien Gris,Groupe 5,https://i.imgur.com/Pga42Lk.jpg
+chien,268,Chien d'Elan Norvégien Noir,Groupe 5,https://i.imgur.com/fNJctlA.jpg
+chien,48,Chien d'Ours de Carélie,Groupe 5,https://i.imgur.com/VCUFbia.jpg
+chien,362,Chien de Bali,Groupe 5,https://i.imgur.com/R56TRby.jpg
+chien,273,Chien de Canaan,Groupe 5,https://i.imgur.com/viUCotN.jpg
+chien,170,Chien de Castro Laboreiro,Groupe 2,https://i.imgur.com/DDPvzgZ.jpg
+chien,356,Chien de Ferme dano-suédois,Groupe 2,https://i.imgur.com/SRmLzDb.jpg
+chien,94,Podengo Portugais,Groupe 5,https://i.imgur.com/D2fmfGo.jpg
+chien,217,Chien de Rouge de Bavière,Groupe 6,https://i.imgur.com/kJWx0Kl.jpg
+chien,213,Chien de Rouge de Hanovre,Groupe 6,https://i.imgur.com/bmkHwET.jpg
+chien,348,Chien de Taiwan,Groupe 5,https://i.imgur.com/j7XUOPI.jpg
+chien,274,Chien du Groenland,Groupe 5,https://i.imgur.com/hFmTCaH.jpg
+chien,248,Chien du Pharaon,Groupe 5,https://i.imgur.com/Kg9xczt.jpg
+chien,42,Jämthund,Groupe 5,https://i.imgur.com/Jxtvxuo.jpg
+chien,189,Chien Finnois de Laponie,Groupe 5,https://i.imgur.com/RPhkIrt.jpg
+chien,332,Chien Loup Tchécoslovaque,Groupe 1,https://i.imgur.com/2X35iwE.jpg
+chien,288,Chien Chinois à Crête,Groupe 9,https://i.imgur.com/iNo04xR.jpg
+chien,310,Chien Nu du Pérou,Groupe 5,https://i.imgur.com/xM4T5B5.jpg
+chien,24,Poitevin,Groupe 6,https://i.imgur.com/S9NhZsk.jpg
+chien,135,Chien Suédois de Laponie,Groupe 5,https://i.imgur.com/hguFNXn.jpg
+chien,206,Épagneul Japonais,Groupe 9,https://i.imgur.com/pW2RHcu.jpg
+chien,336,Chien d'Eau Espagnol,Groupe 8,https://i.imgur.com/G16NzNP.jpg
+chien,218,Chihuahua,Groupe 9,https://i.imgur.com/CZIcsSJ.jpg
+chien,205,Chow Chow,Groupe 5,https://i.imgur.com/stWZUEg.jpg
+chien,353,Cimarron Uruguayen,Groupe 2,https://i.imgur.com/049BnA4.jpg
+chien,199,Cirneco de l'Etna,Groupe 5,https://i.imgur.com/4cV8hVl.jpg
+chien,109,Clumber Spaniel,Groupe 8,https://i.imgur.com/sqyiWLI.jpg
+chien,5,Cocker Anglais,Groupe 8,https://i.imgur.com/hPe4e6H.jpg
+chien,271,Bearded Collie,Groupe 1,https://i.imgur.com/7DujCZU.jpg
+chien,296,Colley à Poil Court,Groupe 1,https://i.imgur.com/dWNwWZG.jpg
+chien,156,Colley à Poil Long,Groupe 1,https://i.imgur.com/9PPV0n6.jpg
+chien,300,Black and Tan Coonhound,Groupe 6,https://i.imgur.com/oiPYb0e.jpg
+chien,283,Coton de Tuléar,Groupe 9,https://i.imgur.com/YujVz0z.jpg
+chien,110,Curly Coated Retriever,Groupe 8,https://i.imgur.com/DNUJtrm.jpg
+chien,153,Dalmatien,Groupe 6,https://i.imgur.com/3Y92UsW.jpg
+chien,168,Dandie Dinmont Terrier,Groupe 3,https://i.imgur.com/EVDqtah.jpg
+chien,117,Langhaar,Groupe 7,https://i.imgur.com/j0H110Y.jpg
+chien,184,Pinscher Allemand,Groupe 2,https://i.imgur.com/FXTfoyg.jpg
+chien,104,Chien d'Oysel,Groupe 8,https://i.imgur.com/EBS0TwL.jpg
+chien,143,Dobermann,Groupe 2,https://i.imgur.com/wdFjehr.jpg
+chien,346,Dogo Canario,Groupe 2,https://i.imgur.com/KDJ0qeY.jpg
+chien,235,Dogue Allemand,Groupe 2,https://i.imgur.com/ZmRgnUG.jpg
+chien,292,Dogue Argentin,Groupe 2,https://i.imgur.com/sLKeotG.jpg
+chien,116,Dogue de Bordeaux,Groupe 2,https://i.imgur.com/v6lv7Ha.jpg
+chien,230,Dogue du Tibet,Groupe 2,https://i.imgur.com/s2hkHMY.jpg
+chien,98,Draathaar,Groupe 7,https://i.imgur.com/psXEHIp.jpg
+chien,203,Chien Courant Norvégien,Groupe 6,https://i.imgur.com/OG5oEEt.jpg
+chien,264,Mastiff,Groupe 2,https://i.imgur.com/sYT72cO.jpg
+chien,1,Pointer,Groupe 7,https://i.imgur.com/IUcRhUb.jpg
+chien,2,Setter Anglais,Groupe 7,https://i.imgur.com/lTCWeuY.jpg
+chien,125,Springer Anglais,Groupe 8,https://i.imgur.com/vBHG6Qv.jpg
+chien,128,English Toy Spaniel,Groupe 9,https://i.imgur.com/BGwCfWT.jpg
+chien,224,Épagneul à Perdrix de Drente,Groupe 7,https://i.imgur.com/tIfNZjF.jpg
+chien,106,Épagneul bleu de Picardie,Groupe 7,https://i.imgur.com/k4fZsVu.jpg
+chien,95,Épagneul Breton,Groupe 7,https://i.imgur.com/pt8dYj9.jpg
+chien,114,Épagneul de Pont-Audemer,Groupe 7,https://i.imgur.com/lXXEJQM.jpg
+chien,175,Épagneul français,Groupe 7,https://i.imgur.com/oEDtSui.jpg
+chien,77,Épagneul Nain Continental Papillon,Groupe 9,https://i.imgur.com/RWSpqB6.jpg
+chien,207,Pékinois,Groupe 9,https://i.imgur.com/znIiwbw.jpg
+chien,108,Épagneul picard,Groupe 7,https://i.imgur.com/oYoQ5vi.jpg
+chien,211,Esquimau Canadien,Groupe 5,https://i.imgur.com/peRkaLt.jpg
+chien,173,Chien de Montagne Portugais,Groupe 2,https://i.imgur.com/7WMdqhc.jpg
+chien,291,Eurasier,Groupe 5,https://i.imgur.com/I0Oe2uB.jpg
+chien,123,Field Spaniel,Groupe 8,https://i.imgur.com/Hfmj9k2.jpg
+chien,225,Fila Brasileiro,Groupe 2,https://i.imgur.com/aIyy0vj.jpg
+chien,340,Fila de Sao Miguel,Groupe 2,https://i.imgur.com/BecLr7I.jpg
+chien,121,Retriever à Poil Plat,Groupe 8,https://i.imgur.com/YNv3YJO.jpg
+chien,169,Fox Terrier à Poil Dur,Groupe 3,https://i.imgur.com/kFcKWPm.jpg
+chien,12,Fox Terrier à Poil Lisse,Groupe 3,https://i.imgur.com/GwEptJ2.jpg
+chien,303,Foxhound Américain,Groupe 6,https://i.imgur.com/PN675FP.jpg
+chien,159,Foxhound Anglais,Groupe 6,https://i.imgur.com/R04ZuCD.jpg
+chien,220,Français blanc et noir,Groupe 6,https://i.imgur.com/RrNwfuu.jpg
+chien,316,Français blanc et orange,Groupe 6,https://i.imgur.com/l84KSXS.jpg
+chien,219,Français tricolore,Groupe 6,https://i.imgur.com/FowcUgn.jpg
+chien,111,Golden Retriever,Groupe 8,https://i.imgur.com/ZW75JGv.jpg
+chien,354,Chien Courant Polonais,Groupe 6,https://i.imgur.com/H1QashA.jpg
+chien,323,Grand Anglo Français Blanc et Noir,Groupe 6,https://i.imgur.com/8lPP0hd.jpg
+chien,324,Grand Anglo Français Blanc et Orange,Groupe 6,https://i.imgur.com/CaOWtqc.jpg
+chien,322,Grand Anglo Français Tricolore,Groupe 6,https://i.imgur.com/M8tKWVl.jpg
+chien,33,Grand Basset Griffon Vendéen,Groupe 6,https://i.imgur.com/QqFMghb.jpg
+chien,22,Grand Bleu de Gascogne,Groupe 6,https://i.imgur.com/G6ElPFo.jpg
+chien,58,Grand Bouvier Suisse,Groupe 2,https://i.imgur.com/SCY2kuZ.jpg
+chien,118,Grand épagneul de Münster,Groupe 7,https://i.imgur.com/ed3eA0e.jpg
+chien,282,Grand Griffon Vendéen,Groupe 6,https://i.imgur.com/pRkkjjY.jpg
+chien,158,Greyhound,Groupe 10,https://i.imgur.com/HDqOWGO.jpg
+chien,81,Griffon belge,Groupe 9,https://i.imgur.com/ptwQ04z.jpg
+chien,32,Griffon bleu de Gascogne,Groupe 6,https://i.imgur.com/qEPYbiD.jpg
+chien,80,Griffon bruxellois,Groupe 9,https://i.imgur.com/axfPOzx.jpg
+chien,66,Griffon fauve de Bretagne,Groupe 6,https://i.imgur.com/1jTzF9V.jpg
+chien,107,Korthals,Groupe 7,https://i.imgur.com/EfhPNLC.jpg
+chien,17,Griffon Nivernais,Groupe 6,https://i.imgur.com/DpvdhbL.jpg
+chien,295,Harrier,Groupe 6,https://i.imgur.com/ynsZTBe.jpg
+chien,261,Hokkaïdo Ken,Groupe 5,https://i.imgur.com/j0ACjIA.jpg
+chien,308,Smous des Pays-Bas,Groupe 2,https://i.imgur.com/aODC4Ll.jpg
+chien,190,Hovawart,Groupe 2,https://i.imgur.com/WhsbhSv.jpg
+chien,120,Setter Irlandais,Groupe 7,https://i.imgur.com/HcenApT.jpg
+chien,124,Épagneul d'Eau Irlandais,Groupe 8,https://i.imgur.com/g5zsoyr.jpg
+chien,160,Irish Wolfhound,Groupe 10,https://i.imgur.com/Okt6IG3.jpg
+chien,200,Petit Lévrier Italien,Groupe 10,https://i.imgur.com/jQ14Ulo.jpg
+chien,345,Jack Russell,Groupe 3,https://i.imgur.com/4A5EDmj.jpg
+chien,334,Jindo Coréen,Groupe 5,https://i.imgur.com/ZRIUust.jpg
+chien,317,Kai Ken,Groupe 5,https://i.imgur.com/M44jS5K.jpg
+chien,331,Kangal,Groupe 2,https://i.imgur.com/jaAcXvO.jpg
+chien,3,Kerry Blue Terrier,Groupe 3,https://i.imgur.com/CdIUJt4.jpg
+chien,318,Kishu Ken,Groupe 5,https://i.imgur.com/rn0UZdt.jpg
+chien,53,Komondor,Groupe 1,https://i.imgur.com/nrQwB7F.jpg
+chien,314,Kooikerhondje,Groupe 8,https://i.imgur.com/eZIrnWz.jpg
+chien,192,Kromfohrländer,Groupe 9,https://i.imgur.com/JUhoiNP.jpg
+chien,54,Kuvasz,Groupe 1,https://i.imgur.com/TR6gJ5M.jpg
+chien,122,Labrador Retriever,Groupe 8,https://i.imgur.com/oc7IHlY.jpg
+chien,298,Lagotto Romagnolo,Groupe 8,https://i.imgur.com/VO7Dsdh.jpg
+chien,306,Laïka de Sibérie Occidentale,Groupe 5,https://i.imgur.com/FpcgBQw.jpg
+chien,305,Laïka de Sibérie Orientale,Groupe 5,https://i.imgur.com/JYcwMe8.jpg
+chien,365,Laïka de Yakoutie,Groupe 5,https://i.imgur.com/sbalV3t.jpg
+chien,304,Laïka Russo-Européen,Groupe 5,https://i.imgur.com/Sir47oi.jpg
+chien,70,Lakeland Terrier,Groupe 3,https://i.imgur.com/kaH81Fg.jpg
+chien,360,Lancashire Heeler,Groupe 1,https://i.imgur.com/66sGRDF.jpg
+chien,226,Landseer,Groupe 2,https://i.imgur.com/n0PiKZU.jpg
+chien,145,Leonberg,Groupe 2,https://i.imgur.com/mcxDtjE.jpg
+chien,228,Lévrier Afghan,Groupe 10,https://i.imgur.com/vabkNwQ.jpg
+chien,164,Lévrier Ecossais,Groupe 10,https://i.imgur.com/vLy3Ovi.jpg
+chien,285,Galgo Espagnol,Groupe 10,https://i.imgur.com/Bi5NmXF.jpg
+chien,240,Lévrier Hongrois,Groupe 10,https://i.imgur.com/FRhPPHx.jpg
+chien,333,Chart polski,Groupe 10,https://i.imgur.com/VKT1CYd.jpg
+chien,162,Whippet,Groupe 10,https://i.imgur.com/9xcRFsw.jpg
+chien,227,Lhassa Apso,Groupe 9,https://i.imgur.com/E1VdVUt.jpg
+chien,265,Lundehund,Groupe 5,https://i.imgur.com/cilAgC7.jpg
+chien,65,Bichon Maltais,Groupe 9,https://i.imgur.com/I79txLQ.jpg
+chien,92,Mâtin des Pyrénées,Groupe 2,https://i.imgur.com/8t9n5sD.jpg
+chien,91,Mâtin Espagnol,Groupe 2,https://i.imgur.com/eLViu88.jpg
+chien,197,Mâtin Napolitain,Groupe 2,https://i.imgur.com/GPk9QlT.jpg
+chien,96,Rafeiro de l'Alentejo,Groupe 2,https://i.imgur.com/fqq0rfN.jpg
+chien,368,Mâtin Transmontano,Groupe 2,https://i.imgur.com/i5297nv.jpg
+chien,182,Schnauzer Moyen,Groupe 2,https://i.imgur.com/s7SmDHH.jpg
+chien,238,Mudi,Groupe 1,https://i.imgur.com/w5pA0Rl.jpg
+chien,251,Nizinny,Groupe 1,https://i.imgur.com/94n2N7t.jpg
+chien,294,Otterhound,Groupe 6,https://i.imgur.com/mwLDPYX.jpg
+chien,339,Parson Russell Terrier,Groupe 3,https://i.imgur.com/qsWloXk.jpg
+chien,137,Chien de Montagne des Pyrénées,Groupe 2,https://i.imgur.com/GKlFSjX.jpg
+chien,67,Petit Basset Griffon Vendéen,Groupe 6,https://i.imgur.com/1XJ7vzM.jpg
+chien,31,Petit bleu de Gascogne,Groupe 6,https://i.imgur.com/ipeDvFR.jpg
+chien,82,Petit Brabançon,Groupe 9,https://i.imgur.com/b0tmAxw.jpg
+chien,60,Petit Chien Courant Suisse,Groupe 6,https://i.imgur.com/OJcBugj.jpg
+chien,233,Petit chien lion,Groupe 9,https://i.imgur.com/cpNL0v5.jpg
+chien,102,Petit Epagneul de Münster,Groupe 7,https://i.imgur.com/2Q9Xfix.jpg
+chien,21,Petit gascon saintongeois,Groupe 6,https://i.imgur.com/aSPq8bp.jpg
+chien,64,Pinscher Autrichien,Groupe 2,https://i.imgur.com/w2QqJFG.jpg
+chien,185,Pinscher Nain,Groupe 2,https://i.imgur.com/NCsegdJ.jpg
+chien,329,Podenco Canario,Groupe 5,https://i.imgur.com/ToidUDA.jpg
+chien,89,Podenco d'Ibiza,Groupe 5,https://i.imgur.com/g1G7qgv.jpg
+chien,30,Porcelaine,Groupe 6,https://i.imgur.com/BMIRnHS.jpg
+chien,216,Pudelpointer,Groupe 7,https://i.imgur.com/L2CqcRr.jpg
+chien,55,Puli,Groupe 1,https://i.imgur.com/6f70VH9.jpg
+chien,56,Pumi,Groupe 1,https://i.imgur.com/99rYdDJ.jpg
+chien,363,Ratier de Prague,Groupe 9,https://i.imgur.com/tIrVtWn.jpg
+chien,263,Chesapeake Bay Retriever,Groupe 8,https://i.imgur.com/bQil9lm.jpg
+chien,312,Retriever de la Nouvelle-Écosse,Groupe 8,https://i.imgur.com/JaSY95p.jpg
+chien,146,Rhodesian Ridgeback,Groupe 6,https://i.imgur.com/1jryjIc.jpg
+chien,147,Rottweiler,Groupe 2,https://i.imgur.com/eRNrajS.jpg
+chien,352,Russkiy Toy,Groupe 9,https://i.imgur.com/zifbrrB.jpg
+chien,311,Chien Loup de Saarloos,Groupe 1,https://i.imgur.com/pBDrexu.jpg
+chien,61,Saint-Bernard,Groupe 2,https://i.imgur.com/cN3b6Lz.jpg
+chien,84,Saint-Hubert,Groupe 6,https://i.imgur.com/AKXuSdN.jpg
+chien,269,Saluki,Groupe 10,https://i.imgur.com/rEYYPq1.jpg
+chien,212,Samoyède,Groupe 5,https://i.imgur.com/01cENMs.jpg
+chien,41,Berger Yougoslave,Groupe 2,https://i.imgur.com/fW9mINF.jpg
+chien,313,Schapendoes Néerlandais,Groupe 1,https://i.imgur.com/Yt6bm8I.jpg
+chien,131,Chien Courant de Schiller,Groupe 6,https://i.imgur.com/yJvbdp1.jpg
+chien,83,Schipperke,Groupe 1,https://i.imgur.com/blhlpkC.jpg
+chien,181,Schnauzer Géant,Groupe 2,https://i.imgur.com/rK7OAKa.jpg
+chien,183,Schnauzer Nain,Groupe 2,https://i.imgur.com/hfcdpp9.jpg
+chien,73,Scottish Terrier,Groupe 3,https://i.imgur.com/DLakMyi.jpg
+chien,361,Segugio Maremmano,Groupe 6,https://i.imgur.com/1qGMlbB.jpg
+chien,6,Setter Gordon,Groupe 7,https://i.imgur.com/B7JNBTe.jpg
+chien,330,Setter Irlandais Rouge et Blanc,Groupe 7,https://i.imgur.com/xclHr3o.jpg
+chien,309,Shar-Peï,Groupe 2,https://i.imgur.com/q89ZjMw.jpg
+chien,257,Shiba Inu,Groupe 5,https://i.imgur.com/EYDPNiy.jpg
+chien,208,Shih Tzu,Groupe 9,https://i.imgur.com/nPy7fYb.jpg
+chien,319,Shikoku Ken,Groupe 5,https://i.imgur.com/1xDWU0T.jpg
+chien,270,Husky Sibérien,Groupe 5,https://i.imgur.com/cFvsS2U.jpg
+chien,75,Skye Terrier,Groupe 3,https://i.imgur.com/YyWOK0H.jpg
+chien,188,Sloughi,Groupe 10,https://i.imgur.com/CaBpuaO.jpg
+chien,97,Spitz Allemand,Groupe 5,https://i.imgur.com/iBmy7l6.jpg
+chien,276,Spitz de Norrbotten,Groupe 5,https://i.imgur.com/Ku2Kcym.jpg
+chien,49,Spitz Finlandais,Groupe 5,https://i.imgur.com/zZ2M1W0.jpg
+chien,262,Spitz Japonais,Groupe 5,https://i.imgur.com/IusPnvj.jpg
+chien,76,Staffordshire Bull Terrier,Groupe 3,https://i.imgur.com/UQ4DcFk.jpg
+chien,127,Sussex Spaniel,Groupe 8,https://i.imgur.com/a69jWfg.jpg
+chien,148,Teckel,Groupe 4,https://i.imgur.com/Ul6hpA6.jpg
+chien,50,Terre Neuve,Groupe 2,https://i.imgur.com/c3k3eiD.jpg
+chien,341,Terrier Brésilien,Groupe 3,https://i.imgur.com/PqeloOa.jpg
+chien,140,Boston Terrier,Groupe 9,https://i.imgur.com/lisxB4s.jpg
+chien,103,Deutscher Jagdterrier,Groupe 3,https://i.imgur.com/1Leihtj.jpg
+chien,71,Manchester Terrier,Groupe 3,https://i.imgur.com/sgCYtEc.jpg
+chien,72,Norwich Terrier,Groupe 3,https://i.imgur.com/0zrutpJ.jpg
+chien,74,Sealyham Terrier,Groupe 3,https://i.imgur.com/M5WosLW.jpg
+chien,272,Norfolk Terrier,Groupe 3,https://i.imgur.com/csDx9vb.jpg
+chien,139,Irish Terrier,Groupe 3,https://i.imgur.com/D1NxpBh.jpg
+chien,40,Terrier Irlandais à Poil Doux,Groupe 3,https://i.imgur.com/52oxITG.jpg
+chien,302,Terrier Irlandais Glen of Imaal,Groupe 3,https://i.imgur.com/KajgluS.jpg
+chien,259,Terrier Japonais,Groupe 3,https://i.imgur.com/rwEpXrq.jpg
+chien,327,Terrier Noir Russe,Groupe 2,https://i.imgur.com/oA3ummy.jpg
+chien,338,Thaï Ridgeback,Groupe 5,https://i.imgur.com/ZiUCdmB.jpg
+chien,231,Épagneul Tibétain,Groupe 9,https://i.imgur.com/AXO0Xzs.jpg
+chien,209,Terrier du Tibet,Groupe 9,https://i.imgur.com/dqxdVHd.jpg
+chien,260,Tosa Inu,Groupe 2,https://i.imgur.com/0Brgy8X.jpg
+chien,13,Terrier d'Agrément anglais Noir et Feu,Groupe 3,https://i.imgur.com/9bLkgbQ.jpg
+chien,14,Vallhund Suédois,Groupe 5,https://i.imgur.com/KGsFeiK.jpg
+chien,195,Volpino,Groupe 5,https://i.imgur.com/N2TBVfP.jpg
+chien,99,Braque de Weimar,Groupe 7,https://i.imgur.com/vAkPhrn.jpg
+chien,38,Welsh Corgi Cardigan,Groupe 1,https://i.imgur.com/nACkgEU.jpg
+chien,39,Welsh Corgi Pembroke,Groupe 1,https://i.imgur.com/1szAYQL.jpg
+chien,126,Springer Gallois,Groupe 8,https://i.imgur.com/AOdegwr.jpg
+chien,78,Welsh Terrier,Groupe 3,https://i.imgur.com/135BKZg.jpg
+chien,85,West Highland White Terrier,Groupe 3,https://i.imgur.com/y5D8OlE.jpg
+chien,221,Wetterhoun,Groupe 8,https://i.imgur.com/SIKW5Y0.jpg
+chien,234,Xoloitzcuintle,Groupe 5,https://i.imgur.com/MEXV28c.jpg
+chien,86,Yorkshire Terrier,Groupe 3,https://i.imgur.com/1izbl7l.jpg
+cheval,,Cotentin,Ane,https://i.imgur.com/JvOUgpj.jpg
+cheval,,Grand Noir du Berry,Ane,https://cdn.discordapp.com/attachments/818580909460029484/830246779885977600/Ane_grand_noir_du_Berry_La_Celle-Conde.jpg
+cheval,,Normand,Ane,https://i.imgur.com/fuD4CKw.jpg
+cheval,,Provence,Ane,https://i.imgur.com/F3fCy41.jpg
+cheval,,Pyrénées,Ane,https://i.imgur.com/xOJnDlK.jpg
+cheval,,Baudet du Poitou,Ane,https://i.imgur.com/kYui0aS.jpg
+cheval,,Bourbonnais,Ane,https://i.imgur.com/LDRdQdi.jpg
+cheval,,Ardennais,Cheval de trait,https://i.imgur.com/PcxA9CT.jpg
+cheval,,Auxois,Cheval de trait,https://i.imgur.com/COjzema.jpg
+cheval,,Boulonnais,Cheval de trait,https://i.imgur.com/1cVkHmD.jpg
+cheval,,Breton,Cheval de trait,https://i.imgur.com/7urf7CN.jpg
+cheval,,Cob Normand,Cheval de trait,https://cdn.discordapp.com/attachments/818580909460029484/830246395524153385/Cob_Normand.jpg
+cheval,,Comtois,Cheval de trait,https://i.imgur.com/cXzU11w.jpg
+cheval,,Cheval de pure race Franches-Montagnes,Cheval de trait,https://i.imgur.com/xvHT0Mx.jpg
+cheval,,Cheval mulassier du Poitou,Cheval de trait,https://i.imgur.com/TnFIgTJ.jpg
+cheval,,Percheron,Cheval de trait,https://i.imgur.com/zMmkTCX.jpg
+cheval,France,Arabe,chevaux de sang,https://i.imgur.com/JGaHP3b.jpg
+cheval,France,Anglo-Arabe,chevaux de sang,https://cdn.discordapp.com/attachments/818580909460029484/830246291417726976/anglo-arabe.webp
+cheval,France,Selle Français,chevaux de sang,https://i.imgur.com/nOZL5yN.jpg
+cheval,France,Camargue,chevaux de sang,https://i.imgur.com/sLoVj1L.jpg
+cheval,France,Ariégeois de Castillon,chevaux de sang,https://i.imgur.com/66J0IXq.jpg
+cheval,France,Mérens,chevaux de sang,https://i.imgur.com/nV5I4kC.jpg
+cheval,France,Henson,chevaux de sang,https://i.imgur.com/4JVJenX.jpg
+cheval,Etrangère,Akhal-Téké de Pur Sang,chevaux de sang,https://cdn.discordapp.com/attachments/818580909460029484/830246596146757692/akhal-teke-_de_Pur_Sang.jpg
+cheval,Etrangère,Appaloosa,chevaux de sang,https://i.imgur.com/ppZfnBl.jpg
+cheval,Etrangère,Barbe,chevaux de sang,https://i.imgur.com/d9ZWq0X.jpg
+cheval,Etrangère,Crème,chevaux de sang,https://i.imgur.com/6YJjKdy.jpg
+cheval,Etrangère,Frison,chevaux de sang,https://i.imgur.com/y8cvtgO.jpg
+cheval,Etrangère,Islandais,chevaux de sang,https://i.imgur.com/NYdKefX.jpg
+cheval,Etrangère,Lipizzan,chevaux de sang,https://i.imgur.com/r7Dsann.jpg
+cheval,Etrangère,Paint Horse,chevaux de sang,https://cdn.discordapp.com/attachments/818580909460029484/830245916673441792/paint_horse.jpg
+cheval,Etrangère,Lusitanienne,chevaux de sang,https://i.imgur.com/drn4Ksu.jpg
+cheval,Etrangère,Espagnole,chevaux de sang,https://i.imgur.com/wbpUtRy.jpg
+cheval,Etrangère,Quarter Horse,chevaux de sang,https://cdn.discordapp.com/attachments/818580909460029484/830247028277510154/quarter-horse.webp
+cheval,Etrangère,Shagya,chevaux de sang,https://i.imgur.com/BZ4Mhgl.jpg
+cheval,Etrangère,Trakehner,chevaux de sang,https://i.imgur.com/7WlMDMA.jpg
+cheval,,Pur-Sang,chevaux de sang,https://cdn.discordapp.com/attachments/818580909460029484/830246123628527626/Pur_Sang.jpg
+cheval,,Trotteur Français,chevaux de sang,https://cdn.discordapp.com/attachments/818580909460029484/830245662692081694/trotteur_francais.jpg
+cheval,,Connemara,poney,https://i.imgur.com/YjpSXWu.jpg
+cheval,,Dartmoor,poney,https://i.imgur.com/qbtyEmX.jpg
+cheval,,Fjord,poney,https://i.imgur.com/kN4YGiZ.jpg
+cheval,,Français de Selle,poney,https://i.imgur.com/IbBdqGZ.jpg
+cheval,,Haflinger,poney,https://i.imgur.com/CFHlPfx.jpg
+cheval,,Highland,poney,https://i.imgur.com/gSI0uX6.jpg
+cheval,,Landais,poney,https://cdn.discordapp.com/attachments/818580909460029484/830247335019151380/landais.jpg
+cheval,,New Forest,poney,https://i.imgur.com/aFgPvw9.jpg
+cheval,,Pottok,poney,https://i.imgur.com/cAxiKbg.jpg
+cheval,,Shetland,poney,https://cdn.discordapp.com/attachments/818580909460029484/830246894994587658/shetland.webp
+cheval,,Shetland,poney,https://cdn.discordapp.com/attachments/818580909460029484/830246894994587658/shetland.webp
+cheval,,Welsh,poney,https://cdn.discordapp.com/attachments/818580909460029484/830245181151248394/Welsh_Pony.jpg
