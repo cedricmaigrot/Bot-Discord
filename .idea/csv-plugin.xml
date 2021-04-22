@@ -45,6 +45,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\quiz.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\roles.csv">
           <value>
             <Attribute>

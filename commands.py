@@ -70,16 +70,30 @@ async def commands(message, client):
         await functions.order_not_available(message);
 
     if message.content.startswith('>classement'):
-        import quiz as q
-        #q.prepare_csv()
+        df_members = pd.read_csv("outputs/members.csv")
 
-        df = pd.read_csv("outputs/charts/classement.csv")
-        txt = ""
-        for key, row in df.iterrows():
-            txt += "{:6d}pts\t<@{}>\n".format(row['Points'], row['Id'])
+        def get_discriminator(author):
+            return author.split("#")[-1]
 
+        df_quizz = pd.read_csv("outputs/charts/classement.csv")
+        df_quizz['discriminator'] = df_quizz.apply(lambda x: get_discriminator(x['Username']), axis=1)
+        df_members['discriminator'] = df_members['discriminator'].astype(int)
+        df_quizz['discriminator'] = df_quizz['discriminator'].astype(int)
+        df = df_quizz.merge(df_members, how="left", suffixes=('_quizz', '_data'))
+        await message.channel.send(file = discord.File('outputs/podium .png'))
+        txt = "Classement du mois :\n"
+        for key, row in df.head(10).iterrows():
+            print(row['id'
+                      ''])
+            txt += "{}\t{}pts\t<@{}>\n".format(functions.rank_to_emote(key+1), functions.rank_to_emote(row['Points'], type="score"), row['id'])
+            if len(txt) > 1000:
+                am = discord.AllowedMentions(everyone=False, users=False, roles=False, replied_user=False)
+                await message.channel.send(txt, allowed_mentions=am)
+                txt = ""
         am = discord.AllowedMentions(everyone=False, users=False, roles=False, replied_user=False)
-        await message.channel.send(txt, allowed_mentions=am )
+        await message.channel.send(txt, allowed_mentions=am)
+
+
         #await functions.order_not_available(message);
 
     if message.content.startswith('>rappel'):
@@ -135,74 +149,67 @@ async def commands(message, client):
         await message.channel.send('Je reviens dans quelques secondes ...')
         for guild in client.guilds:
             if guild.name in "Clubs Jeunes SPA":
-                lst = list()
-                for channel in guild.channels:
-                    print("Channel : " + channel.name)
-                    try:
-                        hist = await channel.history(limit=20000).flatten()
-                        for h in hist:
-                            lst.append([h.activity, h.application, h.attachments, h.author, h.call, h.channel,
-                                        h.channel_mentions, h.clean_content, h.content, h.created_at, h.edited_at,
-                                        h.embeds, h.flags, h.guild, h.id, h.jump_url, h.mention_everyone, h.mentions,
-                                        h.nonce, h.pinned, h.raw_channel_mentions, h.raw_mentions, h.raw_role_mentions,
-                                        h.reactions, h.reference, h.role_mentions, h.stickers, h.system_content, h.tts,
-                                        h.type, h.webhook_id])
-                    except:
-                        pass
-                df_messages = pd.DataFrame(lst, columns=["activity", "application", "attachments", "author", "call",
-                                                         "channel", "channel_mentions", "clean_content", "content",
-                                                         "created_at", "edited_at", "embeds", "flags", "guild", "id",
-                                                         "jump_url", "mention_everyone", "mentions", "nonce", "pinned",
-                                                         "raw_channel_mentions", "raw_mentions", "raw_role_mentions",
-                                                         "reactions", "reference", "role_mentions", "stickers",
-                                                         "system_content", "tts", "type", "webhook_id"])
-                df_messages.to_csv("outputs/csv/messages.csv")
-                df_messages.to_excel("outputs/xlsx/messages.xlsx")
+                # lst = list()
+                # for channel in guild.channels:
+                #     print("Channel : " + channel.name)
+                #     try:
+                #         hist = await channel.history(limit=20000).flatten()
+                #         for h in hist:
+                #             lst.append([h.activity, h.application, h.attachments, h.author, h.call, h.channel,
+                #                         h.channel_mentions, h.clean_content, h.content, h.created_at, h.edited_at,
+                #                         h.embeds, h.flags, h.guild, h.id, h.jump_url, h.mention_everyone, h.mentions,
+                #                         h.nonce, h.pinned, h.raw_channel_mentions, h.raw_mentions, h.raw_role_mentions,
+                #                         h.reactions, h.reference, h.role_mentions, h.stickers, h.system_content, h.tts,
+                #                         h.type, h.webhook_id])
+                #     except:
+                #         pass
+                # df_messages = pd.DataFrame(lst, columns=["activity", "application", "attachments", "author", "call",
+                #                                          "channel", "channel_mentions", "clean_content", "content",
+                #                                          "created_at", "edited_at", "embeds", "flags", "guild", "id",
+                #                                          "jump_url", "mention_everyone", "mentions", "nonce", "pinned",
+                #                                          "raw_channel_mentions", "raw_mentions", "raw_role_mentions",
+                #                                          "reactions", "reference", "role_mentions", "stickers",
+                #                                          "system_content", "tts", "type", "webhook_id"])
+                # df_messages.to_csv("outputs/messages.csv")
+                # df_messages.to_excel("outputs/messages.xlsx")
+                # df_messages.to_html("outputs/messages.html")
+
+                df_messages = pd.read_excel("outputs/messages.xlsx")
 
                 lst = list()
-                list_roles = list()
                 for member in guild.members:
                     print("Member : " + member.name)
-                    try:
-                        lst.append([member.activities,
-                                    member.activity,
-                                    member.avatar,
-                                    member.avatar_url,
-                                    member.bot,
-                                    member.color,
-                                    member.colour,
-                                    member.created_at,
-                                    member.default_avatar,
-                                    member.default_avatar_url,
-                                    member.desktop_status,
-                                    member.discriminator,
-                                    member.display_name,
-                                    member.dm_channel,
-                                    member.guild,
-                                    member.guild_permissions,
-                                    member.id,
-                                    member.joined_at,
-                                    member.mention,
-                                    member.mobile_status,
-                                    member.mutual_guilds,
-                                    member.name,
-                                    member.nick,
-                                    member.pending,
-                                    member.premium_since,
-                                    member.public_flags,
-                                    member.raw_status,
-                                    member.relationship,
-                                    member.roles,
-                                    member.status,
-                                    member.system,
-                                    member.top_role,
-                                    member.voice,
-                                    member.web_status])
-                        for role in member.roles:
-                            print(role)
-                        list_roles.append()
-                    except:
-                        pass
+                    lst.append([member.activities,
+                                member.activity,
+                                member.avatar,
+                                member.avatar_url,
+                                member.bot,
+                                member.color,
+                                member.colour,
+                                member.created_at,
+                                member.default_avatar,
+                                member.default_avatar_url,
+                                member.desktop_status,
+                                member.discriminator,
+                                member.display_name,
+                                member.guild,
+                                member.guild_permissions,
+                                member.id,
+                                member.joined_at,
+                                member.mention,
+                                member.mobile_status,
+                                member.name,
+                                member.nick,
+                                member.pending,
+                                member.premium_since,
+                                member.public_flags,
+                                member.raw_status,
+                                member.roles,
+                                member.status,
+                                member.system,
+                                member.top_role,
+                                member.voice,
+                                member.web_status])
                 df_members = pd.DataFrame(lst, columns=["activities",
                                                         "activity",
                                                         "avatar",
@@ -216,29 +223,27 @@ async def commands(message, client):
                                                         "desktop_status",
                                                         "discriminator",
                                                         "display_name",
-                                                        "dm_channel",
                                                         "guild",
                                                         "guild_permissions",
                                                         "id",
                                                         "joined_at",
                                                         "mention",
                                                         "mobile_status",
-                                                        "mutual_guilds",
                                                         "name",
                                                         "nick",
                                                         "pending",
                                                         "premium_since",
                                                         "public_flags",
                                                         "raw_status",
-                                                        "relationship",
                                                         "roles",
                                                         "status",
                                                         "system",
                                                         "top_role",
                                                         "voice",
                                                         "web_status"])
-                df_members.to_csv("outputs/csv/members.csv")
-                df_members.to_excel("outputs/xlsx/members.xlsx")
+                df_members.to_csv("outputs/members.csv")
+                df_members.to_excel("outputs/members.xlsx")
+                df_members.to_html("outputs/members.html")
 
                 lst = list()
                 for role in guild.roles:
@@ -261,16 +266,31 @@ async def commands(message, client):
                                         columns=["color", "colour", "created_at", "guild", "hoist", "id", "managed",
                                                  "members", "mention", "mentionable", "name", "permissions", "position",
                                                  "tags"])
-                df_roles.to_csv("outputs/csv/roles.csv")
-                df_roles.to_excel("outputs/xlsx/roles.xlsx")
-                df_merge = df_messages.merge(df_members, left_on='author', right_on='name',
-                                             suffixes=('_messages', '_members'))
+                df_roles.to_csv("outputs/roles.csv")
+                df_roles.to_excel("outputs/roles.xlsx")
+                df_roles.to_html("outputs/roles.html")
 
+                df_members['discriminator'] = df_members['discriminator'].astype(str)
+
+                def get_discriminator(author):
+                    name = "{}".format(author)
+                    return name.split("#")[-1]
+
+                df_messages['author_discriminator'] = df_messages.apply(lambda x: get_discriminator(x['author']), axis=1)
+                df_messages['author_discriminator'] = df_messages['author_discriminator'].astype(str)
+
+                df_merge = df_messages.merge(df_members,
+                                             left_on='author_discriminator',
+                                             right_on='discriminator',
+                                             suffixes=('_messages', '_members'))
                 df_merge = df_merge.merge(df_roles, left_on='top_role', right_on='name',
-                                          suffixes=('', '_roles'))
-                df_merge.to_csv("outputs/csv/merge.csv")
-                df_merge.to_excel("outputs/xlsx/merge.xlsx")
+                                          suffixes=('', '_role'))
+
+                # df_messages[(~df_messages['id'].isin(df_merge['id_messages']))]['author']
                 df_merge.to_html("outputs/merge.html")
+                df_merge.to_csv("outputs/merge.csv")
+                df_merge.to_excel("outputs/merge.xlsx")
+
         await message.channel.send('C\'est fait !')
         await message.channel.send("J'ai fait cela en %d secondes." % int(time.time() - start_time))
         return

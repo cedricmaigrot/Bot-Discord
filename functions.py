@@ -7,6 +7,44 @@ async def order_not_available(message):
 	await message.channel.send(file=discord.File('inputs/images/work.gif'))
 	return
 
+def rank_to_emote(r, type="rank") :
+    str = "";
+    if type in "rank" :
+        number = "{:02}".format(r)
+        if r == 1:
+            str += ":crown:"
+        else:
+            str += ":blue_square:"
+    else :
+        number = "{:05}".format(r)
+    for i in number:
+        if i in "0":
+            str += ":zero:"
+        if i in "1":
+            str += ":one:"
+        if i in "2":
+            str += ":two:"
+        if i in "3":
+            str += ":three:"
+        if i in "4":
+            str += ":four:"
+        if i in "5":
+            str += ":five:"
+        if i in "6":
+            str += ":six:"
+        if i in "7":
+            str += ":seven:"
+        if i in "8":
+            str += ":eight:"
+        if i in "9":
+            str += ":nine:"
+    if type in "rank" :
+        if r == 1:
+            str += ":crown:"
+        else:
+            str += ":blue_square:"
+    return str
+
 def is_an_order(message):
     if 'belle' in message.content.lower():
         return True
