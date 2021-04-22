@@ -137,5 +137,3 @@ def prepare_csv():
 		#chart_nombre_bonnes_reponses(df, path="outputs/charts/nombre_bonnes_reponses_{}.csv".format(id))
 		chart_classement(df_month, path="outputs/charts/classement_{}.csv".format(id))
 		#chart_classement_par_refuge(df_month, path="outputs/charts/classement_par_refuge_{}.csv".format(id))
-
-prepare_csv()
