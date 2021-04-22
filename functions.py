@@ -59,38 +59,46 @@ def is_an_order(message):
     return False
 
 async def apply_order(message):
+    order_executed = False
     if random.randrange(100) < 10:
+        order_executed = True
         if random.randrange(100) < 50:
             await message.channel.send('*Ohana t\'ignore*', file=discord.File('inputs/images/osef_2.jpg'))
         else:
             await message.channel.send('*Ohana préfère jouer que t\'écouter*', file=discord.File('inputs/images/osef.jpg'))
         return
     if 'belle' in message.content.lower():
+        order_executed = True
         await message.channel.send('*Ohana fait la belle*', file=discord.File('inputs/images/belle.png'))
         return
     if 'assis' in message.content.lower():
+        order_executed = True
         await message.channel.send('*Ohana s\'assoit*', file=discord.File('inputs/images/assis.jpg'))
         return
     if 'check' in message.content.lower() or 'high five' in message.content.lower():
+        order_executed = True
         await message.channel.send('*Ohana s\'assoit*', file=discord.File('inputs/images/check.jpg'))
         return
     if 'patte' in message.content.lower():
+        order_executed = True
         await message.channel.send('*Ohana donne la patte*', file=discord.File('inputs/images/patte.jpg'))
         return
     if 'couché' in message.content.lower():
+        order_executed = True
         await message.channel.send('*Ohana se couche*', file=discord.File('inputs/images/couche.jpg'))
         return
+    await message.channel.send('*Ohana te regarde et ne comprend pas*', file=discord.File('inputs/images/couche.jpg'))
 
 async def anecdote(message):
-    file = open('inputs/txt/anecdotes.txt', "r")
-    anecdotes = list()
-    for line in file.readlines():
-        if "#" not in line:
-            anecdotes.append(line.strip())
-    file.close()
-
-    await message.channel.send('**Saviez-vous que :**')
-    await message.channel.send(random.choice(anecdotes))
+    df = pd.read_excel('inputs/xlsx/anecdotes.xlsx')
+    s = df.sample()
+    categorie = list(s['Espèce'])[0]
+    titre = list(s['Titre'])[0]
+    texte = list(s['Texte'])[0]
+    await message.channel.send('**Catégorie : {}**'.format(categorie))
+    await message.channel.send("{}".format(titre))
+    if not pd.isna(texte) :
+        await message.channel.send("*{}*".format(texte))
 
 
 async def race(message):
