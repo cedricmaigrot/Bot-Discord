@@ -6,7 +6,6 @@ import quiz
 
 messages_global = list()
 
-
 intents = discord.Intents.all()
 client = discord.Client(intents=intents)
 
