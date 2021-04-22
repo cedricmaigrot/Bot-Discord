@@ -66,10 +66,10 @@ async def commands(message, client):
         await functions.race(message)
 
     # QUIZ COMMANDS
-    if message.content.startswith('>planning'):
+    if message.content.startswith('>quiz planning'):
         await functions.order_not_available(message);
 
-    if message.content.startswith('>classement'):
+    if message.content.startswith('>quiz classement'):
         df_members = pd.read_csv("outputs/members.csv")
 
         def get_discriminator(author):
@@ -80,7 +80,7 @@ async def commands(message, client):
         df_members['discriminator'] = df_members['discriminator'].astype(int)
         df_quizz['discriminator'] = df_quizz['discriminator'].astype(int)
         df = df_quizz.merge(df_members, how="left", suffixes=('_quizz', '_data'))
-        await message.channel.send(file = discord.File('outputs/podium .png'))
+        await message.channel.send(file = discord.File('outputs/podium.png'))
         txt = "Classement du mois :\n"
         for key, row in df.head(10).iterrows():
             print(row['id'
@@ -96,7 +96,7 @@ async def commands(message, client):
 
         #await functions.order_not_available(message);
 
-    if message.content.startswith('>rappel'):
+    if message.content.startswith('>quiz rappel'):
         await functions.order_not_available(message);
 
     # ADMIN COMMANDS
