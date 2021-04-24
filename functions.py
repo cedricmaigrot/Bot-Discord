@@ -8,15 +8,14 @@ async def order_not_available(message):
 	return
 
 def rank_to_emote(r, type="rank") :
+    print("r= {}".format(r))
     str = "";
+    number = "{:02}".format((int)(r))
     if type in "rank" :
-        number = "{:02}".format(r)
         if r == 1:
             str += ":crown:"
         else:
             str += ":blue_square:"
-    else :
-        number = "{:05}".format(r)
     for i in number:
         if i in "0":
             str += ":zero:"
