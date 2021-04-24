@@ -7,7 +7,7 @@ Start time: 2021-03-27 19:14:32.722376
 
 End time: 2021-03-27 19:17:51.100325
 
-Quiz: Races prÈfÈrÈes des franÁais (2020) (ID 6449233)
+Quiz: Races pr√àf√àr√àes des fran√Åais (2020) (ID 6449233)
 
 Session: 52818837
 
@@ -17,7 +17,7 @@ Session: 52818837
 
 ### Question 1/8
 
-`Quelle est la race prÈfÈrÈe des FranÁais ?`
+`Quelle est la race pr√àf√àr√àe des Fran√Åais ?`
 
 Correct answer: `Berger australien`
 
@@ -28,18 +28,18 @@ Correct answer: `Berger australien`
 | KimieCJduGarric#7403                   | Retriever golden            | 0:00:07.094049  | 0               | 
 | Ewen du CJ de Chateaubourg#7758        | Retriever golden            | 0:00:08.416629  | 0               | 
 | Charlotte du CJ de le Garric#9861      | Retriever du labrador       | 0:00:09.170852  | 0               | 
-| HÈlÈna CJ de Laon#0749                 | Staffordshire bull terrier  | 0:00:10.309496  | 0               | 
-| ClÈmentine CJ SaintPierreDuMont#3516   | Bouledogue FranÁais         | 0:00:10.432152  | 0               | 
+| H√àl√àna CJ de Laon#0749                 | Staffordshire bull terrier  | 0:00:10.309496  | 0               | 
+| Cl√àmentine CJ SaintPierreDuMont#3516   | Bouledogue Fran√Åais         | 0:00:10.432152  | 0               | 
 | Noelly CJ de Chameyrat#1221            | Berger allemand             | 0:00:11.084714  | 0               | 
-| lily_blk CJ de yvrÈ l'ÈvÍque#7445      | Retriever golden            | 0:00:12.582383  | 0               | 
-| AnaÎl CJ de Cluses#7963                | Retriever golden            | 0:00:14.555345  | 0               | 
+| lily_blk CJ de yvr√à l'√àv√çque#7445      | Retriever golden            | 0:00:12.582383  | 0               | 
+| Ana√él CJ de Cluses#7963                | Retriever golden            | 0:00:14.555345  | 0               | 
 | Alma CJ de Bordeaux#1871               | Retriever golden            | 0:00:15.968273  | 0               | 
-| CÈcile Encadrante CJ Luynes (37)#4741  | Retriever golden            | 0:00:29.507024  | 0               | 
-| Margau CJ de Vaux-le-PÈnil#1974        | N/A                         | N/A             | N/A             | 
+| C√àcile Encadrante CJ Luynes (37)#4741  | Retriever golden            | 0:00:29.507024  | 0               | 
+| Margau CJ de Vaux-le-P√ànil#1974        | N/A                         | N/A             | N/A             | 
 
 ### Question 2/8
 
-`Quelle est la 2e race prÈfÈrÈe des FranÁais ?`
+`Quelle est la 2e race pr√àf√àr√àe des Fran√Åais ?`
 
 Correct answer: `Staffordshire bull terrier`
 
@@ -49,85 +49,85 @@ Correct answer: `Staffordshire bull terrier`
 | KimieCJduGarric#7403                   | Retriever golden       | 0:00:02.524133  | 0               | 
 | Ewen du CJ de Chateaubourg#7758        | Retriever golden       | 0:00:04.095493  | 0               | 
 | Charlotte du CJ de le Garric#9861      | Retriever du labrador  | 0:00:11.202401  | 0               | 
-| HÈlÈna CJ de Laon#0749                 | N/A                    | N/A             | N/A             | 
-| ClÈmentine CJ SaintPierreDuMont#3516   | Bouledogue FranÁais    | 0:00:07.411839  | 0               | 
+| H√àl√àna CJ de Laon#0749                 | N/A                    | N/A             | N/A             | 
+| Cl√àmentine CJ SaintPierreDuMont#3516   | Bouledogue Fran√Åais    | 0:00:07.411839  | 0               | 
 | Noelly CJ de Chameyrat#1221            | Berger allemand        | 0:00:04.602226  | 0               | 
 | marinette#4290                         | N/A                    | N/A             | N/A             | 
-| lily_blk CJ de yvrÈ l'ÈvÍque#7445      | Retriever du labrador  | 0:00:05.605077  | 0               | 
-| AnaÎl CJ de Cluses#7963                | Retriever du labrador  | 0:00:07.216421  | 0               | 
+| lily_blk CJ de yvr√à l'√àv√çque#7445      | Retriever du labrador  | 0:00:05.605077  | 0               | 
+| Ana√él CJ de Cluses#7963                | Retriever du labrador  | 0:00:07.216421  | 0               | 
 | Alma CJ de Bordeaux#1871               | Berger allemand        | 0:00:06.274802  | 0               | 
-| CÈcile Encadrante CJ Luynes (37)#4741  | Retriever golden       | 0:00:07.241830  | 0               | 
-| Margau CJ de Vaux-le-PÈnil#1974        | N/A                    | N/A             | N/A             | 
+| C√àcile Encadrante CJ Luynes (37)#4741  | Retriever golden       | 0:00:07.241830  | 0               | 
+| Margau CJ de Vaux-le-P√ànil#1974        | N/A                    | N/A             | N/A             | 
 
 ### Question 3/8
 
-`Quelle est la 3e race prÈfÈrÈe des FranÁais ?`
+`Quelle est la 3e race pr√àf√àr√àe des Fran√Åais ?`
 
 Correct answer: `Chien de berger belge`
 
 | Username                               | Answer                          | Time            | Points awarded  | 
 | -------------------------------------- | ------------------------------- | --------------- | --------------- | 
-| Erwan#0084                             | Bouledogue FranÁais             | 0:00:02.591358  | 0               | 
-| KimieCJduGarric#7403                   | Bouledogue FranÁais             | 0:00:00.761169  | 0               | 
+| Erwan#0084                             | Bouledogue Fran√Åais             | 0:00:02.591358  | 0               | 
+| KimieCJduGarric#7403                   | Bouledogue Fran√Åais             | 0:00:00.761169  | 0               | 
 | Ewen du CJ de Chateaubourg#7758        | Retriever golden                | 0:00:02.976498  | 0               | 
 | Charlotte du CJ de le Garric#9861      | Retriever du labrador           | 0:00:06.174033  | 0               | 
-| HÈlÈna CJ de Laon#0749                 | N/A                             | N/A             | N/A             | 
-| ClÈmentine CJ SaintPierreDuMont#3516   | Bouledogue FranÁais             | 0:00:06.132463  | 0               | 
+| H√àl√àna CJ de Laon#0749                 | N/A                             | N/A             | N/A             | 
+| Cl√àmentine CJ SaintPierreDuMont#3516   | Bouledogue Fran√Åais             | 0:00:06.132463  | 0               | 
 | Noelly CJ de Chameyrat#1221            | American staffordshire terrier  | 0:00:06.058857  | 0               | 
-| marinette#4290                         | Bouledogue FranÁais             | 0:00:09.165987  | 0               | 
-| lily_blk CJ de yvrÈ l'ÈvÍque#7445      | N/A                             | N/A             | N/A             | 
-| AnaÎl CJ de Cluses#7963                | Retriever golden                | 0:00:06.075910  | 0               | 
+| marinette#4290                         | Bouledogue Fran√Åais             | 0:00:09.165987  | 0               | 
+| lily_blk CJ de yvr√à l'√àv√çque#7445      | N/A                             | N/A             | N/A             | 
+| Ana√él CJ de Cluses#7963                | Retriever golden                | 0:00:06.075910  | 0               | 
 | Alma CJ de Bordeaux#1871               | Retriever golden                | 0:00:07.349156  | 0               | 
-| CÈcile Encadrante CJ Luynes (37)#4741  | Bouledogue FranÁais             | 0:00:13.068882  | 0               | 
-| Margau CJ de Vaux-le-PÈnil#1974        | Berger allemand                 | 0:00:02.783295  | 0               | 
+| C√àcile Encadrante CJ Luynes (37)#4741  | Bouledogue Fran√Åais             | 0:00:13.068882  | 0               | 
+| Margau CJ de Vaux-le-P√ànil#1974        | Berger allemand                 | 0:00:02.783295  | 0               | 
 
 ### Question 4/8
 
-`Quelle est la 4e race prÈfÈrÈe des FranÁais ?`
+`Quelle est la 4e race pr√àf√àr√àe des Fran√Åais ?`
 
 Correct answer: `Retriever golden`
 
 | Username                               | Answer                 | Time            | Points awarded  | 
 | -------------------------------------- | ---------------------- | --------------- | --------------- | 
 | Noelly CJ de Chameyrat#1221            | Retriever golden       | 0:00:02.850733  | 905             | 
-| AnaÎl CJ de Cluses#7963                | Retriever golden       | 0:00:05.260009  | 825             | 
+| Ana√él CJ de Cluses#7963                | Retriever golden       | 0:00:05.260009  | 825             | 
 | Alma CJ de Bordeaux#1871               | Retriever golden       | 0:00:05.510752  | 816             | 
 | Erwan#0084                             | Retriever golden       | 0:00:05.847734  | 805             | 
 | KimieCJduGarric#7403                   | Retriever golden       | 0:00:06.208109  | 793             | 
-| CÈcile Encadrante CJ Luynes (37)#4741  | Retriever golden       | 0:00:08.822528  | 706             | 
+| C√àcile Encadrante CJ Luynes (37)#4741  | Retriever golden       | 0:00:08.822528  | 706             | 
 | Ewen du CJ de Chateaubourg#7758        | Berger allemand        | 0:00:03.868461  | 0               | 
 | Charlotte du CJ de le Garric#9861      | Retriever du labrador  | 0:00:04.812863  | 0               | 
-| HÈlÈna CJ de Laon#0749                 | N/A                    | N/A             | N/A             | 
-| ClÈmentine CJ SaintPierreDuMont#3516   | Bouledogue FranÁais    | 0:00:03.547073  | 0               | 
+| H√àl√àna CJ de Laon#0749                 | N/A                    | N/A             | N/A             | 
+| Cl√àmentine CJ SaintPierreDuMont#3516   | Bouledogue Fran√Åais    | 0:00:03.547073  | 0               | 
 | marinette#4290                         | Berger allemand        | 0:00:08.106693  | 0               | 
-| lily_blk CJ de yvrÈ l'ÈvÍque#7445      | Retriever du labrador  | 0:00:01.201350  | 0               | 
-| Margau CJ de Vaux-le-PÈnil#1974        | Retriever du labrador  | 0:00:01.740367  | 0               | 
+| lily_blk CJ de yvr√à l'√àv√çque#7445      | Retriever du labrador  | 0:00:01.201350  | 0               | 
+| Margau CJ de Vaux-le-P√ànil#1974        | Retriever du labrador  | 0:00:01.740367  | 0               | 
 
 ### Question 5/8
 
-`Quelle est la 5e race prÈfÈrÈe des FranÁais ?`
+`Quelle est la 5e race pr√àf√àr√àe des Fran√Åais ?`
 
 Correct answer: `Berger allemand`
 
 | Username                               | Answer                         | Time            | Points awarded  | 
 | -------------------------------------- | ------------------------------ | --------------- | --------------- | 
 | KimieCJduGarric#7403                   | Berger allemand                | 0:00:03.199081  | 893             | 
-| CÈcile Encadrante CJ Luynes (37)#4741  | Berger allemand                | 0:00:04.446812  | 852             | 
+| C√àcile Encadrante CJ Luynes (37)#4741  | Berger allemand                | 0:00:04.446812  | 852             | 
 | Ewen du CJ de Chateaubourg#7758        | Berger allemand                | 0:00:06.129516  | 796             | 
 | Alma CJ de Bordeaux#1871               | Berger allemand                | 0:00:06.629739  | 779             | 
-| lily_blk CJ de yvrÈ l'ÈvÍque#7445      | Berger allemand                | 0:00:07.354123  | 755             | 
+| lily_blk CJ de yvr√à l'√àv√çque#7445      | Berger allemand                | 0:00:07.354123  | 755             | 
 | Erwan#0084                             | Retriever du labrador          | 0:00:06.153146  | 0               | 
 | Charlotte du CJ de le Garric#9861      | Retriever du labrador          | 0:00:03.001023  | 0               | 
-| HÈlÈna CJ de Laon#0749                 | N/A                            | N/A             | N/A             | 
-| ClÈmentine CJ SaintPierreDuMont#3516   | N/A                            | N/A             | N/A             | 
-| Noelly CJ de Chameyrat#1221            | Bouledogue FranÁais            | 0:00:02.865808  | 0               | 
+| H√àl√àna CJ de Laon#0749                 | N/A                            | N/A             | N/A             | 
+| Cl√àmentine CJ SaintPierreDuMont#3516   | N/A                            | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | Bouledogue Fran√Åais            | 0:00:02.865808  | 0               | 
 | marinette#4290                         | Retriever du labrador          | 0:00:06.008367  | 0               | 
-| AnaÎl CJ de Cluses#7963                | Cavalier king charles spaniel  | 0:00:12.172347  | 0               | 
-| Margau CJ de Vaux-le-PÈnil#1974        | Cavalier king charles spaniel  | 0:00:03.028562  | 0               | 
+| Ana√él CJ de Cluses#7963                | Cavalier king charles spaniel  | 0:00:12.172347  | 0               | 
+| Margau CJ de Vaux-le-P√ànil#1974        | Cavalier king charles spaniel  | 0:00:03.028562  | 0               | 
 
 ### Question 6/8
 
-`Quelle est la 6e race prÈfÈrÈe des FranÁais ?`
+`Quelle est la 6e race pr√àf√àr√àe des Fran√Åais ?`
 
 Correct answer: `American staffordshire terrier`
 
@@ -136,20 +136,20 @@ Correct answer: `American staffordshire terrier`
 | KimieCJduGarric#7403                   | American staffordshire terrier  | 0:00:02.164333  | 928             | 
 | Noelly CJ de Chameyrat#1221            | American staffordshire terrier  | 0:00:03.858785  | 871             | 
 | Erwan#0084                             | Cavalier king charles spaniel   | 0:00:09.408987  | 0               | 
-| Ewen du CJ de Chateaubourg#7758        | Bouledogue FranÁais             | 0:00:02.698927  | 0               | 
+| Ewen du CJ de Chateaubourg#7758        | Bouledogue Fran√Åais             | 0:00:02.698927  | 0               | 
 | Charlotte du CJ de le Garric#9861      | Retriever du labrador           | 0:00:03.833570  | 0               | 
-| HÈlÈna CJ de Laon#0749                 | N/A                             | N/A             | N/A             | 
-| ClÈmentine CJ SaintPierreDuMont#3516   | N/A                             | N/A             | N/A             | 
-| marinette#4290                         | Bouledogue FranÁais             | 0:00:04.434464  | 0               | 
-| lily_blk CJ de yvrÈ l'ÈvÍque#7445      | Bouledogue FranÁais             | 0:00:06.941137  | 0               | 
-| AnaÎl CJ de Cluses#7963                | Cavalier king charles spaniel   | 0:00:05.309231  | 0               | 
-| Alma CJ de Bordeaux#1871               | Bouledogue FranÁais             | 0:00:04.973647  | 0               | 
-| CÈcile Encadrante CJ Luynes (37)#4741  | Bouledogue FranÁais             | 0:00:13.630663  | 0               | 
-| Margau CJ de Vaux-le-PÈnil#1974        | Cavalier king charles spaniel   | 0:00:05.826128  | 0               | 
+| H√àl√àna CJ de Laon#0749                 | N/A                             | N/A             | N/A             | 
+| Cl√àmentine CJ SaintPierreDuMont#3516   | N/A                             | N/A             | N/A             | 
+| marinette#4290                         | Bouledogue Fran√Åais             | 0:00:04.434464  | 0               | 
+| lily_blk CJ de yvr√à l'√àv√çque#7445      | Bouledogue Fran√Åais             | 0:00:06.941137  | 0               | 
+| Ana√él CJ de Cluses#7963                | Cavalier king charles spaniel   | 0:00:05.309231  | 0               | 
+| Alma CJ de Bordeaux#1871               | Bouledogue Fran√Åais             | 0:00:04.973647  | 0               | 
+| C√àcile Encadrante CJ Luynes (37)#4741  | Bouledogue Fran√Åais             | 0:00:13.630663  | 0               | 
+| Margau CJ de Vaux-le-P√ànil#1974        | Cavalier king charles spaniel   | 0:00:05.826128  | 0               | 
 
 ### Question 7/8
 
-`Quelle est la 7e race prÈfÈrÈe des FranÁais ?`
+`Quelle est la 7e race pr√àf√àr√àe des Fran√Åais ?`
 
 Correct answer: `Retriever du labrador`
 
@@ -160,36 +160,36 @@ Correct answer: `Retriever du labrador`
 | Erwan#0084                             | Retriever du labrador          | 0:00:06.259368  | 791             | 
 | KimieCJduGarric#7403                   | Retriever du labrador          | 0:00:06.531170  | 782             | 
 | Noelly CJ de Chameyrat#1221            | Retriever du labrador          | 0:00:08.551438  | 715             | 
-| Ewen du CJ de Chateaubourg#7758        | Bouledogue FranÁais            | 0:00:02.588346  | 0               | 
-| HÈlÈna CJ de Laon#0749                 | N/A                            | N/A             | N/A             | 
-| ClÈmentine CJ SaintPierreDuMont#3516   | N/A                            | N/A             | N/A             | 
-| lily_blk CJ de yvrÈ l'ÈvÍque#7445      | N/A                            | N/A             | N/A             | 
-| AnaÎl CJ de Cluses#7963                | Bouledogue FranÁais            | 0:00:04.756034  | 0               | 
-| Alma CJ de Bordeaux#1871               | Bouledogue FranÁais            | 0:00:04.859563  | 0               | 
-| CÈcile Encadrante CJ Luynes (37)#4741  | Bouledogue FranÁais            | 0:00:02.646141  | 0               | 
-| Margau CJ de Vaux-le-PÈnil#1974        | Cavalier king charles spaniel  | 0:00:03.477841  | 0               | 
+| Ewen du CJ de Chateaubourg#7758        | Bouledogue Fran√Åais            | 0:00:02.588346  | 0               | 
+| H√àl√àna CJ de Laon#0749                 | N/A                            | N/A             | N/A             | 
+| Cl√àmentine CJ SaintPierreDuMont#3516   | N/A                            | N/A             | N/A             | 
+| lily_blk CJ de yvr√à l'√àv√çque#7445      | N/A                            | N/A             | N/A             | 
+| Ana√él CJ de Cluses#7963                | Bouledogue Fran√Åais            | 0:00:04.756034  | 0               | 
+| Alma CJ de Bordeaux#1871               | Bouledogue Fran√Åais            | 0:00:04.859563  | 0               | 
+| C√àcile Encadrante CJ Luynes (37)#4741  | Bouledogue Fran√Åais            | 0:00:02.646141  | 0               | 
+| Margau CJ de Vaux-le-P√ànil#1974        | Cavalier king charles spaniel  | 0:00:03.477841  | 0               | 
 
 ### Question 8/8
 
-`Quelle est la 8e race prÈfÈrÈe des FranÁais ?`
+`Quelle est la 8e race pr√àf√àr√àe des Fran√Åais ?`
 
 Correct answer: `Cavalier king charles spaniel`
 
 | Username                               | Answer                         | Time            | Points awarded  | 
 | -------------------------------------- | ------------------------------ | --------------- | --------------- | 
 | KimieCJduGarric#7403                   | Cavalier king charles spaniel  | 0:00:01.476474  | 951             | 
-| Margau CJ de Vaux-le-PÈnil#1974        | Cavalier king charles spaniel  | 0:00:01.988673  | 934             | 
+| Margau CJ de Vaux-le-P√ànil#1974        | Cavalier king charles spaniel  | 0:00:01.988673  | 934             | 
 | Erwan#0084                             | Cavalier king charles spaniel  | 0:00:02.095389  | 930             | 
 | Charlotte du CJ de le Garric#9861      | Cavalier king charles spaniel  | 0:00:04.577856  | 847             | 
-| AnaÎl CJ de Cluses#7963                | Cavalier king charles spaniel  | 0:00:05.064127  | 831             | 
-| lily_blk CJ de yvrÈ l'ÈvÍque#7445      | Cavalier king charles spaniel  | 0:00:06.068686  | 798             | 
-| CÈcile Encadrante CJ Luynes (37)#4741  | Cavalier king charles spaniel  | 0:00:09.007984  | 700             | 
-| Ewen du CJ de Chateaubourg#7758        | Bouledogue FranÁais            | 0:00:03.507366  | 0               | 
-| HÈlÈna CJ de Laon#0749                 | N/A                            | N/A             | N/A             | 
-| ClÈmentine CJ SaintPierreDuMont#3516   | N/A                            | N/A             | N/A             | 
-| Noelly CJ de Chameyrat#1221            | Bouledogue FranÁais            | 0:00:02.185362  | 0               | 
-| marinette#4290                         | Bouledogue FranÁais            | 0:00:06.777665  | 0               | 
-| Alma CJ de Bordeaux#1871               | Bouledogue FranÁais            | 0:00:05.484932  | 0               | 
+| Ana√él CJ de Cluses#7963                | Cavalier king charles spaniel  | 0:00:05.064127  | 831             | 
+| lily_blk CJ de yvr√à l'√àv√çque#7445      | Cavalier king charles spaniel  | 0:00:06.068686  | 798             | 
+| C√àcile Encadrante CJ Luynes (37)#4741  | Cavalier king charles spaniel  | 0:00:09.007984  | 700             | 
+| Ewen du CJ de Chateaubourg#7758        | Bouledogue Fran√Åais            | 0:00:03.507366  | 0               | 
+| H√àl√àna CJ de Laon#0749                 | N/A                            | N/A             | N/A             | 
+| Cl√àmentine CJ SaintPierreDuMont#3516   | N/A                            | N/A             | N/A             | 
+| Noelly CJ de Chameyrat#1221            | Bouledogue Fran√Åais            | 0:00:02.185362  | 0               | 
+| marinette#4290                         | Bouledogue Fran√Åais            | 0:00:06.777665  | 0               | 
+| Alma CJ de Bordeaux#1871               | Bouledogue Fran√Åais            | 0:00:05.484932  | 0               | 
 
 ---------------------------------
 
@@ -202,18 +202,18 @@ There were a total of 8 questions in this quiz.
 | #   | Username                               | Nickname             | Points  | Correct  | Answered  | 
 | --- | -------------------------------------- | -------------------- | ------- | -------- | --------- | 
 | 1   | KimieCJduGarric#7403                   |                      | 4347    | 5        | 8         | 
-| 2   | Erwan#0084                             | Erwan Ch‚teaubourg   | 3487    | 4        | 8         | 
+| 2   | Erwan#0084                             | Erwan Ch‚Äöteaubourg   | 3487    | 4        | 8         | 
 | 3   | Noelly CJ de Chameyrat#1221            |                      | 2491    | 3        | 8         | 
-| 4   | CÈcile Encadrante CJ Luynes (37)#4741  |                      | 2258    | 3        | 8         | 
+| 4   | C√àcile Encadrante CJ Luynes (37)#4741  |                      | 2258    | 3        | 8         | 
 | 5   | Charlotte du CJ de le Garric#9861      |                      | 1768    | 2        | 8         | 
 | 6   | marinette#4290                         | Marinette Luynes     | 1660    | 2        | 7         | 
-| 7   | AnaÎl CJ de Cluses#7963                |                      | 1656    | 2        | 8         | 
+| 7   | Ana√él CJ de Cluses#7963                |                      | 1656    | 2        | 8         | 
 | 8   | Alma CJ de Bordeaux#1871               | Alma CJ de Bordeaux  | 1595    | 2        | 8         | 
-| 9   | lily_blk CJ de yvrÈ l'ÈvÍque#7445      |                      | 1553    | 2        | 6         | 
-| 10  | Margau CJ de Vaux-le-PÈnil#1974        |                      | 934     | 1        | 6         | 
+| 9   | lily_blk CJ de yvr√à l'√àv√çque#7445      |                      | 1553    | 2        | 6         | 
+| 10  | Margau CJ de Vaux-le-P√ànil#1974        |                      | 934     | 1        | 6         | 
 | 11  | Ewen du CJ de Chateaubourg#7758        |                      | 796     | 1        | 8         | 
-| 12  | HÈlÈna CJ de Laon#0749                 |                      | 0       | 0        | 1         | 
-| 13  | ClÈmentine CJ SaintPierreDuMont#3516   |                      | 0       | 0        | 4         | 
+| 12  | H√àl√àna CJ de Laon#0749                 |                      | 0       | 0        | 1         | 
+| 13  | Cl√àmentine CJ SaintPierreDuMont#3516   |                      | 0       | 0        | 4         | 
 
 ---------------------------------
 

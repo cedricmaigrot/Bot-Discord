@@ -1,0 +1,1107 @@
+
+# QuizBot Results
+
+---------------------------------
+
+Start time: 2021-04-23 19:00:56.966792
+
+End time: 2021-04-23 19:26:43.457377
+
+Quiz: 21 04 2021 BIG QUIZZ (ID 948281)
+
+Session: 43140069
+
+---------------------------------
+
+## Questions
+
+### Question 1/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Barbu Tchèque`
+
+| Username                               | Answer         | Time            | Points awarded  | 
+| -------------------------------------- | -------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Barbu Tchèque  | 0:00:04.780987  | 880             | 
+| Romane Chateaubourg#6316               | Barbu Tchèque  | 0:00:09.050622  | 774             | 
+| Ereann cj vaux le penil#2086           | Barbu Tchèque  | 0:00:12.622087  | 684             | 
+| Héloïse CJ de Pornic#6617              | Barbu Tchèque  | 0:00:12.718024  | 682             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Barbu Tchèque  | 0:00:17.555733  | 561             | 
+| Anaël CJ de Cluses#7963                | N/A            | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A            | N/A             | N/A             | 
+| eliinaa_mrz#0489                       | N/A            | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A            | N/A             | N/A             | 
+| Tiâa-Forbach (57)#2332                 | N/A            | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A            | N/A             | N/A             | 
+| Erwan#0084                             | N/A            | N/A             | N/A             | 
+
+### Question 2/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Airedale Terrier`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Airedale Terrier  | 0:00:06.059980  | 849             | 
+| Ewen du CJ de Chateaubourg#7758        | Boston Terrier    | 0:00:06.015621  | 0               | 
+| Ereann cj vaux le penil#2086           | Boston Terrier    | 0:00:04.197600  | 0               | 
+| Héloïse CJ de Pornic#6617              | Boston Terrier    | 0:00:06.551241  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Boston Terrier    | 0:00:06.579461  | 0               | 
+| Anaël CJ de Cluses#7963                | Boston Terrier    | 0:00:05.439326  | 0               | 
+| Marinette CJ de Luynes#4290            | Boston Terrier    | 0:00:12.447886  | 0               | 
+| eliinaa_mrz#0489                       | N/A               | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A               | N/A             | N/A             | 
+| Tiâa-Forbach (57)#2332                 | N/A               | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A               | N/A             | N/A             | 
+| Erwan#0084                             | N/A               | N/A             | N/A             | 
+
+### Question 3/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Field Spaniel`
+
+| Username                               | Answer         | Time            | Points awarded  | 
+| -------------------------------------- | -------------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Field Spaniel  | 0:00:04.771588  | 881             | 
+| Héloïse CJ de Pornic#6617              | Field Spaniel  | 0:00:05.968375  | 851             | 
+| Ereann cj vaux le penil#2086           | Field Spaniel  | 0:00:07.646052  | 809             | 
+| Ewen du CJ de Chateaubourg#7758        | Field Spaniel  | 0:00:07.676918  | 808             | 
+| Anaël CJ de Cluses#7963                | Field Spaniel  | 0:00:08.030441  | 799             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Field Spaniel  | 0:00:10.033036  | 749             | 
+| Marinette CJ de Luynes#4290            | Field Spaniel  | 0:00:12.311244  | 692             | 
+| eliinaa_mrz#0489                       | N/A            | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A            | N/A             | N/A             | 
+| Tiâa-Forbach (57)#2332                 | N/A            | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A            | N/A             | N/A             | 
+| Erwan#0084                             | N/A            | N/A             | N/A             | 
+
+### Question 4/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Petit Brabançon`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Petit Brabançon         | 0:00:04.058660  | 899             | 
+| Ewen du CJ de Chateaubourg#7758        | Petit Brabançon         | 0:00:05.552194  | 861             | 
+| Ereann cj vaux le penil#2086           | Petit Brabançon         | 0:00:05.781966  | 855             | 
+| Héloïse CJ de Pornic#6617              | Petit Brabançon         | 0:00:06.367457  | 841             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Petit Brabançon         | 0:00:07.272267  | 818             | 
+| Marinette CJ de Luynes#4290            | Petit Brabançon         | 0:00:17.580512  | 560             | 
+| Romane Chateaubourg#6316               | Dandie Dinmont Terrier  | 0:00:12.849250  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                     | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A                     | N/A             | N/A             | 
+| Tiâa-Forbach (57)#2332                 | N/A                     | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                     | N/A             | N/A             | 
+| Erwan#0084                             | N/A                     | N/A             | N/A             | 
+
+### Question 5/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Husky Sibérien`
+
+| Username                               | Answer          | Time            | Points awarded  | 
+| -------------------------------------- | --------------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Husky Sibérien  | 0:00:02.727467  | 932             | 
+| Ereann cj vaux le penil#2086           | Husky Sibérien  | 0:00:03.059204  | 924             | 
+| Héloïse CJ de Pornic#6617              | Husky Sibérien  | 0:00:03.214831  | 920             | 
+| eliinaa_mrz#0489                       | Husky Sibérien  | 0:00:04.725713  | 882             | 
+| Anaël CJ de Cluses#7963                | Husky Sibérien  | 0:00:04.875322  | 878             | 
+| Ewen du CJ de Chateaubourg#7758        | Husky Sibérien  | 0:00:05.235494  | 869             | 
+| Marinette CJ de Luynes#4290            | Husky Sibérien  | 0:00:06.991753  | 825             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Husky Sibérien  | 0:00:07.138992  | 822             | 
+| Alma CJ de Bordeaux#1871               | Husky Sibérien  | 0:00:10.982895  | 725             | 
+| Tiâa-Forbach (57)#2332                 | N/A             | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A             | N/A             | N/A             | 
+| Erwan#0084                             | N/A             | N/A             | N/A             | 
+
+### Question 6/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Spitz de Norrbotten`
+
+| Username                               | Answer               | Time            | Points awarded  | 
+| -------------------------------------- | -------------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Spitz de Norrbotten  | 0:00:03.604073  | 910             | 
+| eliinaa_mrz#0489                       | Spitz de Norrbotten  | 0:00:04.182359  | 895             | 
+| Romane Chateaubourg#6316               | Spitz de Norrbotten  | 0:00:04.363986  | 891             | 
+| Ereann cj vaux le penil#2086           | Spitz de Norrbotten  | 0:00:05.189883  | 870             | 
+| Héloïse CJ de Pornic#6617              | Spitz de Norrbotten  | 0:00:05.964893  | 851             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Spitz de Norrbotten  | 0:00:07.676896  | 808             | 
+| Anaël CJ de Cluses#7963                | Spitz de Norrbotten  | 0:00:11.366182  | 716             | 
+| Marinette CJ de Luynes#4290            | Spitz de Norrbotten  | 0:00:12.071009  | 698             | 
+| Alma CJ de Bordeaux#1871               | Braque de Weimar     | 0:00:11.092158  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                  | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                  | N/A             | N/A             | 
+| Erwan#0084                             | N/A                  | N/A             | N/A             | 
+
+### Question 7/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Berger de Brie`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Héloïse CJ de Pornic#6617              | Berger de Brie     | 0:00:03.862560  | 903             | 
+| Romane Chateaubourg#6316               | Berger de Brie     | 0:00:05.276764  | 868             | 
+| Ereann cj vaux le penil#2086           | Berger de Brie     | 0:00:06.726928  | 832             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Berger de Brie     | 0:00:06.824391  | 829             | 
+| eliinaa_mrz#0489                       | Berger de Brie     | 0:00:08.685047  | 783             | 
+| Ewen du CJ de Chateaubourg#7758        | Fjord              | 0:00:05.190193  | 0               | 
+| Anaël CJ de Cluses#7963                | Spitz Japonais     | 0:00:08.341663  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A                | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | Berger de Bergame  | 0:00:09.843408  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                | N/A             | N/A             | 
+| Erwan#0084                             | N/A                | N/A             | N/A             | 
+
+### Question 8/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Bourbonnais`
+
+| Username                               | Answer       | Time            | Points awarded  | 
+| -------------------------------------- | ------------ | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Bourbonnais  | 0:00:03.130888  | 922             | 
+| Ewen du CJ de Chateaubourg#7758        | Bourbonnais  | 0:00:03.269676  | 918             | 
+| Ereann cj vaux le penil#2086           | Bourbonnais  | 0:00:03.958532  | 901             | 
+| Héloïse CJ de Pornic#6617              | Bourbonnais  | 0:00:05.165592  | 871             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Bourbonnais  | 0:00:06.018834  | 850             | 
+| eliinaa_mrz#0489                       | Bourbonnais  | 0:00:05.993985  | 850             | 
+| Anaël CJ de Cluses#7963                | Bourbonnais  | 0:00:06.682924  | 833             | 
+| Alma CJ de Bordeaux#1871               | Bourbonnais  | 0:00:13.291963  | 668             | 
+| Marinette CJ de Luynes#4290            | Bourbonnais  | 0:00:16.568541  | 586             | 
+| Tiâa-Forbach (57)#2332                 | N/A          | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A          | N/A             | N/A             | 
+| Erwan#0084                             | N/A          | N/A             | N/A             | 
+
+### Question 9/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Terrier Irlandais à Poil Doux`
+
+| Username                               | Answer                         | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------------ | --------------- | --------------- | 
+| Ereann cj vaux le penil#2086           | Terrier Irlandais à Poil Doux  | 0:00:03.401659  | 915             | 
+| Héloïse CJ de Pornic#6617              | Terrier Irlandais à Poil Doux  | 0:00:04.578442  | 886             | 
+| Romane Chateaubourg#6316               | Terrier Irlandais à Poil Doux  | 0:00:04.613585  | 885             | 
+| Ewen du CJ de Chateaubourg#7758        | Terrier Irlandais à Poil Doux  | 0:00:05.590172  | 860             | 
+| eliinaa_mrz#0489                       | Terrier Irlandais à Poil Doux  | 0:00:06.642032  | 834             | 
+| Anaël CJ de Cluses#7963                | Terrier Irlandais à Poil Doux  | 0:00:08.078704  | 798             | 
+| Marinette CJ de Luynes#4290            | Terrier Irlandais à Poil Doux  | 0:00:15.331025  | 617             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Terrier Irlandais à Poil Doux  | 0:00:19.935872  | 502             | 
+| Alma CJ de Bordeaux#1871               | Chien Courant de Schiller      | 0:00:10.379036  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                            | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                            | N/A             | N/A             | 
+| Erwan#0084                             | N/A                            | N/A             | N/A             | 
+
+### Question 10/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Cob Normand`
+
+| Username                               | Answer       | Time            | Points awarded  | 
+| -------------------------------------- | ------------ | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Cob Normand  | 0:00:03.656980  | 909             | 
+| Ewen du CJ de Chateaubourg#7758        | Cob Normand  | 0:00:04.936915  | 877             | 
+| Héloïse CJ de Pornic#6617              | Cob Normand  | 0:00:05.136071  | 872             | 
+| Ereann cj vaux le penil#2086           | Cob Normand  | 0:00:05.198367  | 870             | 
+| eliinaa_mrz#0489                       | Cob Normand  | 0:00:05.468948  | 863             | 
+| Anaël CJ de Cluses#7963                | Cob Normand  | 0:00:07.327709  | 817             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Cob Normand  | 0:00:09.331722  | 767             | 
+| Marinette CJ de Luynes#4290            | Cob Normand  | 0:00:11.999882  | 700             | 
+| Alma CJ de Bordeaux#1871               | Cob Normand  | 0:00:12.342214  | 691             | 
+| Tiâa-Forbach (57)#2332                 | N/A          | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A          | N/A             | N/A             | 
+| Erwan#0084                             | N/A          | N/A             | N/A             | 
+
+### Question 11/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Dandie Dinmont Terrier`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Dandie Dinmont Terrier  | 0:00:05.007894  | 875             | 
+| Ewen du CJ de Chateaubourg#7758        | Dandie Dinmont Terrier  | 0:00:05.330738  | 867             | 
+| eliinaa_mrz#0489                       | Dandie Dinmont Terrier  | 0:00:06.287885  | 843             | 
+| Héloïse CJ de Pornic#6617              | Dandie Dinmont Terrier  | 0:00:06.913559  | 827             | 
+| Anaël CJ de Cluses#7963                | Dandie Dinmont Terrier  | 0:00:07.416940  | 815             | 
+| Alma CJ de Bordeaux#1871               | Dandie Dinmont Terrier  | 0:00:08.895662  | 778             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Dandie Dinmont Terrier  | 0:00:10.358577  | 741             | 
+| Marinette CJ de Luynes#4290            | Dandie Dinmont Terrier  | 0:00:15.925449  | 602             | 
+| Ereann cj vaux le penil#2086           | Tchouvatch Slovaque     | 0:00:06.237837  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                     | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                     | N/A             | N/A             | 
+| Erwan#0084                             | N/A                     | N/A             | N/A             | 
+
+### Question 12/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Kerry Blue Terrier`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Kerry Blue Terrier  | 0:00:03.838197  | 904             | 
+| Ereann cj vaux le penil#2086           | Kerry Blue Terrier  | 0:00:04.066436  | 898             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Kerry Blue Terrier  | 0:00:08.430403  | 789             | 
+| Alma CJ de Bordeaux#1871               | Kerry Blue Terrier  | 0:00:10.494293  | 738             | 
+| Marinette CJ de Luynes#4290            | Kerry Blue Terrier  | 0:00:15.468288  | 613             | 
+| Ewen du CJ de Chateaubourg#7758        | Schnauzer Nain      | 0:00:08.993756  | 0               | 
+| Romane Chateaubourg#6316               | Schnauzer Nain      | 0:00:02.892714  | 0               | 
+| Héloïse CJ de Pornic#6617              | Schnauzer Nain      | 0:00:03.872152  | 0               | 
+| Anaël CJ de Cluses#7963                | Schnauzer Nain      | 0:00:08.103743  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                 | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                 | N/A             | N/A             | 
+| Erwan#0084                             | N/A                 | N/A             | N/A             | 
+
+### Question 13/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Braque d'Auvergne`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Braque d'Auvergne  | 0:00:03.041138  | 924             | 
+| Romane Chateaubourg#6316               | Braque d'Auvergne  | 0:00:04.051802  | 899             | 
+| Ereann cj vaux le penil#2086           | Braque d'Auvergne  | 0:00:04.602970  | 885             | 
+| Anaël CJ de Cluses#7963                | Braque d'Auvergne  | 0:00:05.851976  | 854             | 
+| Héloïse CJ de Pornic#6617              | Braque d'Auvergne  | 0:00:05.974307  | 851             | 
+| Ewen du CJ de Chateaubourg#7758        | Braque d'Auvergne  | 0:00:06.029939  | 849             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Braque d'Auvergne  | 0:00:07.588362  | 810             | 
+| Marinette CJ de Luynes#4290            | Braque d'Auvergne  | 0:00:09.467990  | 763             | 
+| Alma CJ de Bordeaux#1871               | Braque d'Auvergne  | 0:00:10.347080  | 741             | 
+| Tiâa-Forbach (57)#2332                 | Braque d'Auvergne  | 0:00:15.789375  | 605             | 
+| Aiglor009#3918                         | N/A                | N/A             | N/A             | 
+| Erwan#0084                             | N/A                | N/A             | N/A             | 
+
+### Question 14/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Curly Coated Retriever`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Curly Coated Retriever  | 0:00:03.239410  | 919             | 
+| Anaël CJ de Cluses#7963                | Curly Coated Retriever  | 0:00:03.608516  | 910             | 
+| eliinaa_mrz#0489                       | Curly Coated Retriever  | 0:00:04.240336  | 894             | 
+| Ereann cj vaux le penil#2086           | Curly Coated Retriever  | 0:00:04.529933  | 887             | 
+| Héloïse CJ de Pornic#6617              | Curly Coated Retriever  | 0:00:05.142409  | 871             | 
+| Ewen du CJ de Chateaubourg#7758        | Curly Coated Retriever  | 0:00:05.213111  | 870             | 
+| Tiâa-Forbach (57)#2332                 | Curly Coated Retriever  | 0:00:05.534914  | 862             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Curly Coated Retriever  | 0:00:11.574761  | 711             | 
+| Alma CJ de Bordeaux#1871               | Curly Coated Retriever  | 0:00:11.545861  | 711             | 
+| Marinette CJ de Luynes#4290            | Curly Coated Retriever  | 0:00:13.257214  | 669             | 
+| Aiglor009#3918                         | N/A                     | N/A             | N/A             | 
+| Erwan#0084                             | N/A                     | N/A             | N/A             | 
+
+### Question 15/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Briquet Griffon Vendéen`
+
+| Username                               | Answer                   | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------ | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Briquet Griffon Vendéen  | 0:00:02.958248  | 926             | 
+| Ereann cj vaux le penil#2086           | Briquet Griffon Vendéen  | 0:00:03.838177  | 904             | 
+| Héloïse CJ de Pornic#6617              | Briquet Griffon Vendéen  | 0:00:04.085480  | 898             | 
+| Romane Chateaubourg#6316               | Briquet Griffon Vendéen  | 0:00:04.300846  | 892             | 
+| Ewen du CJ de Chateaubourg#7758        | Briquet Griffon Vendéen  | 0:00:05.050861  | 874             | 
+| Anaël CJ de Cluses#7963                | Briquet Griffon Vendéen  | 0:00:06.484395  | 838             | 
+| Marinette CJ de Luynes#4290            | Briquet Griffon Vendéen  | 0:00:07.934811  | 802             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Briquet Griffon Vendéen  | 0:00:08.430950  | 789             | 
+| Alma CJ de Bordeaux#1871               | Puli                     | 0:00:11.650213  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                      | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                      | N/A             | N/A             | 
+| Erwan#0084                             | N/A                      | N/A             | N/A             | 
+
+### Question 16/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Akita Inu`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Akita Inu  | 0:00:02.113540  | 947             | 
+| Héloïse CJ de Pornic#6617              | Akita Inu  | 0:00:02.422854  | 939             | 
+| Ewen du CJ de Chateaubourg#7758        | Akita Inu  | 0:00:03.894238  | 903             | 
+| Anaël CJ de Cluses#7963                | Akita Inu  | 0:00:04.365926  | 891             | 
+| Ereann cj vaux le penil#2086           | Akita Inu  | 0:00:04.779208  | 881             | 
+| Romane Chateaubourg#6316               | Akita Inu  | 0:00:04.994706  | 875             | 
+| Marinette CJ de Luynes#4290            | Akita Inu  | 0:00:05.469662  | 863             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Akita Inu  | 0:00:06.385069  | 840             | 
+| Alma CJ de Bordeaux#1871               | Akita Inu  | 0:00:10.635607  | 734             | 
+| Tiâa-Forbach (57)#2332                 | N/A        | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A        | N/A             | N/A             | 
+| Erwan#0084                             | N/A        | N/A             | N/A             | 
+
+### Question 17/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Épagneul Breton`
+
+| Username                               | Answer           | Time            | Points awarded  | 
+| -------------------------------------- | ---------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Épagneul Breton  | 0:00:02.566062  | 936             | 
+| Héloïse CJ de Pornic#6617              | Épagneul Breton  | 0:00:02.861449  | 928             | 
+| Romane Chateaubourg#6316               | Épagneul Breton  | 0:00:03.462509  | 913             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Épagneul Breton  | 0:00:04.029274  | 899             | 
+| Ewen du CJ de Chateaubourg#7758        | Épagneul Breton  | 0:00:04.192760  | 895             | 
+| Anaël CJ de Cluses#7963                | Épagneul Breton  | 0:00:04.243190  | 894             | 
+| Alma CJ de Bordeaux#1871               | Épagneul Breton  | 0:00:06.234345  | 844             | 
+| Marinette CJ de Luynes#4290            | Épagneul Breton  | 0:00:10.078176  | 748             | 
+| Ereann cj vaux le penil#2086           | N/A              | N/A             | N/A             | 
+| Tiâa-Forbach (57)#2332                 | N/A              | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A              | N/A             | N/A             | 
+| Erwan#0084                             | N/A              | N/A             | N/A             | 
+
+### Question 18/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Chien d'Artois`
+
+| Username                               | Answer                         | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------------ | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Basenji                        | 0:00:06.428531  | 0               | 
+| Romane Chateaubourg#6316               | Chien Courant Tricolore Serbe  | 0:00:05.013786  | 0               | 
+| Ereann cj vaux le penil#2086           | Chien Courant Tricolore Serbe  | 0:00:06.795211  | 0               | 
+| Héloïse CJ de Pornic#6617              | Chien Courant Tricolore Serbe  | 0:00:10.477101  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Chien Courant Tricolore Serbe  | 0:00:07.578613  | 0               | 
+| Anaël CJ de Cluses#7963                | Chien Courant Tricolore Serbe  | 0:00:06.625095  | 0               | 
+| Marinette CJ de Luynes#4290            | Chien Courant Tricolore Serbe  | 0:00:15.456914  | 0               | 
+| eliinaa_mrz#0489                       | Chien Courant Tricolore Serbe  | 0:00:05.466476  | 0               | 
+| Alma CJ de Bordeaux#1871               | Chien Courant Tricolore Serbe  | 0:00:14.052179  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                            | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                            | N/A             | N/A             | 
+| Erwan#0084                             | N/A                            | N/A             | N/A             | 
+
+### Question 19/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Chien du Groenland`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Chien du Groenland  | 0:00:03.071390  | 923             | 
+| Romane Chateaubourg#6316               | Chien du Groenland  | 0:00:03.790616  | 905             | 
+| Ewen du CJ de Chateaubourg#7758        | Chien du Groenland  | 0:00:04.234619  | 894             | 
+| Anaël CJ de Cluses#7963                | Chien du Groenland  | 0:00:04.523782  | 887             | 
+| Héloïse CJ de Pornic#6617              | Chien du Groenland  | 0:00:05.816898  | 855             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Chien du Groenland  | 0:00:06.122035  | 847             | 
+| Ereann cj vaux le penil#2086           | Chien du Groenland  | 0:00:06.795333  | 830             | 
+| Alma CJ de Bordeaux#1871               | Chien du Groenland  | 0:00:06.914261  | 827             | 
+| Marinette CJ de Luynes#4290            | Chien du Groenland  | 0:00:09.940308  | 751             | 
+| Tiâa-Forbach (57)#2332                 | N/A                 | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                 | N/A             | N/A             | 
+| Erwan#0084                             | N/A                 | N/A             | N/A             | 
+
+### Question 20/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Basset fauve de Bretagne`
+
+| Username                               | Answer                    | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------- | --------------- | --------------- | 
+| Ereann cj vaux le penil#2086           | Basset fauve de Bretagne  | 0:00:02.991878  | 925             | 
+| Romane Chateaubourg#6316               | Basset fauve de Bretagne  | 0:00:03.337495  | 917             | 
+| Ewen du CJ de Chateaubourg#7758        | Basset fauve de Bretagne  | 0:00:03.830209  | 904             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Basset fauve de Bretagne  | 0:00:04.087067  | 898             | 
+| Héloïse CJ de Pornic#6617              | Basset fauve de Bretagne  | 0:00:05.682328  | 858             | 
+| Marinette CJ de Luynes#4290            | Basset fauve de Bretagne  | 0:00:05.832728  | 854             | 
+| Anaël CJ de Cluses#7963                | Fox Terrier à Poil Dur    | 0:00:04.709333  | 0               | 
+| eliinaa_mrz#0489                       | Fox Terrier à Poil Dur    | 0:00:03.059608  | 0               | 
+| Alma CJ de Bordeaux#1871               | Lundehund                 | 0:00:13.020959  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                       | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                       | N/A             | N/A             | 
+| Erwan#0084                             | N/A                       | N/A             | N/A             | 
+
+### Question 21/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Basset des Alpes`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Basset des Alpes  | 0:00:02.116528  | 947             | 
+| Ereann cj vaux le penil#2086           | Basset des Alpes  | 0:00:03.062052  | 923             | 
+| Anaël CJ de Cluses#7963                | Basset des Alpes  | 0:00:03.516537  | 912             | 
+| Ewen du CJ de Chateaubourg#7758        | Basset des Alpes  | 0:00:04.208118  | 895             | 
+| Romane Chateaubourg#6316               | Basset des Alpes  | 0:00:05.115330  | 872             | 
+| Héloïse CJ de Pornic#6617              | Basset des Alpes  | 0:00:05.139642  | 872             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Beagle-Harrier    | 0:00:15.710602  | 0               | 
+| Marinette CJ de Luynes#4290            | Beagle-Harrier    | 0:00:16.062815  | 0               | 
+| Alma CJ de Bordeaux#1871               | Beagle-Harrier    | 0:00:08.180428  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A               | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A               | N/A             | N/A             | 
+| Erwan#0084                             | N/A               | N/A             | N/A             | 
+
+### Question 22/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Petit bleu de Gascogne`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Petit bleu de Gascogne  | 0:00:02.800580  | 930             | 
+| eliinaa_mrz#0489                       | Petit bleu de Gascogne  | 0:00:02.785959  | 930             | 
+| Héloïse CJ de Pornic#6617              | Petit bleu de Gascogne  | 0:00:04.379448  | 891             | 
+| Ewen du CJ de Chateaubourg#7758        | Petit bleu de Gascogne  | 0:00:04.405809  | 890             | 
+| Anaël CJ de Cluses#7963                | Petit bleu de Gascogne  | 0:00:08.199327  | 795             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Petit bleu de Gascogne  | 0:00:08.379384  | 791             | 
+| Marinette CJ de Luynes#4290            | Petit bleu de Gascogne  | 0:00:08.808076  | 780             | 
+| Alma CJ de Bordeaux#1871               | Petit bleu de Gascogne  | 0:00:08.789531  | 780             | 
+| Ereann cj vaux le penil#2086           | N/A                     | N/A             | N/A             | 
+| Tiâa-Forbach (57)#2332                 | N/A                     | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                     | N/A             | N/A             | 
+| Erwan#0084                             | N/A                     | N/A             | N/A             | 
+
+### Question 23/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Wetterhoun`
+
+| Username                               | Answer      | Time            | Points awarded  | 
+| -------------------------------------- | ----------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Wetterhoun  | 0:00:02.970139  | 926             | 
+| Héloïse CJ de Pornic#6617              | Wetterhoun  | 0:00:04.128388  | 897             | 
+| Ewen du CJ de Chateaubourg#7758        | Wetterhoun  | 0:00:05.802193  | 855             | 
+| Alma CJ de Bordeaux#1871               | Wetterhoun  | 0:00:07.426838  | 814             | 
+| Anaël CJ de Cluses#7963                | Wetterhoun  | 0:00:07.650761  | 809             | 
+| Romane Chateaubourg#6316               | Wetterhoun  | 0:00:08.898434  | 778             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Wetterhoun  | 0:00:11.220455  | 719             | 
+| Marinette CJ de Luynes#4290            | Wetterhoun  | 0:00:12.062469  | 698             | 
+| Ereann cj vaux le penil#2086           | N/A         | N/A             | N/A             | 
+| Tiâa-Forbach (57)#2332                 | N/A         | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A         | N/A             | N/A             | 
+| Erwan#0084                             | N/A         | N/A             | N/A             | 
+
+### Question 24/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Kromfohrländer`
+
+| Username                               | Answer                            | Time            | Points awarded  | 
+| -------------------------------------- | --------------------------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Chien d'Oysel                     | 0:00:04.333940  | 0               | 
+| Romane Chateaubourg#6316               | Chien d'Oysel                     | 0:00:09.880376  | 0               | 
+| Ereann cj vaux le penil#2086           | Chien d'Oysel                     | 0:00:11.453440  | 0               | 
+| Héloïse CJ de Pornic#6617              | Chien d'Oysel                     | 0:00:05.407707  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Chien d'Oysel                     | 0:00:15.058093  | 0               | 
+| Anaël CJ de Cluses#7963                | Chien d'Oysel                     | 0:00:05.711672  | 0               | 
+| Marinette CJ de Luynes#4290            | Chien d'Oysel                     | 0:00:11.242821  | 0               | 
+| eliinaa_mrz#0489                       | Chien d'Oysel                     | 0:00:03.185296  | 0               | 
+| Alma CJ de Bordeaux#1871               | Chien Courant Italien à Poil Dur  | 0:00:18.869195  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                               | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                               | N/A             | N/A             | 
+| Erwan#0084                             | N/A                               | N/A             | N/A             | 
+
+### Question 25/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Basenji`
+
+| Username                               | Answer   | Time            | Points awarded  | 
+| -------------------------------------- | -------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Basenji  | 0:00:03.238942  | 919             | 
+| Ereann cj vaux le penil#2086           | Basenji  | 0:00:03.336155  | 917             | 
+| Ewen du CJ de Chateaubourg#7758        | Basenji  | 0:00:04.335274  | 892             | 
+| Héloïse CJ de Pornic#6617              | Basenji  | 0:00:05.042788  | 874             | 
+| Anaël CJ de Cluses#7963                | Basenji  | 0:00:08.699478  | 783             | 
+| Marinette CJ de Luynes#4290            | Basenji  | 0:00:11.089603  | 723             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Basenji  | 0:00:12.022194  | 699             | 
+| Alma CJ de Bordeaux#1871               | Basenji  | 0:00:14.195814  | 645             | 
+| Romane Chateaubourg#6316               | Aïdi     | 0:00:05.358345  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A      | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A      | N/A             | N/A             | 
+| Erwan#0084                             | N/A      | N/A             | N/A             | 
+
+### Question 26/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Setter Gordon`
+
+| Username                               | Answer         | Time            | Points awarded  | 
+| -------------------------------------- | -------------- | --------------- | --------------- | 
+| Ereann cj vaux le penil#2086           | Setter Gordon  | 0:00:02.686820  | 933             | 
+| eliinaa_mrz#0489                       | Setter Gordon  | 0:00:03.310516  | 917             | 
+| Romane Chateaubourg#6316               | Setter Gordon  | 0:00:03.623390  | 909             | 
+| Anaël CJ de Cluses#7963                | Setter Gordon  | 0:00:03.863768  | 903             | 
+| Ewen du CJ de Chateaubourg#7758        | Setter Gordon  | 0:00:03.937075  | 902             | 
+| Héloïse CJ de Pornic#6617              | Setter Gordon  | 0:00:05.664245  | 858             | 
+| Alma CJ de Bordeaux#1871               | Setter Gordon  | 0:00:07.896681  | 803             | 
+| Marinette CJ de Luynes#4290            | Setter Gordon  | 0:00:13.193136  | 670             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Setter Gordon  | 0:00:14.066067  | 648             | 
+| Tiâa-Forbach (57)#2332                 | N/A            | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A            | N/A             | N/A             | 
+| Erwan#0084                             | N/A            | N/A             | N/A             | 
+
+### Question 27/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Épagneul d'Eau Irlandais`
+
+| Username                               | Answer                    | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Épagneul d'Eau Irlandais  | 0:00:02.630762  | 934             | 
+| Romane Chateaubourg#6316               | Épagneul d'Eau Irlandais  | 0:00:03.820158  | 904             | 
+| Ereann cj vaux le penil#2086           | Épagneul d'Eau Irlandais  | 0:00:03.966947  | 901             | 
+| Ewen du CJ de Chateaubourg#7758        | Épagneul d'Eau Irlandais  | 0:00:04.138619  | 897             | 
+| Héloïse CJ de Pornic#6617              | Épagneul d'Eau Irlandais  | 0:00:07.512290  | 812             | 
+| Anaël CJ de Cluses#7963                | Épagneul d'Eau Irlandais  | 0:00:10.919953  | 727             | 
+| Marinette CJ de Luynes#4290            | Épagneul d'Eau Irlandais  | 0:00:12.529274  | 687             | 
+| Alma CJ de Bordeaux#1871               | Épagneul d'Eau Irlandais  | 0:00:17.879581  | 553             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Springer Gallois          | 0:00:07.533078  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                       | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                       | N/A             | N/A             | 
+| Erwan#0084                             | N/A                       | N/A             | N/A             | 
+
+### Question 28/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Berger de Majorque`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Berger de Majorque  | 0:00:10.862507  | 728             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Berger de Majorque  | 0:00:12.100793  | 697             | 
+| Marinette CJ de Luynes#4290            | Berger de Majorque  | 0:00:13.789477  | 655             | 
+| Ewen du CJ de Chateaubourg#7758        | Sphynx              | 0:00:05.165671  | 0               | 
+| Ereann cj vaux le penil#2086           | N/A                 | N/A             | N/A             | 
+| Héloïse CJ de Pornic#6617              | Sphynx              | 0:00:04.825296  | 0               | 
+| Anaël CJ de Cluses#7963                | Sphynx              | 0:00:06.482455  | 0               | 
+| eliinaa_mrz#0489                       | Sphynx              | 0:00:03.550413  | 0               | 
+| Alma CJ de Bordeaux#1871               | Lévrier Afghan      | 0:00:08.530237  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                 | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                 | N/A             | N/A             | 
+| Erwan#0084                             | N/A                 | N/A             | N/A             | 
+
+### Question 29/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Français blanc et orange`
+
+| Username                               | Answer                    | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------- | --------------- | --------------- | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Français blanc et orange  | 0:00:17.483890  | 563             | 
+| Ewen du CJ de Chateaubourg#7758        | Ragdoll                   | 0:00:08.340424  | 0               | 
+| Romane Chateaubourg#6316               | Berger Yougoslave         | 0:00:12.375907  | 0               | 
+| Ereann cj vaux le penil#2086           | Ragdoll                   | 0:00:03.846130  | 0               | 
+| Héloïse CJ de Pornic#6617              | Ragdoll                   | 0:00:10.482168  | 0               | 
+| Anaël CJ de Cluses#7963                | Akhal-Téké de Pur Sang    | 0:00:09.686206  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A                       | N/A             | N/A             | 
+| eliinaa_mrz#0489                       | Akhal-Téké de Pur Sang    | 0:00:04.317698  | 0               | 
+| Alma CJ de Bordeaux#1871               | Ragdoll                   | 0:00:10.615466  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                       | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                       | N/A             | N/A             | 
+| Erwan#0084                             | N/A                       | N/A             | N/A             | 
+
+### Question 30/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Crème`
+
+| Username                               | Answer   | Time            | Points awarded  | 
+| -------------------------------------- | -------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Crème    | 0:00:04.215046  | 895             | 
+| eliinaa_mrz#0489                       | Crème    | 0:00:04.513851  | 887             | 
+| Ewen du CJ de Chateaubourg#7758        | Crème    | 0:00:05.276203  | 868             | 
+| Anaël CJ de Cluses#7963                | Crème    | 0:00:05.401861  | 865             | 
+| Marinette CJ de Luynes#4290            | Crème    | 0:00:05.593100  | 860             | 
+| Héloïse CJ de Pornic#6617              | Crème    | 0:00:06.317789  | 842             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Crème    | 0:00:06.477141  | 838             | 
+| Ereann cj vaux le penil#2086           | Crème    | 0:00:07.489394  | 813             | 
+| Aiglor009#3918                         | Crème    | 0:00:08.875871  | 778             | 
+| Alma CJ de Bordeaux#1871               | Donskoy  | 0:00:07.300889  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A      | N/A             | N/A             | 
+| Erwan#0084                             | N/A      | N/A             | N/A             | 
+
+### Question 31/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Scottish Fold`
+
+| Username                               | Answer         | Time            | Points awarded  | 
+| -------------------------------------- | -------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Scottish Fold  | 0:00:02.390852  | 940             | 
+| eliinaa_mrz#0489                       | Scottish Fold  | 0:00:02.903536  | 927             | 
+| Romane Chateaubourg#6316               | Scottish Fold  | 0:00:03.256723  | 919             | 
+| Ereann cj vaux le penil#2086           | Scottish Fold  | 0:00:03.480857  | 913             | 
+| Héloïse CJ de Pornic#6617              | Scottish Fold  | 0:00:03.771505  | 906             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Scottish Fold  | 0:00:04.975382  | 876             | 
+| Anaël CJ de Cluses#7963                | Scottish Fold  | 0:00:08.517701  | 787             | 
+| Alma CJ de Bordeaux#1871               | Scottish Fold  | 0:00:09.106308  | 772             | 
+| Marinette CJ de Luynes#4290            | Scottish Fold  | 0:00:12.094989  | 698             | 
+| Tiâa-Forbach (57)#2332                 | N/A            | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A            | N/A             | N/A             | 
+| Erwan#0084                             | N/A            | N/A             | N/A             | 
+
+### Question 32/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Langhaar`
+
+| Username                               | Answer         | Time            | Points awarded  | 
+| -------------------------------------- | -------------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Langhaar       | 0:00:05.972355  | 851             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Langhaar       | 0:00:06.383453  | 840             | 
+| Ewen du CJ de Chateaubourg#7758        | Langhaar       | 0:00:07.756877  | 806             | 
+| Alma CJ de Bordeaux#1871               | Langhaar       | 0:00:08.802414  | 780             | 
+| Anaël CJ de Cluses#7963                | Langhaar       | 0:00:12.117146  | 697             | 
+| Marinette CJ de Luynes#4290            | Langhaar       | 0:00:13.140039  | 671             | 
+| Ereann cj vaux le penil#2086           | Barbu Tchèque  | 0:00:02.652742  | 0               | 
+| Héloïse CJ de Pornic#6617              | Barbu Tchèque  | 0:00:03.770351  | 0               | 
+| eliinaa_mrz#0489                       | Barbu Tchèque  | 0:00:03.207939  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A            | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A            | N/A             | N/A             | 
+| Erwan#0084                             | N/A            | N/A             | N/A             | 
+
+### Question 33/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Devon Rex`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Devon Rex  | 0:00:07.181497  | 820             | 
+| Ewen du CJ de Chateaubourg#7758        | Ocicat     | 0:00:07.201467  | 0               | 
+| Ereann cj vaux le penil#2086           | Ocicat     | 0:00:07.113205  | 0               | 
+| Héloïse CJ de Pornic#6617              | Ocicat     | 0:00:07.156443  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Somali     | 0:00:07.246875  | 0               | 
+| Anaël CJ de Cluses#7963                | Somali     | 0:00:07.225106  | 0               | 
+| Marinette CJ de Luynes#4290            | Ocicat     | 0:00:13.392511  | 0               | 
+| eliinaa_mrz#0489                       | Ocicat     | 0:00:02.829188  | 0               | 
+| Alma CJ de Bordeaux#1871               | Somali     | 0:00:09.488149  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A        | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A        | N/A             | N/A             | 
+| Erwan#0084                             | N/A        | N/A             | N/A             | 
+
+### Question 34/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Chausie`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Chausie           | 0:00:04.105611  | 897             | 
+| Romane Chateaubourg#6316               | Chausie           | 0:00:04.829009  | 879             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Chausie           | 0:00:06.001710  | 850             | 
+| Alma CJ de Bordeaux#1871               | Chausie           | 0:00:10.003969  | 750             | 
+| Marinette CJ de Luynes#4290            | Chausie           | 0:00:15.411458  | 615             | 
+| Ewen du CJ de Chateaubourg#7758        | Devon Rex         | 0:00:04.572749  | 0               | 
+| Ereann cj vaux le penil#2086           | Devon Rex         | 0:00:03.032676  | 0               | 
+| Héloïse CJ de Pornic#6617              | Devon Rex         | 0:00:04.664851  | 0               | 
+| Anaël CJ de Cluses#7963                | Springer Anglais  | 0:00:11.239938  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A               | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A               | N/A             | N/A             | 
+| Erwan#0084                             | N/A               | N/A             | N/A             | 
+
+### Question 35/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Griffon bleu de Gascogne`
+
+| Username                               | Answer                         | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------------ | --------------- | --------------- | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Griffon bleu de Gascogne       | 0:00:04.507511  | 887             | 
+| Romane Chateaubourg#6316               | Griffon bleu de Gascogne       | 0:00:05.172961  | 871             | 
+| Ewen du CJ de Chateaubourg#7758        | Griffon bleu de Gascogne       | 0:00:05.787789  | 855             | 
+| Anaël CJ de Cluses#7963                | Griffon bleu de Gascogne       | 0:00:09.354513  | 766             | 
+| Marinette CJ de Luynes#4290            | Griffon bleu de Gascogne       | 0:00:10.226913  | 744             | 
+| Alma CJ de Bordeaux#1871               | Griffon bleu de Gascogne       | 0:00:15.942908  | 601             | 
+| Ereann cj vaux le penil#2086           | Cocker Anglais                 | 0:00:03.614893  | 0               | 
+| Héloïse CJ de Pornic#6617              | Terrier Irlandais à Poil Doux  | 0:00:03.709632  | 0               | 
+| eliinaa_mrz#0489                       | Terrier Irlandais à Poil Doux  | 0:00:03.569991  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                            | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                            | N/A             | N/A             | 
+| Erwan#0084                             | N/A                            | N/A             | N/A             | 
+
+### Question 36/50
+
+`Quelle est cette race ?`
+
+Correct answer: `British Shorthair`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | British Shorthair  | 0:00:02.771422  | 931             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | British Shorthair  | 0:00:03.690258  | 908             | 
+| Héloïse CJ de Pornic#6617              | British Shorthair  | 0:00:05.054148  | 874             | 
+| Romane Chateaubourg#6316               | British Shorthair  | 0:00:05.156178  | 871             | 
+| Ereann cj vaux le penil#2086           | British Shorthair  | 0:00:05.998781  | 850             | 
+| Marinette CJ de Luynes#4290            | British Shorthair  | 0:00:11.179058  | 721             | 
+| Anaël CJ de Cluses#7963                | British Shorthair  | 0:00:14.664880  | 633             | 
+| eliinaa_mrz#0489                       | N/A                | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | N/A                | N/A             | N/A             | 
+| Tiâa-Forbach (57)#2332                 | N/A                | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                | N/A             | N/A             | 
+| Erwan#0084                             | N/A                | N/A             | N/A             | 
+
+### Question 37/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Caniche`
+
+| Username                               | Answer   | Time            | Points awarded  | 
+| -------------------------------------- | -------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Caniche  | 0:00:03.567435  | 911             | 
+| Ewen du CJ de Chateaubourg#7758        | Caniche  | 0:00:03.608291  | 910             | 
+| Héloïse CJ de Pornic#6617              | Caniche  | 0:00:03.589390  | 910             | 
+| eliinaa_mrz#0489                       | Caniche  | 0:00:04.025679  | 899             | 
+| Ereann cj vaux le penil#2086           | Caniche  | 0:00:04.336416  | 892             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Caniche  | 0:00:05.325781  | 867             | 
+| Anaël CJ de Cluses#7963                | Caniche  | 0:00:06.146452  | 846             | 
+| Marinette CJ de Luynes#4290            | Caniche  | 0:00:06.765611  | 831             | 
+| Alma CJ de Bordeaux#1871               | Caniche  | 0:00:06.931900  | 827             | 
+| Tiâa-Forbach (57)#2332                 | N/A      | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A      | N/A             | N/A             | 
+| Erwan#0084                             | N/A      | N/A             | N/A             | 
+
+### Question 38/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Breton`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Breton  | 0:00:02.382076  | 940             | 
+| eliinaa_mrz#0489                       | Breton  | 0:00:03.673679  | 908             | 
+| Romane Chateaubourg#6316               | Breton  | 0:00:04.319238  | 892             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Breton  | 0:00:04.465285  | 888             | 
+| Ereann cj vaux le penil#2086           | Breton  | 0:00:04.546195  | 886             | 
+| Héloïse CJ de Pornic#6617              | Breton  | 0:00:05.715394  | 857             | 
+| Alma CJ de Bordeaux#1871               | Breton  | 0:00:09.160194  | 771             | 
+| Anaël CJ de Cluses#7963                | Breton  | 0:00:09.219778  | 770             | 
+| Marinette CJ de Luynes#4290            | Breton  | 0:00:11.440831  | 714             | 
+| Tiâa-Forbach (57)#2332                 | N/A     | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A     | N/A             | N/A             | 
+| Erwan#0084                             | N/A     | N/A             | N/A             | 
+
+### Question 39/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Épagneul picard`
+
+| Username                               | Answer           | Time            | Points awarded  | 
+| -------------------------------------- | ---------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Épagneul picard  | 0:00:02.804173  | 930             | 
+| eliinaa_mrz#0489                       | Épagneul picard  | 0:00:03.141237  | 921             | 
+| Héloïse CJ de Pornic#6617              | Épagneul picard  | 0:00:04.573392  | 886             | 
+| Romane Chateaubourg#6316               | Épagneul picard  | 0:00:05.887810  | 853             | 
+| Anaël CJ de Cluses#7963                | Épagneul picard  | 0:00:06.194780  | 845             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Épagneul picard  | 0:00:06.897622  | 828             | 
+| Erwan#0084                             | Épagneul picard  | 0:00:06.934797  | 827             | 
+| Marinette CJ de Luynes#4290            | Épagneul picard  | 0:00:09.834413  | 754             | 
+| Alma CJ de Bordeaux#1871               | Épagneul picard  | 0:00:12.318300  | 692             | 
+| Ereann cj vaux le penil#2086           | Saint-Hubert     | 0:00:03.595142  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A              | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A              | N/A             | N/A             | 
+
+### Question 40/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Chien de Montagne Portugais`
+
+| Username                               | Answer                       | Time            | Points awarded  | 
+| -------------------------------------- | ---------------------------- | --------------- | --------------- | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Chien de Montagne Portugais  | 0:00:07.062754  | 823             | 
+| Anaël CJ de Cluses#7963                | Chien de Montagne Portugais  | 0:00:07.670375  | 808             | 
+| Alma CJ de Bordeaux#1871               | Chien de Montagne Portugais  | 0:00:10.080732  | 748             | 
+| Ewen du CJ de Chateaubourg#7758        | Berger Yougoslave            | 0:00:04.926167  | 0               | 
+| Romane Chateaubourg#6316               | Berger Yougoslave            | 0:00:04.964975  | 0               | 
+| Ereann cj vaux le penil#2086           | Berger Yougoslave            | 0:00:03.316642  | 0               | 
+| Héloïse CJ de Pornic#6617              | Berger Yougoslave            | 0:00:06.273052  | 0               | 
+| Marinette CJ de Luynes#4290            | Berger Yougoslave            | 0:00:18.961666  | 0               | 
+| eliinaa_mrz#0489                       | Berger Yougoslave            | 0:00:04.829935  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                          | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                          | N/A             | N/A             | 
+| Erwan#0084                             | Berger Yougoslave            | 0:00:04.094097  | 0               | 
+
+### Question 41/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Saint-Bernard`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Ereann cj vaux le penil#2086           | Saint-Bernard      | 0:00:03.264212  | 918             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Saint-Bernard      | 0:00:04.497724  | 888             | 
+| Héloïse CJ de Pornic#6617              | Saint-Bernard      | 0:00:04.623658  | 884             | 
+| Anaël CJ de Cluses#7963                | Saint-Bernard      | 0:00:04.761291  | 881             | 
+| Romane Chateaubourg#6316               | Saint-Bernard      | 0:00:04.968150  | 876             | 
+| Ewen du CJ de Chateaubourg#7758        | Saint-Bernard      | 0:00:05.750094  | 856             | 
+| Alma CJ de Bordeaux#1871               | Saint-Bernard      | 0:00:06.506579  | 837             | 
+| Erwan#0084                             | Saint-Bernard      | 0:00:14.120305  | 647             | 
+| Marinette CJ de Luynes#4290            | Saint-Bernard      | 0:00:20.177592  | 496             | 
+| eliinaa_mrz#0489                       | Épagneul français  | 0:00:02.970397  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                | N/A             | N/A             | 
+
+### Question 42/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Schnauzer Géant`
+
+| Username                               | Answer           | Time            | Points awarded  | 
+| -------------------------------------- | ---------------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Schnauzer Géant  | 0:00:03.356570  | 916             | 
+| eliinaa_mrz#0489                       | Schnauzer Géant  | 0:00:04.546633  | 886             | 
+| Ewen du CJ de Chateaubourg#7758        | Schnauzer Géant  | 0:00:04.794698  | 880             | 
+| Ereann cj vaux le penil#2086           | Schnauzer Géant  | 0:00:04.818034  | 880             | 
+| Héloïse CJ de Pornic#6617              | Schnauzer Géant  | 0:00:06.303509  | 842             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Schnauzer Géant  | 0:00:08.931045  | 777             | 
+| Alma CJ de Bordeaux#1871               | Schnauzer Géant  | 0:00:09.179529  | 771             | 
+| Marinette CJ de Luynes#4290            | Schnauzer Géant  | 0:00:11.152214  | 721             | 
+| Erwan#0084                             | Schnauzer Géant  | 0:00:12.060498  | 698             | 
+| Anaël CJ de Cluses#7963                | N/A              | N/A             | N/A             | 
+| Tiâa-Forbach (57)#2332                 | N/A              | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A              | N/A             | N/A             | 
+
+### Question 43/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Golden Retriever`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Golden Retriever  | 0:00:02.684511  | 933             | 
+| Ewen du CJ de Chateaubourg#7758        | Golden Retriever  | 0:00:02.951000  | 926             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Golden Retriever  | 0:00:03.577157  | 911             | 
+| eliinaa_mrz#0489                       | Golden Retriever  | 0:00:04.122651  | 897             | 
+| Héloïse CJ de Pornic#6617              | Golden Retriever  | 0:00:05.151584  | 871             | 
+| Marinette CJ de Luynes#4290            | Golden Retriever  | 0:00:05.179813  | 871             | 
+| Alma CJ de Bordeaux#1871               | Golden Retriever  | 0:00:05.875685  | 853             | 
+| Erwan#0084                             | Golden Retriever  | 0:00:06.177475  | 846             | 
+| Ereann cj vaux le penil#2086           | N/A               | N/A             | N/A             | 
+| Anaël CJ de Cluses#7963                | N/A               | N/A             | N/A             | 
+| Tiâa-Forbach (57)#2332                 | N/A               | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A               | N/A             | N/A             | 
+
+### Question 44/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Mâtin Napolitain`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Mâtin Napolitain  | 0:00:02.908856  | 927             | 
+| Romane Chateaubourg#6316               | Mâtin Napolitain  | 0:00:02.940182  | 926             | 
+| Erwan#0084                             | Mâtin Napolitain  | 0:00:03.560578  | 911             | 
+| Ereann cj vaux le penil#2086           | Mâtin Napolitain  | 0:00:04.167383  | 896             | 
+| Héloïse CJ de Pornic#6617              | Mâtin Napolitain  | 0:00:04.582588  | 885             | 
+| Ewen du CJ de Chateaubourg#7758        | Mâtin Napolitain  | 0:00:04.811001  | 880             | 
+| Marinette CJ de Luynes#4290            | Mâtin Napolitain  | 0:00:09.149538  | 771             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Mâtin Napolitain  | 0:00:15.283539  | 618             | 
+| Anaël CJ de Cluses#7963                | N/A               | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | Balinais          | 0:00:14.529138  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A               | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A               | N/A             | N/A             | 
+
+### Question 45/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Persan`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| eliinaa_mrz#0489                       | Persan            | 0:00:02.834958  | 929             | 
+| Ewen du CJ de Chateaubourg#7758        | Persan            | 0:00:04.104336  | 897             | 
+| Héloïse CJ de Pornic#6617              | Persan            | 0:00:04.629917  | 884             | 
+| Romane Chateaubourg#6316               | Persan            | 0:00:05.761904  | 856             | 
+| Erwan#0084                             | Persan            | 0:00:08.413938  | 790             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Persan            | 0:00:09.431902  | 764             | 
+| Ereann cj vaux le penil#2086           | Scottish Terrier  | 0:00:03.905589  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A               | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Skogcatt          | 0:00:15.150673  | 0               | 
+| Alma CJ de Bordeaux#1871               | Scottish Terrier  | 0:00:19.878496  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A               | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A               | N/A             | N/A             | 
+
+### Question 46/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Bichon Frisé`
+
+| Username                               | Answer        | Time            | Points awarded  | 
+| -------------------------------------- | ------------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Bichon Frisé  | 0:00:02.436036  | 939             | 
+| eliinaa_mrz#0489                       | Bichon Frisé  | 0:00:02.647272  | 934             | 
+| Erwan#0084                             | Bichon Frisé  | 0:00:02.745397  | 931             | 
+| Ewen du CJ de Chateaubourg#7758        | Bichon Frisé  | 0:00:03.143443  | 921             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Bichon Frisé  | 0:00:03.766969  | 906             | 
+| Héloïse CJ de Pornic#6617              | Bichon Frisé  | 0:00:03.899678  | 903             | 
+| Ereann cj vaux le penil#2086           | Bichon Frisé  | 0:00:05.062223  | 873             | 
+| Alma CJ de Bordeaux#1871               | Bichon Frisé  | 0:00:10.132955  | 747             | 
+| Marinette CJ de Luynes#4290            | Bichon Frisé  | 0:00:10.202658  | 745             | 
+| Anaël CJ de Cluses#7963                | N/A           | N/A             | N/A             | 
+| Tiâa-Forbach (57)#2332                 | N/A           | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A           | N/A             | N/A             | 
+
+### Question 47/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Pointer`
+
+| Username                               | Answer   | Time            | Points awarded  | 
+| -------------------------------------- | -------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Pointer  | 0:00:03.514989  | 912             | 
+| eliinaa_mrz#0489                       | Pointer  | 0:00:04.404815  | 890             | 
+| Héloïse CJ de Pornic#6617              | Pointer  | 0:00:04.853264  | 879             | 
+| Erwan#0084                             | Pointer  | 0:00:04.946840  | 876             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Pointer  | 0:00:05.191404  | 870             | 
+| Ereann cj vaux le penil#2086           | Pointer  | 0:00:05.761922  | 856             | 
+| Ewen du CJ de Chateaubourg#7758        | Pointer  | 0:00:05.823586  | 854             | 
+| Marinette CJ de Luynes#4290            | Pointer  | 0:00:07.922108  | 802             | 
+| Anaël CJ de Cluses#7963                | N/A      | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | Abyssin  | 0:00:07.840521  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A      | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A      | N/A             | N/A             | 
+
+### Question 48/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Barzoï`
+
+| Username                               | Answer                        | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Barzoï                        | 0:00:03.762389  | 906             | 
+| Romane Chateaubourg#6316               | Barzoï                        | 0:00:04.656341  | 884             | 
+| Erwan#0084                             | Barzoï                        | 0:00:06.469187  | 838             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Barzoï                        | 0:00:13.343033  | 666             | 
+| Marinette CJ de Luynes#4290            | Barzoï                        | 0:00:18.916586  | 527             | 
+| Ereann cj vaux le penil#2086           | Épagneul de Pont-Audemer      | 0:00:03.417661  | 0               | 
+| Héloïse CJ de Pornic#6617              | Épagneul de Pont-Audemer      | 0:00:04.730718  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                           | N/A             | N/A             | 
+| eliinaa_mrz#0489                       | Épagneul de Pont-Audemer      | 0:00:05.891308  | 0               | 
+| Alma CJ de Bordeaux#1871               | Épagneul à Perdrix de Drente  | 0:00:12.709028  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                           | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                           | N/A             | N/A             | 
+
+### Question 49/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Springer Anglais`
+
+| Username                               | Answer                | Time            | Points awarded  | 
+| -------------------------------------- | --------------------- | --------------- | --------------- | 
+| Ereann cj vaux le penil#2086           | Springer Anglais      | 0:00:02.745310  | 931             | 
+| Romane Chateaubourg#6316               | Springer Anglais      | 0:00:03.328112  | 917             | 
+| Héloïse CJ de Pornic#6617              | Springer Anglais      | 0:00:03.725921  | 907             | 
+| eliinaa_mrz#0489                       | Springer Anglais      | 0:00:03.813133  | 905             | 
+| Ewen du CJ de Chateaubourg#7758        | Springer Anglais      | 0:00:04.122440  | 897             | 
+| Erwan#0084                             | Springer Anglais      | 0:00:07.291812  | 818             | 
+| Alma CJ de Bordeaux#1871               | Springer Anglais      | 0:00:12.787034  | 680             | 
+| Marinette CJ de Luynes#4290            | Springer Anglais      | 0:00:14.681734  | 633             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Laïka Russo-Européen  | 0:00:10.120966  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                   | N/A             | N/A             | 
+| Tiâa-Forbach (57)#2332                 | N/A                   | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                   | N/A             | N/A             | 
+
+### Question 50/50
+
+`Quelle est cette race ?`
+
+Correct answer: `Dogue du Tibet`
+
+| Username                               | Answer                        | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------------- | --------------- | --------------- | 
+| Romane Chateaubourg#6316               | Dogue du Tibet                | 0:00:04.229938  | 894             | 
+| Héloïse CJ de Pornic#6617              | Dogue du Tibet                | 0:00:04.748069  | 881             | 
+| Ewen du CJ de Chateaubourg#7758        | Dogue du Tibet                | 0:00:06.661161  | 833             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Dogue du Tibet                | 0:00:08.585520  | 785             | 
+| Erwan#0084                             | Dogue du Tibet                | 0:00:11.200397  | 720             | 
+| Alma CJ de Bordeaux#1871               | Dogue du Tibet                | 0:00:12.251799  | 694             | 
+| Ereann cj vaux le penil#2086           | Grand Basset Griffon Vendéen  | 0:00:04.387106  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                           | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                           | N/A             | N/A             | 
+| eliinaa_mrz#0489                       | Chien courant Bernois         | 0:00:06.894696  | 0               | 
+| Tiâa-Forbach (57)#2332                 | N/A                           | N/A             | N/A             | 
+| Aiglor009#3918                         | N/A                           | N/A             | N/A             | 
+
+---------------------------------
+
+## Final leaderboard
+
+There were a total of 50 questions in this quiz.
+
+12 users participated.
+
+| #   | Username                               | Nickname                     | Points  | Correct  | Answered  | 
+| --- | -------------------------------------- | ---------------------------- | ------- | -------- | --------- | 
+| 1   | Romane Chateaubourg#6316               | Romane - Châteaubourg (35)   | 38042   | 43       | 50        | 
+| 2   | Ewen du CJ de Chateaubourg#7758        | Ewen - Châteaubourg (35)     | 35400   | 40       | 50        | 
+| 3   | Cécile Encadrante CJ Luynes (37)#4741  | Cécile - Luynes (37)         | 33937   | 43       | 50        | 
+| 4   | Héloïse CJ de Pornic#6617              | Héloise - Pornic (44)        | 33119   | 38       | 50        | 
+| 5   | eliinaa_mrz#0489                       | Elina - Yvré l'Évêque (72)   | 30683   | 34       | 46        | 
+| 6   | Marinette CJ de Luynes#4290            | Marinette - Luynes (37)      | 27730   | 39       | 46        | 
+| 7   | Ereann cj vaux le penil#2086           | Ereann - Vaux-le-Pénil (77)  | 27252   | 31       | 45        | 
+| 8   | Anaël CJ de Cluses#7963                | Anaël - Cluses (74)          | 23757   | 29       | 39        | 
+| 9   | Alma CJ de Bordeaux#1871               | Alma - Bordeaux (33)         | 21575   | 29       | 45        | 
+| 10  | Erwan#0084                             | Erwan - Châteaubourg (35)    | 8902    | 11       | 12        | 
+| 11  | Tiâa-Forbach (57)#2332                 | Tiâa - Forbach (57)          | 1467    | 2        | 2         | 
+| 12  | Aiglor009#3918                         | Thomas - Rennes (35)         | 778     | 1        | 1         | 
+
+---------------------------------
+
+## Links
+
+Thank you for supporting and using the bot.
+
+[Vote for the bot](https://top.gg/bot/558996910581612545/vote?src=qbResultsFile)
+
+[QuizBot website](https://quizbot.xyz/)
+
+[Invite the bot](https://ihxyz.dev/bots/qb?src=qbResultsFile)
+
+[ihxyz development](https://ihxyz.dev/)
+
+[Support server](https://ihxyz.dev/bots/support)
+
+---------------------------------
