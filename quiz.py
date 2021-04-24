@@ -3,12 +3,13 @@ import os
 import pandas as pd
 
 def read_report(path):
+	print(path)
 	with open(path) as fp:
 		lines = fp.readlines()
 	quizz_id = lines[9].split("ID ")[-1].split(")")[0].strip()
 	quizz_date = lines[5].split("time:")[-1].strip().split(" ")[0].split("-")
-	if not os.path.exists(os.path.join("charts", quizz_id)):
-		os.makedirs(os.path.join("charts", quizz_id))
+	if not os.path.exists(os.path.join('outputs', "charts", quizz_id)):
+		os.makedirs(os.path.join('outputs', "charts", quizz_id))
 	nombre_questions = lines[17].split("/")[-1].strip()
 	numero_question = 1
 	Quizz, Username,Answer,Time,Points = list(), list(), list(), list(), list()
@@ -137,3 +138,5 @@ def prepare_csv():
 		#chart_nombre_bonnes_reponses(df, path="outputs/charts/nombre_bonnes_reponses_{}.csv".format(id))
 		chart_classement(df_month, path="outputs/charts/classement_{}.csv".format(id))
 		#chart_classement_par_refuge(df_month, path="outputs/charts/classement_par_refuge_{}.csv".format(id))
+
+prepare_csv()
