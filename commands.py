@@ -50,7 +50,11 @@ async def commands(message, client):
                     '>ordre couché',
                     '>ordre patte',
                     '>ordre high five',
-                    '>ordre belle']
+                    '>ordre belle',
+                    '>utilisateur',
+                    '>messages',
+                    '>code',
+                    '>data']
         for command in commands:
             await message.channel.send(command)
             await asyncio.sleep(1)
@@ -67,7 +71,39 @@ async def commands(message, client):
 
     # QUIZ COMMANDS
     if message.content.startswith('>quiz planning'):
-        await functions.order_not_available(message);
+        df = pd.read_excel("inputs/xlsx/planning.xlsx")
+        def category(cat):
+            if "Chien" in cat:
+                return ":dog2:"
+            if "Chat" in cat:
+                return ":cat2:"
+            if "Cheval" in cat:
+                return ":racehorse:"
+            if "Oiseau" in cat:
+                return ":bird:"
+            if "NAC" in cat:
+                return ":rabbit2:"
+            if "?" in cat:
+                return ":interrobang:"
+            return ":feet:"
+
+        txt = ""
+        for id,row in df.iterrows():
+            # Date	Titre	Catégorie
+            ts = pd.to_datetime(str(row['Date']))
+            date = ts.strftime('%d/%m/%Y')
+            d,m,y = date.split("/")
+            d = functions.rank_to_emote(d, type="date")
+            m = functions.rank_to_emote(m, type="date")
+            y = functions.rank_to_emote(y, type="date")
+            # txt += "{}/{}/{} : {} {}\n".format(d,m,y, row['Titre'], category(row['Catégorie']))
+            txt += ":arrow_forward: {} {} : {}\n".format(category(row['Catégorie']), date, row['Titre'])
+            if len(txt) > 1000:
+                am = discord.AllowedMentions(everyone=False, users=False, roles=False, replied_user=False)
+                await message.channel.send(txt, allowed_mentions=am)
+                txt = ""
+        am = discord.AllowedMentions(everyone=False, users=False, roles=False, replied_user=False)
+        await message.channel.send(txt, allowed_mentions=am)
 
     if message.content.startswith('>quiz classement'):
         df_members = pd.read_csv("outputs/members.csv")
