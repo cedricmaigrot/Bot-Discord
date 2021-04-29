@@ -1,0 +1,954 @@
+
+# QuizBot Results
+
+---------------------------------
+
+Start time: 2021-04-24 19:00:01.703703
+
+End time: 2021-04-24 19:27:59.764841
+
+Quiz: Les records d'animaux (ID 402738)
+
+Session: 17766660
+
+---------------------------------
+
+## Questions
+
+### Question 1/50
+
+`L'animal le plus rapide ?`
+
+Correct answer: `Guépard`
+
+| Username                               | Answer   | Time            | Points awarded  | 
+| -------------------------------------- | -------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Guépard  | 0:00:01.926504  | 952             | 
+| Cathy#7851                             | Guépard  | 0:00:03.002149  | 925             | 
+| KimieCJduGarric#7403                   | Guépard  | 0:00:05.457621  | 864             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Guépard  | 0:00:08.531410  | 787             | 
+| Alma CJ de Bordeaux#1871               | Guépard  | 0:00:08.857201  | 779             | 
+| Anaël CJ de Cluses#7963                | Guépard  | 0:00:12.675418  | 683             | 
+| Marinette CJ de Luynes#4290            | N/A      | N/A             | N/A             | 
+| Louve#1683                             | N/A      | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A      | N/A             | N/A             | 
+
+### Question 2/50
+
+`A quelle vitesse va un guépard ?`
+
+Correct answer: `110 km/h`
+
+| Username                               | Answer    | Time            | Points awarded  | 
+| -------------------------------------- | --------- | --------------- | --------------- | 
+| Anaël CJ de Cluses#7963                | 110 km/h  | 0:00:03.253830  | 919             | 
+| KimieCJduGarric#7403                   | 110 km/h  | 0:00:03.851184  | 904             | 
+| Alma CJ de Bordeaux#1871               | 110 km/h  | 0:00:06.591006  | 835             | 
+| Ewen du CJ de Chateaubourg#7758        | 90 km/h   | 0:00:02.504965  | 0               | 
+| Cathy#7851                             | 120 km/h  | 0:00:07.111188  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | N/A       | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A       | N/A             | N/A             | 
+| Louve#1683                             | N/A       | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A       | N/A             | N/A             | 
+
+### Question 3/50
+
+`Quelle animal est le plus long (en mètres) ?`
+
+Correct answer: `Ver lacet`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Anopla  | 0:00:05.826814  | 0               | 
+| Cathy#7851                             | Anopla  | 0:00:11.496731  | 0               | 
+| KimieCJduGarric#7403                   | Anopla  | 0:00:09.300319  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | N/A     | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | Lineus  | 0:00:11.061586  | 0               | 
+| Anaël CJ de Cluses#7963                | Anopla  | 0:00:08.349664  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A     | N/A             | N/A             | 
+| Louve#1683                             | N/A     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 4/50
+
+`Quelle taille peut faire le ver lacet ?`
+
+Correct answer: `30 m`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 50 m    | 0:00:01.972406  | 0               | 
+| Cathy#7851                             | 40 m    | 0:00:08.370160  | 0               | 
+| KimieCJduGarric#7403                   | 40 m    | 0:00:05.156933  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 50 m    | 0:00:14.563240  | 0               | 
+| Alma CJ de Bordeaux#1871               | 50 m    | 0:00:14.327699  | 0               | 
+| Anaël CJ de Cluses#7963                | 50 m    | 0:00:04.084580  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A     | N/A             | N/A             | 
+| Louve#1683                             | N/A     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 5/50
+
+`Quelle animal est le plus mortel ? (Entraîne le plus de mort chez les humains chaque année)`
+
+Correct answer: `Moustique`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Moustique  | 0:00:03.272132  | 918             | 
+| Anaël CJ de Cluses#7963                | Moustique  | 0:00:07.401469  | 815             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Moustique  | 0:00:11.233169  | 719             | 
+| KimieCJduGarric#7403                   | Moustique  | 0:00:12.781097  | 680             | 
+| Alma CJ de Bordeaux#1871               | Moustique  | 0:00:16.005108  | 600             | 
+| Cathy#7851                             | Requin     | 0:00:12.799896  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A        | N/A             | N/A             | 
+| Louve#1683                             | N/A        | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A        | N/A             | N/A             | 
+
+### Question 6/50
+
+`Combien de morts sont attribuées aux moustiques chaque année ?`
+
+Correct answer: `750 000`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 750 000    | 0:00:02.826865  | 929             | 
+| Cathy#7851                             | 750 000    | 0:00:04.090953  | 898             | 
+| Alma CJ de Bordeaux#1871               | 750 000    | 0:00:07.721656  | 807             | 
+| KimieCJduGarric#7403                   | 1 000 000  | 0:00:03.161874  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 1 000 000  | 0:00:07.457178  | 0               | 
+| Anaël CJ de Cluses#7963                | 1 500 000  | 0:00:04.570383  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A        | N/A             | N/A             | 
+| Louve#1683                             | N/A        | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A        | N/A             | N/A             | 
+
+### Question 7/50
+
+`Quel animal a le plus gros cerveau ?`
+
+Correct answer: `Cachalot`
+
+| Username                               | Answer         | Time            | Points awarded  | 
+| -------------------------------------- | -------------- | --------------- | --------------- | 
+| Alma CJ de Bordeaux#1871               | Cachalot       | 0:00:03.705541  | 907             | 
+| Ewen du CJ de Chateaubourg#7758        | Cachalot       | 0:00:07.570977  | 811             | 
+| Cathy#7851                             | N/A            | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | Baleine bleue  | 0:00:07.453149  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Baleine bleue  | 0:00:10.953535  | 0               | 
+| Anaël CJ de Cluses#7963                | Elephant       | 0:00:09.096708  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A            | N/A             | N/A             | 
+| Louve#1683                             | N/A            | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A            | N/A             | N/A             | 
+
+### Question 8/50
+
+`Quelle taille fait le cerveau du cachalot ?`
+
+Correct answer: `8 kg`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Alma CJ de Bordeaux#1871               | 8 kg    | 0:00:10.243688  | 744             | 
+| Ewen du CJ de Chateaubourg#7758        | 16 kg   | 0:00:02.678358  | 0               | 
+| Cathy#7851                             | N/A     | N/A             | N/A             | 
+| KimieCJduGarric#7403                   | 16 kg   | 0:00:04.085403  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 32 kg   | 0:00:07.478004  | 0               | 
+| Anaël CJ de Cluses#7963                | 32 kg   | 0:00:04.321252  | 0               | 
+| Marinette CJ de Luynes#4290            | N/A     | N/A             | N/A             | 
+| Louve#1683                             | N/A     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 9/50
+
+`Quel animal est le plus fort ? (par rapport à sa taille)`
+
+Correct answer: `Scarabée onthophagus`
+
+| Username                               | Answer                | Time            | Points awarded  | 
+| -------------------------------------- | --------------------- | --------------- | --------------- | 
+| KimieCJduGarric#7403                   | Scarabée onthophagus  | 0:00:06.391645  | 840             | 
+| Ewen du CJ de Chateaubourg#7758        | Scarabée onthophagus  | 0:00:07.324925  | 817             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Scarabée onthophagus  | 0:00:09.372877  | 766             | 
+| Cathy#7851                             | Scarabée onthophagus  | 0:00:13.333805  | 667             | 
+| Alma CJ de Bordeaux#1871               | Scarabée onthophagus  | 0:00:13.317544  | 667             | 
+| Anaël CJ de Cluses#7963                | N/A                   | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                   | N/A             | N/A             | 
+| Louve#1683                             | N/A                   | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                   | N/A             | N/A             | 
+
+### Question 10/50
+
+`Combien de fois le scarabée onthophagus peut-il porter son poids ?`
+
+Correct answer: `1,141`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 4,729   | 0:00:06.838319  | 0               | 
+| Cathy#7851                             | 6,832   | 0:00:07.918441  | 0               | 
+| KimieCJduGarric#7403                   | 6,832   | 0:00:03.564580  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 2,354   | 0:00:07.200083  | 0               | 
+| Alma CJ de Bordeaux#1871               | 4,729   | 0:00:11.138505  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A     | N/A             | N/A             | 
+| Louve#1683                             | N/A     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 11/50
+
+`Quel est l'animal est le plus lourd ?`
+
+Correct answer: `Baleine bleue`
+
+| Username                               | Answer         | Time            | Points awarded  | 
+| -------------------------------------- | -------------- | --------------- | --------------- | 
+| Cathy#7851                             | Baleine bleue  | 0:00:04.818887  | 880             | 
+| Ewen du CJ de Chateaubourg#7758        | Rorqual        | 0:00:03.505417  | 0               | 
+| KimieCJduGarric#7403                   | Elephant       | 0:00:09.350432  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | N/A            | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | Elephant       | 0:00:11.814848  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A            | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A            | N/A             | N/A             | 
+| Louve#1683                             | N/A            | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A            | N/A             | N/A             | 
+
+### Question 12/50
+
+`Quel poids fait la baleine bleue ?`
+
+Correct answer: `150 tonnes`
+
+| Username                               | Answer      | Time            | Points awarded  | 
+| -------------------------------------- | ----------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 150 tonnes  | 0:00:02.578643  | 936             | 
+| KimieCJduGarric#7403                   | 150 tonnes  | 0:00:04.248015  | 894             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 150 tonnes  | 0:00:07.543337  | 811             | 
+| Cathy#7851                             | 150 tonnes  | 0:00:12.501074  | 687             | 
+| Alma CJ de Bordeaux#1871               | 350 tonnes  | 0:00:07.036105  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A         | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A         | N/A             | N/A             | 
+| Louve#1683                             | N/A         | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A         | N/A             | N/A             | 
+
+### Question 13/50
+
+`Quel animal marin est le plus rapide ?`
+
+Correct answer: `Espadon-voilier`
+
+| Username                               | Answer           | Time            | Points awarded  | 
+| -------------------------------------- | ---------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Espadon-voilier  | 0:00:03.939198  | 902             | 
+| KimieCJduGarric#7403                   | Espadon-voilier  | 0:00:03.960242  | 901             | 
+| Cathy#7851                             | Espadon-voilier  | 0:00:05.768286  | 856             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Dauphin          | 0:00:13.177374  | 0               | 
+| Alma CJ de Bordeaux#1871               | Marlin           | 0:00:07.300668  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A              | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A              | N/A             | N/A             | 
+| Louve#1683                             | N/A              | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A              | N/A             | N/A             | 
+
+### Question 14/50
+
+`Quel vitesse peut atteindre l'espadon-voilier ?`
+
+Correct answer: `110 km/h`
+
+| Username                               | Answer    | Time            | Points awarded  | 
+| -------------------------------------- | --------- | --------------- | --------------- | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 110 km/h  | 0:00:07.191000  | 820             | 
+| Ewen du CJ de Chateaubourg#7758        | 90 km/h   | 0:00:02.856576  | 0               | 
+| Cathy#7851                             | 150 km/h  | 0:00:05.301480  | 0               | 
+| KimieCJduGarric#7403                   | 150 km/h  | 0:00:04.053200  | 0               | 
+| Alma CJ de Bordeaux#1871               | 170 km/h  | 0:00:04.092810  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A       | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A       | N/A             | N/A             | 
+| Louve#1683                             | N/A       | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A       | N/A             | N/A             | 
+
+### Question 15/50
+
+`Quel animal aérien est le plus rapide ? (en piqué)`
+
+Correct answer: `Faucon pélerin`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| KimieCJduGarric#7403                   | Faucon pélerin     | 0:00:05.669615  | 858             | 
+| Ewen du CJ de Chateaubourg#7758        | Aigle royal        | 0:00:04.304844  | 0               | 
+| Cathy#7851                             | Faucon crecerelle  | 0:00:10.713052  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Faucon crecerelle  | 0:00:17.937480  | 0               | 
+| Alma CJ de Bordeaux#1871               | Buse variable      | 0:00:10.049793  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                | N/A             | N/A             | 
+| Louve#1683                             | N/A                | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                | N/A             | N/A             | 
+
+### Question 16/50
+
+`Quel vitesse peut atteindre le faucon pélerin ?`
+
+Correct answer: `322km/h`
+
+| Username                               | Answer    | Time            | Points awarded  | 
+| -------------------------------------- | --------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 366 km/h  | 0:00:06.682040  | 0               | 
+| Cathy#7851                             | 366 km/h  | 0:00:11.394357  | 0               | 
+| KimieCJduGarric#7403                   | 366 km/h  | 0:00:04.005496  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 366 km/h  | 0:00:13.404497  | 0               | 
+| Alma CJ de Bordeaux#1871               | 366 km/h  | 0:00:11.539938  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A       | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | 411 km/h  | 0:00:11.941267  | 0               | 
+| Louve#1683                             | N/A       | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A       | N/A             | N/A             | 
+
+### Question 17/50
+
+`Quel animal saute le plus loin ?`
+
+Correct answer: `Gazelle Springbok`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Alma CJ de Bordeaux#1871               | Gazelle Springbok  | 0:00:04.778177  | 881             | 
+| KimieCJduGarric#7403                   | Gazelle Springbok  | 0:00:05.682530  | 858             | 
+| Ewen du CJ de Chateaubourg#7758        | Gazelle Springbok  | 0:00:06.445213  | 839             | 
+| Cathy#7851                             | Gazelle Springbok  | 0:00:09.953522  | 751             | 
+| Marinette CJ de Luynes#4290            | Gazelle Springbok  | 0:00:11.580842  | 710             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Gazelle Springbok  | 0:00:18.946361  | 526             | 
+| Anaël CJ de Cluses#7963                | N/A                | N/A             | N/A             | 
+| Louve#1683                             | N/A                | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                | N/A             | N/A             | 
+
+### Question 18/50
+
+`Combien de mètres peut parcourir une gazelle springbok pendant un saut ?`
+
+Correct answer: `15 m`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 9 m     | 0:00:03.908578  | 0               | 
+| Cathy#7851                             | 9 m     | 0:00:05.600358  | 0               | 
+| KimieCJduGarric#7403                   | 9 m     | 0:00:02.610647  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 12 m    | 0:00:08.802171  | 0               | 
+| Alma CJ de Bordeaux#1871               | 6 m     | 0:00:06.806520  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | 12 m    | 0:00:07.512688  | 0               | 
+| Louve#1683                             | N/A     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 19/50
+
+`Quel animal parcourt la plus grande distance durant sa vie ?`
+
+Correct answer: `Sterne artique`
+
+| Username                               | Answer          | Time            | Points awarded  | 
+| -------------------------------------- | --------------- | --------------- | --------------- | 
+| Cathy#7851                             | Sterne artique  | 0:00:10.305647  | 742             | 
+| Ewen du CJ de Chateaubourg#7758        | Fourmi          | 0:00:09.912614  | 0               | 
+| KimieCJduGarric#7403                   | Pigeon          | 0:00:05.631429  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Pigeon          | 0:00:12.764822  | 0               | 
+| Alma CJ de Bordeaux#1871               | Fourmi          | 0:00:08.392378  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A             | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Pigeon          | 0:00:16.781616  | 0               | 
+| Louve#1683                             | N/A             | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A             | N/A             | N/A             | 
+
+### Question 20/50
+
+`Quelle distance fait une sterne artique durant sa vie ? (en nombre de tours du monde)`
+
+Correct answer: `60`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 60      | 0:00:08.160090  | 796             | 
+| Alma CJ de Bordeaux#1871               | 60      | 0:00:14.329527  | 642             | 
+| Ewen du CJ de Chateaubourg#7758        | 40      | 0:00:05.233458  | 0               | 
+| Cathy#7851                             | 40      | 0:00:14.196365  | 0               | 
+| KimieCJduGarric#7403                   | 40      | 0:00:14.208241  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | 40      | 0:00:16.325573  | 0               | 
+| Louve#1683                             | 40      | 0:00:16.941487  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 21/50
+
+`Quel animal a la piqure la plus douloureuse ?`
+
+Correct answer: `Paraponera clavata`
+
+| Username                               | Answer                  | Time            | Points awarded  | 
+| -------------------------------------- | ----------------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Scorpion rôdeur mortel  | 0:00:06.496992  | 0               | 
+| Cathy#7851                             | Scorpion rôdeur mortel  | 0:00:13.489930  | 0               | 
+| KimieCJduGarric#7403                   | Scorpion rôdeur mortel  | 0:00:05.690447  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Scorpion rôdeur mortel  | 0:00:12.648582  | 0               | 
+| Alma CJ de Bordeaux#1871               | Frelon-géant            | 0:00:06.214017  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Scorpion rôdeur mortel  | 0:00:10.366468  | 0               | 
+| Louve#1683                             | Scorpion rôdeur mortel  | 0:00:13.164241  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                     | N/A             | N/A             | 
+
+### Question 22/50
+
+`Quel est l'autre nom de la Paraponera clavata ?`
+
+Correct answer: `Fourmi balle de fusil`
+
+| Username                               | Answer                 | Time            | Points awarded  | 
+| -------------------------------------- | ---------------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Fourmi balle de fusil  | 0:00:02.868317  | 928             | 
+| Cathy#7851                             | Fourmi balle de fusil  | 0:00:03.353436  | 916             | 
+| KimieCJduGarric#7403                   | Fourmi balle de fusil  | 0:00:10.407216  | 740             | 
+| Marinette CJ de Luynes#4290            | Fourmi balle de fusil  | 0:00:12.009223  | 700             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Fourmi balle de fusil  | 0:00:12.883986  | 678             | 
+| Louve#1683                             | Fourmi balle de fusil  | 0:00:14.551403  | 636             | 
+| Alma CJ de Bordeaux#1871               | Fourmi chalumeau       | 0:00:10.424087  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                    | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                    | N/A             | N/A             | 
+
+### Question 23/50
+
+`Quel animal a les plus gros yeux ?`
+
+Correct answer: `Calamar colossal`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| Alma CJ de Bordeaux#1871               | Calamar colossal  | 0:00:04.174319  | 896             | 
+| Ewen du CJ de Chateaubourg#7758        | Calamar colossal  | 0:00:05.425404  | 864             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Calamar colossal  | 0:00:10.286986  | 743             | 
+| KimieCJduGarric#7403                   | Calamar colossal  | 0:00:11.087833  | 723             | 
+| Marinette CJ de Luynes#4290            | Calamar colossal  | 0:00:13.729354  | 657             | 
+| Louve#1683                             | Calamar colossal  | 0:00:18.869052  | 528             | 
+| Cathy#7851                             | Grand cachalot    | 0:00:09.636589  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A               | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A               | N/A             | N/A             | 
+
+### Question 24/50
+
+`Quelle taille fait un oeil de calamar colossal ?`
+
+Correct answer: `14 m`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 50 cm   | 0:00:03.028822  | 0               | 
+| Cathy#7851                             | 50 cm   | 0:00:11.719024  | 0               | 
+| KimieCJduGarric#7403                   | 50 cm   | 0:00:11.319761  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 50 cm   | 0:00:14.424248  | 0               | 
+| Alma CJ de Bordeaux#1871               | 2 m     | 0:00:08.895484  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | 2 m     | 0:00:16.577551  | 0               | 
+| Louve#1683                             | 50 cm   | 0:00:13.503926  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 25/50
+
+`Quel animal vit le plus longtemps ?`
+
+Correct answer: `Turritopsis nutricula`
+
+| Username                               | Answer                 | Time            | Points awarded  | 
+| -------------------------------------- | ---------------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Turritopsis nutricula  | 0:00:06.238397  | 844             | 
+| Alma CJ de Bordeaux#1871               | Turritopsis nutricula  | 0:00:06.911332  | 827             | 
+| KimieCJduGarric#7403                   | Turritopsis nutricula  | 0:00:07.769840  | 806             | 
+| Cathy#7851                             | Turritopsis nutricula  | 0:00:08.953381  | 776             | 
+| Marinette CJ de Luynes#4290            | Turritopsis nutricula  | 0:00:11.376829  | 716             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Turritopsis nutricula  | 0:00:12.747649  | 681             | 
+| Louve#1683                             | Turritopsis nutricula  | 0:00:18.466303  | 538             | 
+| Anaël CJ de Cluses#7963                | N/A                    | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                    | N/A             | N/A             | 
+
+### Question 26/50
+
+`Quelle est l'espérance de vie de la Turritopsis nutricula ?`
+
+Correct answer: `Immortelle`
+
+| Username                               | Answer    | Time            | Points awarded  | 
+| -------------------------------------- | --------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 1000 ans  | 0:00:04.563896  | 0               | 
+| Cathy#7851                             | 750 ans   | 0:00:08.515083  | 0               | 
+| KimieCJduGarric#7403                   | 3000 ans  | 0:00:04.966943  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 750 ans   | 0:00:14.450579  | 0               | 
+| Alma CJ de Bordeaux#1871               | 750 ans   | 0:00:06.685172  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A       | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | 1000 ans  | 0:00:07.321184  | 0               | 
+| Louve#1683                             | 750 ans   | 0:00:05.430749  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A       | N/A             | N/A             | 
+
+### Question 27/50
+
+`Quel animal peut voler le plus longtemps sans se poser ?`
+
+Correct answer: `Martinet à ventre blanc`
+
+| Username                               | Answer                   | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------ | --------------- | --------------- | 
+| Alma CJ de Bordeaux#1871               | Martinet à ventre blanc  | 0:00:10.078955  | 748             | 
+| Louve#1683                             | Martinet à ventre blanc  | 0:00:16.439102  | 589             | 
+| Ewen du CJ de Chateaubourg#7758        | Colibri                  | 0:00:02.233060  | 0               | 
+| Cathy#7851                             | Vautour de Rüppel        | 0:00:13.484602  | 0               | 
+| KimieCJduGarric#7403                   | Colibri                  | 0:00:06.653700  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Vautour de Rüppel        | 0:00:12.313177  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                      | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Vautour de Rüppel        | 0:00:13.652997  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                      | N/A             | N/A             | 
+
+### Question 28/50
+
+`Combien de temps peut voler un martinet à ventre blanc sans se poser ?`
+
+Correct answer: `6 mois`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Cathy#7851                             | 6 mois             | 0:00:04.562014  | 886             | 
+| Louve#1683                             | 6 mois             | 0:00:11.263062  | 718             | 
+| Ewen du CJ de Chateaubourg#7758        | autant qu'il veut  | 0:00:03.664953  | 0               | 
+| KimieCJduGarric#7403                   | autant qu'il veut  | 0:00:04.801059  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | autant qu'il veut  | 0:00:09.599570  | 0               | 
+| Alma CJ de Bordeaux#1871               | 1 an               | 0:00:06.334280  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | 1 an               | 0:00:08.626673  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                | N/A             | N/A             | 
+
+### Question 29/50
+
+`Quel animal est le plus venimeux ?`
+
+Correct answer: `Chironex fleckeri`
+
+| Username                               | Answer       | Time            | Points awarded  | 
+| -------------------------------------- | ------------ | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Veuve noire  | 0:00:04.911698  | 0               | 
+| Cathy#7851                             | Veuve noire  | 0:00:09.966973  | 0               | 
+| KimieCJduGarric#7403                   | Veuve noire  | 0:00:03.530086  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Veuve noire  | 0:00:13.273748  | 0               | 
+| Alma CJ de Bordeaux#1871               | Veuve noire  | 0:00:06.569361  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A          | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Veuve noire  | 0:00:11.728371  | 0               | 
+| Louve#1683                             | Veuve noire  | 0:00:12.887429  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A          | N/A             | N/A             | 
+
+### Question 30/50
+
+`Quel est l'autre nom de la Chironex fleckeri ?`
+
+Correct answer: `La guêpe des mers`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Alma CJ de Bordeaux#1871               | La guêpe des mers  | 0:00:13.693906  | 658             | 
+| Ewen du CJ de Chateaubourg#7758        | Le cobra des mers  | 0:00:05.011007  | 0               | 
+| Cathy#7851                             | Le cobra des mers  | 0:00:06.295030  | 0               | 
+| KimieCJduGarric#7403                   | Le cobra des mers  | 0:00:06.312769  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Le cobra des mers  | 0:00:09.613268  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Le cobra des mers  | 0:00:09.031623  | 0               | 
+| Louve#1683                             | Le cobra des mers  | 0:00:05.904219  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                | N/A             | N/A             | 
+
+### Question 31/50
+
+`Quel animal est le plus bruyant ?`
+
+Correct answer: `Grand cachalot`
+
+| Username                               | Answer             | Time            | Points awarded  | 
+| -------------------------------------- | ------------------ | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Cigale             | 0:00:05.024300  | 0               | 
+| Cathy#7851                             | Cigale             | 0:00:06.730287  | 0               | 
+| KimieCJduGarric#7403                   | Cigale             | 0:00:05.056198  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | N/A                | N/A             | N/A             | 
+| Alma CJ de Bordeaux#1871               | Cigale             | 0:00:03.819572  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Cigale             | 0:00:12.619576  | 0               | 
+| Louve#1683                             | Crevette-pistolet  | 0:00:03.806913  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                | N/A             | N/A             | 
+
+### Question 32/50
+
+`Combien de décibels (dB) fait le grand cachalot ?`
+
+Correct answer: `230 dB`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 230 dB  | 0:00:15.027695  | 624             | 
+| Ewen du CJ de Chateaubourg#7758        | 200 dB  | 0:00:02.664051  | 0               | 
+| Cathy#7851                             | 200 dB  | 0:00:05.122435  | 0               | 
+| KimieCJduGarric#7403                   | 200 dB  | 0:00:03.565622  | 0               | 
+| Alma CJ de Bordeaux#1871               | 170 dB  | 0:00:06.622070  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | 200 dB  | 0:00:03.213800  | 0               | 
+| Louve#1683                             | 200 dB  | 0:00:11.989545  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 33/50
+
+`Quel animal a la plus longue gestation ?`
+
+Correct answer: `Requin lézard`
+
+| Username                               | Answer        | Time            | Points awarded  | 
+| -------------------------------------- | ------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Elephant      | 0:00:06.144858  | 0               | 
+| Cathy#7851                             | Elephant      | 0:00:08.432586  | 0               | 
+| KimieCJduGarric#7403                   | Elephant      | 0:00:05.445361  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Elephant      | 0:00:05.044835  | 0               | 
+| Alma CJ de Bordeaux#1871               | Requin blanc  | 0:00:06.711143  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A           | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | Elephant      | 0:00:05.975666  | 0               | 
+| Louve#1683                             | Elephant      | 0:00:17.952122  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A           | N/A             | N/A             | 
+
+### Question 34/50
+
+`Combien de mois dure une gestation chez les requins lézard ?`
+
+Correct answer: `42 mois`
+
+| Username                               | Answer   | Time            | Points awarded  | 
+| -------------------------------------- | -------- | --------------- | --------------- | 
+| Louve#1683                             | 42 mois  | 0:00:10.764631  | 731             | 
+| Ewen du CJ de Chateaubourg#7758        | 36 mois  | 0:00:04.871951  | 0               | 
+| Cathy#7851                             | 32 mois  | 0:00:12.413248  | 0               | 
+| KimieCJduGarric#7403                   | 32 mois  | 0:00:06.163151  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 28 mois  | 0:00:08.880235  | 0               | 
+| Alma CJ de Bordeaux#1871               | 28 mois  | 0:00:06.660004  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A      | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | 36 mois  | 0:00:04.204830  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A      | N/A             | N/A             | 
+
+### Question 35/50
+
+`Quel animal a la plus grosse force de morsure ?`
+
+Correct answer: `Crocodile`
+
+| Username                               | Answer     | Time            | Points awarded  | 
+| -------------------------------------- | ---------- | --------------- | --------------- | 
+| Alma CJ de Bordeaux#1871               | Crocodile  | 0:00:05.696414  | 858             | 
+| Cathy#7851                             | Crocodile  | 0:00:08.979493  | 776             | 
+| KimieCJduGarric#7403                   | Crocodile  | 0:00:08.946621  | 776             | 
+| Marinette CJ de Luynes#4290            | Crocodile  | 0:00:09.032630  | 774             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Crocodile  | 0:00:09.834574  | 754             | 
+| Louve#1683                             | Crocodile  | 0:00:14.493307  | 638             | 
+| Ewen du CJ de Chateaubourg#7758        | Hyène      | 0:00:01.640406  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A        | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A        | N/A             | N/A             | 
+
+### Question 36/50
+
+`Quelle puissance développe un crocodile lors d'une morsure ? (en tonne par cm carré)`
+
+Correct answer: `2`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 3       | 0:00:02.356364  | 0               | 
+| Cathy#7851                             | 5       | 0:00:07.180719  | 0               | 
+| KimieCJduGarric#7403                   | 3       | 0:00:03.129573  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 4       | 0:00:07.987739  | 0               | 
+| Alma CJ de Bordeaux#1871               | 4       | 0:00:05.333616  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A     | N/A             | N/A             | 
+| Louve#1683                             | 3       | 0:00:13.624622  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 37/50
+
+`Quel animal a le plus de dents ?`
+
+Correct answer: `Requin requiem de sable`
+
+| Username                               | Answer                   | Time            | Points awarded  | 
+| -------------------------------------- | ------------------------ | --------------- | --------------- | 
+| Louve#1683                             | Requin requiem de sable  | 0:00:14.029896  | 649             | 
+| Ewen du CJ de Chateaubourg#7758        | Hyène                    | 0:00:06.374140  | 0               | 
+| Cathy#7851                             | Requin blanc             | 0:00:06.711344  | 0               | 
+| KimieCJduGarric#7403                   | Requin blanc             | 0:00:04.716848  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Requin blanc             | 0:00:11.736243  | 0               | 
+| Alma CJ de Bordeaux#1871               | Hyène                    | 0:00:08.172158  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                      | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                      | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                      | N/A             | N/A             | 
+
+### Question 38/50
+
+`Combien de dents a un requin requiem de sable ?`
+
+Correct answer: `3000`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Louve#1683                             | 3000    | 0:00:10.132209  | 747             | 
+| Ewen du CJ de Chateaubourg#7758        | 500     | 0:00:05.734429  | 0               | 
+| Cathy#7851                             | 1000    | 0:00:15.164678  | 0               | 
+| KimieCJduGarric#7403                   | 500     | 0:00:03.676345  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 2000    | 0:00:14.061866  | 0               | 
+| Alma CJ de Bordeaux#1871               | 2000    | 0:00:06.306798  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 39/50
+
+`Quel animal est le plus lent ?`
+
+Correct answer: `Escargot`
+
+| Username                               | Answer            | Time            | Points awarded  | 
+| -------------------------------------- | ----------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Escargot          | 0:00:05.168678  | 871             | 
+| Alma CJ de Bordeaux#1871               | Escargot          | 0:00:09.804919  | 755             | 
+| Cathy#7851                             | Escargot          | 0:00:12.693619  | 683             | 
+| KimieCJduGarric#7403                   | Limace horticole  | 0:00:09.700396  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Limace horticole  | 0:00:12.067167  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A               | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A               | N/A             | N/A             | 
+| Louve#1683                             | Limace horticole  | 0:00:14.908084  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A               | N/A             | N/A             | 
+
+### Question 40/50
+
+`Quelle vitesse a l'escargot lorsqu'il se déplace ? (en m/h)`
+
+Correct answer: `5`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 2       | 0:00:03.960493  | 0               | 
+| Cathy#7851                             | 2       | 0:00:05.414402  | 0               | 
+| KimieCJduGarric#7403                   | 2       | 0:00:04.831594  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 1       | 0:00:08.924693  | 0               | 
+| Alma CJ de Bordeaux#1871               | 2       | 0:00:06.570549  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A     | N/A             | N/A             | 
+| Louve#1683                             | 1       | 0:00:09.300937  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 41/50
+
+`Quel est le plus gros oiseau ? (selon son envergure)`
+
+Correct answer: `Albatros hurleur`
+
+| Username                               | Answer              | Time            | Points awarded  | 
+| -------------------------------------- | ------------------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | Albatros hurleur    | 0:00:02.388100  | 940             | 
+| KimieCJduGarric#7403                   | Albatros hurleur    | 0:00:04.655941  | 884             | 
+| Louve#1683                             | Albatros hurleur    | 0:00:07.265879  | 818             | 
+| Cathy#7851                             | Albatros hurleur    | 0:00:10.676340  | 733             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Albatros hurleur    | 0:00:13.813994  | 655             | 
+| Alma CJ de Bordeaux#1871               | Autruche africaine  | 0:00:04.171621  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                 | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                 | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                 | N/A             | N/A             | 
+
+### Question 42/50
+
+`Quelle envergure a un albatros hurleur ?`
+
+Correct answer: `3,70`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Louve#1683                             | 3,70    | 0:00:02.161373  | 946             | 
+| KimieCJduGarric#7403                   | 3,70    | 0:00:04.814330  | 880             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 3,70    | 0:00:06.102715  | 847             | 
+| Cathy#7851                             | 3,70    | 0:00:06.547975  | 836             | 
+| Ewen du CJ de Chateaubourg#7758        | 3,20    | 0:00:03.414381  | 0               | 
+| Alma CJ de Bordeaux#1871               | 3,20    | 0:00:09.027388  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 43/50
+
+`Quelle est la plus grande espèce d'arachnide ?`
+
+Correct answer: `Mygale Goliath`
+
+| Username                               | Answer          | Time            | Points awarded  | 
+| -------------------------------------- | --------------- | --------------- | --------------- | 
+| Louve#1683                             | Mygale Goliath  | 0:00:06.803803  | 830             | 
+| Alma CJ de Bordeaux#1871               | Mygale Goliath  | 0:00:06.868415  | 828             | 
+| KimieCJduGarric#7403                   | Mygale Goliath  | 0:00:07.974300  | 801             | 
+| Cathy#7851                             | Mygale Goliath  | 0:00:12.795398  | 680             | 
+| Ewen du CJ de Chateaubourg#7758        | Crabe araignée  | 0:00:06.604024  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Crabe araignée  | 0:00:14.308876  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A             | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A             | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A             | N/A             | N/A             | 
+
+### Question 44/50
+
+`Quelle est la taille d'une mygale goliath ?`
+
+Correct answer: `30 cm`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Louve#1683                             | 30 cm   | 0:00:02.071518  | 948             | 
+| Cathy#7851                             | 30 cm   | 0:00:05.890462  | 853             | 
+| Ewen du CJ de Chateaubourg#7758        | 35 cm   | 0:00:06.214319  | 0               | 
+| KimieCJduGarric#7403                   | 25 cm   | 0:00:04.591942  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 35 cm   | 0:00:07.907314  | 0               | 
+| Alma CJ de Bordeaux#1871               | 35 cm   | 0:00:03.144657  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A     | N/A             | N/A             | 
+
+### Question 45/50
+
+`Quelle est la plus grande espèce de papillon ?`
+
+Correct answer: `Coscinocera hercules`
+
+| Username                               | Answer                | Time            | Points awarded  | 
+| -------------------------------------- | --------------------- | --------------- | --------------- | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Coscinocera hercules  | 0:00:10.847631  | 729             | 
+| Cathy#7851                             | Coscinocera hercules  | 0:00:11.749978  | 706             | 
+| Ewen du CJ de Chateaubourg#7758        | Atlas                 | 0:00:03.440279  | 0               | 
+| KimieCJduGarric#7403                   | Atlas                 | 0:00:05.557604  | 0               | 
+| Alma CJ de Bordeaux#1871               | Attacus               | 0:00:06.348487  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A                   | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A                   | N/A             | N/A             | 
+| Louve#1683                             | Atlas                 | 0:00:06.846831  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A                   | N/A             | N/A             | 
+
+### Question 46/50
+
+`Quelle taille fait un Coscinocera hercules ?`
+
+Correct answer: `20 à 30 cm`
+
+| Username                               | Answer      | Time            | Points awarded  | 
+| -------------------------------------- | ----------- | --------------- | --------------- | 
+| Alma CJ de Bordeaux#1871               | 20 à 30 cm  | 0:00:05.905957  | 852             | 
+| Ewen du CJ de Chateaubourg#7758        | 30 à 40 cm  | 0:00:03.788280  | 0               | 
+| Cathy#7851                             | 40 à 50 cm  | 0:00:09.183265  | 0               | 
+| KimieCJduGarric#7403                   | 30 à 40 cm  | 0:00:03.254385  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 30 à 40 cm  | 0:00:09.220106  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A         | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A         | N/A             | N/A             | 
+| Louve#1683                             | 30 à 40 cm  | 0:00:02.226993  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A         | N/A             | N/A             | 
+
+### Question 47/50
+
+`Quelle est la race du chien ayant le record de monde de taille ? (au garrot)`
+
+Correct answer: `Dogue allemand`
+
+| Username                               | Answer          | Time            | Points awarded  | 
+| -------------------------------------- | --------------- | --------------- | --------------- | 
+| Cathy#7851                             | Dogue allemand  | 0:00:04.374343  | 891             | 
+| KimieCJduGarric#7403                   | Dogue allemand  | 0:00:07.150544  | 821             | 
+| Ewen du CJ de Chateaubourg#7758        | Dogue allemand  | 0:00:08.122950  | 797             | 
+| Louve#1683                             | Dogue allemand  | 0:00:08.181526  | 795             | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Dogue allemand  | 0:00:14.299083  | 643             | 
+| Alma CJ de Bordeaux#1871               | Saint-Bernard   | 0:00:13.954854  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A             | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A             | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A             | N/A             | N/A             | 
+
+### Question 48/50
+
+`Quelle taille fait ce chien au garrot?`
+
+Correct answer: `1,085 m`
+
+| Username                               | Answer   | Time            | Points awarded  | 
+| -------------------------------------- | -------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 1,285 m  | 0:00:05.041978  | 0               | 
+| Cathy#7851                             | 1,285 m  | 0:00:11.742384  | 0               | 
+| KimieCJduGarric#7403                   | 1,335 m  | 0:00:05.061135  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 1,285 m  | 0:00:09.153856  | 0               | 
+| Alma CJ de Bordeaux#1871               | 1,285 m  | 0:00:06.052870  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A      | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A      | N/A             | N/A             | 
+| Louve#1683                             | 1,135 m  | 0:00:14.337381  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A      | N/A             | N/A             | 
+
+### Question 49/50
+
+`Quelle est la race du chat ayant le record de monde de taille ?`
+
+Correct answer: `Maine Coon`
+
+| Username                               | Answer      | Time            | Points awarded  | 
+| -------------------------------------- | ----------- | --------------- | --------------- | 
+| Cathy#7851                             | Maine Coon  | 0:00:04.877988  | 878             | 
+| Ewen du CJ de Chateaubourg#7758        | Savannah    | 0:00:03.691288  | 0               | 
+| KimieCJduGarric#7403                   | Savannah    | 0:00:03.490045  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | Ragdoll     | 0:00:10.198950  | 0               | 
+| Alma CJ de Bordeaux#1871               | Savannah    | 0:00:09.420151  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A         | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A         | N/A             | N/A             | 
+| Louve#1683                             | Savannah    | 0:00:09.240516  | 0               | 
+| Margau CJ de Vaux-le-Pénil#1974        | N/A         | N/A             | N/A             | 
+
+### Question 50/50
+
+`Quelle taille fait ce chat ?`
+
+Correct answer: `1,20 m`
+
+| Username                               | Answer  | Time            | Points awarded  | 
+| -------------------------------------- | ------- | --------------- | --------------- | 
+| Ewen du CJ de Chateaubourg#7758        | 1,20 m  | 0:00:02.255790  | 944             | 
+| Louve#1683                             | 1,20 m  | 0:00:06.661594  | 833             | 
+| Alma CJ de Bordeaux#1871               | 1,20 m  | 0:00:08.241308  | 794             | 
+| Cathy#7851                             | 1,00 m  | 0:00:08.376151  | 0               | 
+| KimieCJduGarric#7403                   | 1,00 m  | 0:00:03.872369  | 0               | 
+| Cécile Encadrante CJ Luynes (37)#4741  | 1,40 m  | 0:00:07.403188  | 0               | 
+| Anaël CJ de Cluses#7963                | N/A     | N/A             | N/A             | 
+| Marinette CJ de Luynes#4290            | N/A     | N/A             | N/A             | 
+| Margau CJ de Vaux-le-Pénil#1974        | 1,40 m  | 0:00:10.965014  | 0               | 
+
+---------------------------------
+
+## Final leaderboard
+
+There were a total of 50 questions in this quiz.
+
+9 users participated.
+
+| #  | Username                               | Nickname                         | Points  | Correct  | Answered  | 
+| -- | -------------------------------------- | -------------------------------- | ------- | -------- | --------- | 
+| 1  | Cathy#7851                             | Cathy - Sarreguemines (57)       | 16020   | 20       | 48        | 
+| 2  | Alma CJ de Bordeaux#1871               | Alma - Bordeaux (33)             | 14078   | 18       | 50        | 
+| 3  | Ewen du CJ de Chateaubourg#7758        | Ewen - Châteaubourg (35)         | 13292   | 15       | 50        | 
+| 4  | KimieCJduGarric#7403                   | Kimie - Le Garric (81)           | 13230   | 16       | 50        | 
+| 5  | Cécile Encadrante CJ Luynes (37)#4741  | Cécile - Encadrante_Luynes (37)  | 11579   | 16       | 46        | 
+| 6  | Louve#1683                             | Laureline - Plaisir (78)         | 10944   | 15       | 31        | 
+| 7  | Marinette CJ de Luynes#4290            | Marinette - Luynes (37)          | 3557    | 5        | 20        | 
+| 8  | Anaël CJ de Cluses#7963                | Anaël - Cluses (74)              | 2417    | 3        | 8         | 
+| 9  | Margau CJ de Vaux-le-Pénil#1974        | Margau - Vaux-le-Pénil (77)      | 0       | 0        | 1         | 
+
+---------------------------------
+
+## Links
+
+Thank you for supporting and using the bot.
+
+[Vote for the bot](https://top.gg/bot/558996910581612545/vote?src=qbResultsFile)
+
+[QuizBot website](https://quizbot.xyz/)
+
+[Invite the bot](https://ihxyz.dev/bots/qb?src=qbResultsFile)
+
+[ihxyz development](https://ihxyz.dev/)
+
+[Support server](https://ihxyz.dev/bots/support)
+
+---------------------------------
