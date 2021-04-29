@@ -74,6 +74,7 @@ async def commands(message, client):
 
     # QUIZ COMMANDS
     if message.content.startswith('>quiz planning'):
+        import pandas as pd
         df = pd.read_excel("inputs/xlsx/planning.xlsx")
 
         def category(cat):
